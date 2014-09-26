@@ -2,7 +2,7 @@
 title: SPL Content
 baseurl: "/spl-content"
 collections:
-    pages:
+    content:
         output: true
 prose:
     rooturl: "_pages"
