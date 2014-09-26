@@ -5,7 +5,7 @@ collections:
     content:
         output: true
 prose:
-    rooturl: "_pages"
+    rooturl: "_content"
     metadata:
         _posts:
             - name: "layout"
