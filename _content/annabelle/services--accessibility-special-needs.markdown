@@ -4,18 +4,13 @@ title: "Accessibility & special needs"
 published: true
 ---
 
-We endeavor to make the library a welcoming place for people of all abilities. Our building is ADA-compliant and we have many free services and devices for persons with disabilities. For more information, contact Dawn Wlezien at 847-324-3185 or dwlezien@skokielibrary.info. 
+We strive to make the library a welcoming place for people of all abilities. Our building is ADA-compliant; some of our many free services and devices for persons with disabilities are listed below. For more information, contact Dawn Wlezien at 847-324-3185 or dwlezien@skokielibrary.info. 
 
-##Assistive Devices, Technology, and Resources
+##Assistive Devices and Technology
 - Wheelchair and scooters
 - Sound amplification in auditorium and meeting rooms
 - Computers with JAWS and ZoomText software
 - Braille printer 
-- Braille books
-- VisualTek enlarger and portable enlargers for loan
-- Home delivery of books, DVDs, and CDs
+- VisualTek enlargers
 
 ##Talking Books Discussion
-
-
-
