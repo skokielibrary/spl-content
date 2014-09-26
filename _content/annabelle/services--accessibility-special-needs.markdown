@@ -4,7 +4,7 @@ title: "Accessibility & special needs"
 published: true
 ---
 
-We strive to make the library a welcoming place for people of all abilities. Our building is ADA-compliant; some of our many free services and devices for persons with disabilities are listed below. For more information, contact Dawn Wlezien at 847-324-3185 or dwlezien@skokielibrary.info. 
+We strive to make the library a welcoming place for people of all abilities. Our building is ADA-compliant; some of our many free services for persons with disabilities are listed below. For more information, contact Dawn Wlezien at 847-324-3185 or dwlezien@skokielibrary.info. 
 
 ##Assistive Devices and Technology
 - Wheelchair and scooters
