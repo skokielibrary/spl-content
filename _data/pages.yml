@@ -1,0 +1,66 @@
+- title: Account
+  pages:
+    - ['eileen/account.html', 'Account']
+    - ['eileen/account--apply.html', 'Apply for a library card']
+    - ['eileen/account--library-cards.html', 'Library cards']
+    - ['eileen/account--preferences.html', 'Preferences (?)']
+
+- title: Events
+  pages:
+    - ['amita/events.html', 'Events (?)']
+    - ['lynnanne/events--author-visits.html', 'Author visits (?)']
+    - ['christie/events--performances.html', 'Performances']
+    - ['christie/events--performances--young-steinway.html', 'Young Steinway']
+    - ['amita/events--propose-program.html', 'Propose a program']
+    - ['mick/events--technology-classes.html', 'Technology classes (?)']
+    - ['mick/events--technology--classes--presentations-handouts.html', 'Presentations & handouts']
+
+- title : Books, movies, more
+  pages:
+    - ['lynnanne/books-movie-more--local-authors.html', 'Local authors']
+    - ['lynnanne/books-movies-more--book-discussions.html', 'Book discussions']
+    - ['annabelle/books-movies-more--ebooks-more.html', 'eBooks & more']
+    - ['annabelle/books-movies-more--finding-items.html', 'Finding items']
+    - ['lynnanne/books-movies-more--staff-recommendations--bookmatch.html', 'BookMatch']
+    - ['lynnanne/books-movies--more--book-discussions--book-kits.html', 'Book kits']
+
+- title : Resources
+  pages:
+    - ['bruce/resources--homework-help.html', 'Homework help']
+    - ['bruce/resources--learn-language.html', 'Learn a language']
+    - ['jessica/resources--local-history.html', 'Local history']
+    - ['mick/resources--online-training-tutorials.html', 'Online training & tutorials']
+    - ['mandy/resources--parenting.html', 'Parenting']
+    - ['bruce/resources--research-topic.html', 'Research']
+    - ['bruce/bruce/resources--research-topic--consumer-help.html', 'Consumer help']
+    - ['resources--research-topic--genealogy.html', 'Genealogy']
+    - ['resources--research-topic--investing-finance.html', 'Investing and finance']
+
+- title : Services
+  pages:
+    - ['annabelle/services--accessibility-special-needs.html', 'Accessibility & special needs']
+    - ['annabelle/services--bookmobile.html', 'Bookmobile']
+    - ['services--business-services.html', 'Business services']
+    - ['services--business-services--business-center.html', 'Business center']
+    - ['mike/services--career-advice.html', 'Career advice']
+    - ['mick/services--computers-wifi.html', 'Computers, WiFi']
+    - ['mick/services--copying-faxing-scanning.html', 'Copying, faxing scanning']
+    - ['mick/services--devices-technology.html', 'Devices & technology (?)']
+    - ['mick/services--devices-technology--steam-kits.html', 'STEAM kits']
+    - ['mick/services--learning-labs.html', 'Learning labs (?)']
+    - ['mick/services--learning-labs--boombox.html', 'BOOMbox']
+    - ['mick/services--learning-labs--dml.html', 'DML']
+    - ['mick/services--study-meeting-rooms.html', 'Study & meeting rooms']
+    - ['jenny/services--teachers-schools.html', 'Teachers & schools']
+    - ['jenny/services--teachers-schools--bookbag-request.html', 'Bookbag request']
+
+- title : About
+  pages:
+    - ['christie/about--board.html', 'Board']
+    - ['christie/about--board--foia.html', 'FOIA']
+    - ['eileen/about--borrowing-fees.html', 'Borrowing & fees']
+    - ['annabelle/about--contact-us.html', 'Contact us']
+    - ['christie/about--exhibits.html', 'Exhibits']
+    - ['christie/about--history-art.html', 'History & art']
+    - ['christie/about--policies.html', 'Policies']
+    - ['christie/about--staff.html', 'Staff (?)']
