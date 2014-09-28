@@ -19,15 +19,3 @@ For extra help we provide online tools to assist you in a job search. These tool
 - **The Careers College** The portal blends online educational learning modules, job search tools, and complementary career resources to help you navigate the job search process and land the ideal job. The site has sections on Conducting the Job Search, Preparing for Job Interviews, Resume Templates, and more. 
 **- Career Center from Tutor.com** Career Center is organized into sections on Career Help, GED Preparation, Citizenship, and Back to School. The Career Help section includes resources to help write resumes and cover letters. Resumes and cover letters can be uploaded and evaluated by career experts using ProofPoint. ProofPoint is available from 3:00 to 10:00pm only. 
 - item
-
-
-
-
-
-
-
-
-
-
-
-
