@@ -1,0 +1,13 @@
+<nav class="wrapper">
+    <ul class="nav">
+        {% for directory in site.data.pages %}
+        <li>{{ directory.title }}
+            <ul class="subnav">
+            {% for page in directory.pages %}
+                <li><a href="/{{ site.baseurl }}content/{{ page[0] }}">{{ page[1] }}</a></li>
+            {% endfor %}
+            </ul>
+        </li>
+        {% endfor %}
+    </ul>
+</nav>
