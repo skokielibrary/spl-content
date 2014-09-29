@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bookmobile schedule
+title: Bookmobile
 published: true
 ---
 
