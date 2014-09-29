@@ -241,6 +241,11 @@ nav ul{margin: 0; padding: 0; list-style: none;}
 /**
  * Posts
  */
+ .post{
+     width: 70%;
+     margin: auto;
+ }
+
 .post-header {
     margin-bottom: $spacing-unit;
 }
