@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-    background: $grey-color-dark;
+    background: $grey-color;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -98,11 +98,20 @@ nav ul{margin: 0; padding: 0; list-style: none;}
         position: relative;
         display: inline-block;
         padding: 6px 2rem 6px .5rem;
+        text-transform: uppercase;
+        cursor: pointer;
 
         &:hover > ul{margin-left: 0;}
 
-        > a{position: relative; display: block;}
+        &:after{
+            content:' \25BC';
+            color: $grey-color;
+            font-size: 90%;
+        }
+
+        > a{position: relative; display: block; }
     }
+
 }
 .subnav{
     position: absolute;
@@ -110,13 +119,13 @@ nav ul{margin: 0; padding: 0; list-style: none;}
     left: 0;
     float: left;
     margin-left: -9999px;
-    background: $grey-color;
     border-top: 4px solid $red-color;
 
     > li > a{
         display: block;
         padding: 4px 8px;
         white-space: nowrap;
+        text-transform: none;
 
         &:hover{
             background-color: #EE3E2C;
