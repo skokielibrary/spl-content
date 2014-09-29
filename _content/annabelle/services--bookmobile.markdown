@@ -15,6 +15,7 @@ If you'd like us to put an item on the Bookmobile for you, call 847-673-7774 at 
 ##Schedule
 
 ###Monday
+
 Jane Stenson Elementary School
 2:30 to 3:30 pm
 Lockwood Avenue and Church Street
@@ -23,6 +24,7 @@ Church Street and Springfield Avenue
 4:00 to 5:30 pm
 
 ###Tuesday
+
 Weber Leisure Center
 9:45 to 10:30 am
 Church Street and Gross Point Road
@@ -48,6 +50,7 @@ Timber Ridge Park
 Lawndale Avenue and Grove Street
 
 ###Thursday
+
 Highland Elementary School
 3:15 to 4:00 pm
 Payne Street and Keystone Avenue
@@ -61,6 +64,7 @@ Optima Towers Old Orchard Woods
 9645 Woods Drive
 
 ###Friday
+
 Devonshire Elementary School
 2:30 to 3:30 pm
 Grove Street and Kenneth Avenue
@@ -70,6 +74,7 @@ Central Park
 Central Park Avenue and Lyons Street
 
 ###Saturday
+
 Navajo Park
 10:00 to 10:30 am
 Lee Street and Avers Avenue
