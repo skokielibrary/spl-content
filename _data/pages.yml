@@ -40,8 +40,8 @@
   pages:
     - ['annabelle/services--accessibility-special-needs.html', 'Accessibility & special needs']
     - ['annabelle/services--bookmobile.html', 'Bookmobile']
-    - ['services--business-services.html', 'Business services']
-    - ['services--business-services--business-center.html', 'Business center']
+    - ['terry/services--business-services.html', 'Business services']
+    - ['terry/services--business-services--business-center.html', 'Business center']
     - ['mike/services--career-advice.html', 'Career advice']
     - ['mick/services--computers-wifi.html', 'Computers, WiFi']
     - ['mick/services--copying-faxing-scanning.html', 'Copying, faxing scanning']
