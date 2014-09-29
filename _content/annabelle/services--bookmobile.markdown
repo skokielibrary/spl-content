@@ -40,7 +40,7 @@ Krasnow House
 Gross Point Road and Le Claire Avenue
 
 East Prairie School
-3:30 to 3:45 pm
+3:00 to 3:45 pm
 Howard Street and East Prairie Road
 
 Timber Ridge Park
