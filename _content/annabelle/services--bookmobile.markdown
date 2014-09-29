@@ -6,7 +6,7 @@ published: true
 
 Our Bookmobile brings books, DVDs, and more to locations throughout Skokie five days a week.
 
-If you'd like us to put an item on the Bookmobile for you, call 847-673-7774 at least one day in advance. For more information on Bookmobile services, contact Gail Dunlap at TK. 
+If you'd like us to put an item on the Bookmobile for you, call 847-673-7774 at least one day in advance. For more information on Bookmobile services, email Gail Dunlap at gdunlap@skokielibrary.info. 
 
 ##Stops
 
