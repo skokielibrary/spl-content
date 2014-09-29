@@ -54,7 +54,7 @@ Payne Street and Keystone Avenue
 
 Lawler Park
 4:30 to 5:30 pm
-Labergne Avenue and Old Orchard Road
+Lavergne Avenue and Old Orchard Road
 
 Optima Towers Old Orchard Woods
 5:45 to 6:15 pm
