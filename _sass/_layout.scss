@@ -2,8 +2,7 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    background: $grey-color-dark;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -11,7 +10,7 @@
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 100%;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -86,7 +85,45 @@
     }
 }
 
+/*dropdown nav*/
 
+nav ul{margin: 0; padding: 0; list-style: none;}
+
+.nav{
+    position: relative;
+    margin-top: 1em;
+    border-bottom: 4px solid $grey-color;
+
+    > li{
+        position: relative;
+        display: inline-block;
+        padding: 6px 2rem 6px .5rem;
+
+        &:hover > ul{margin-left: 0;}
+
+        > a{position: relative; display: block;}
+    }
+}
+.subnav{
+    position: absolute;
+    top: 100%;
+    left: 0;
+    float: left;
+    margin-left: -9999px;
+    background: $grey-color;
+    border-top: 4px solid $red-color;
+
+    > li > a{
+        display: block;
+        padding: 4px 8px;
+        white-space: nowrap;
+
+        &:hover{
+            background-color: #EE3E2C;
+            color: #fff;
+        }
+    }
+}
 
 /**
  * Site footer
@@ -198,9 +235,10 @@
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 36px;
     letter-spacing: -1px;
     line-height: 1;
+    text-transform: uppercase;
 
     @include media-query($on-laptop) {
         font-size: 36px;

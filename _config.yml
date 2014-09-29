@@ -1,5 +1,5 @@
 # Site settings
-title: SPL Content
+title: Skokie Public Library
 baseurl: "/spl-content"
 collections:
     content:
