@@ -4,7 +4,7 @@ title: Bookmobile
 published: true
 ---
 
-Our Bookmobile is a mobile library that brings books, DVDs, and more to locations throughout Skokie five days a week. You can use your library card to check out and return items just as you would inside the library.
+Our Bookmobile is a mobile library that brings books, DVDs, and more to locations throughout Skokie five days a week. You can use your library card to check out and return items just as you would inside the library building.
 
 If you'd like us to put an item on the Bookmobile for you, call 847-673-7774 at least one day in advance. For more information on Bookmobile services, email Gail Dunlap at gdunlap@skokielibrary.info. 
 
