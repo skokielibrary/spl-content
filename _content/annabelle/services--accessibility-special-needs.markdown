@@ -15,7 +15,7 @@ We strive to make the library a welcoming place for people of all abilities. Our
 - Braille books for children
 
 ##Talking Books discussion group
-Those with visual impairments are invited to this monthly discussion of fiction and nonfiction works. We'll mail Talking Books cassettes from the Library of Congress to all registered participants several weeks prior to the discussion. To learn more, contact discussion leader Lee Leibik at 847-972-5651.
+Those with visual impairments are invited to this monthly discussion of fiction and nonfiction works. We'll mail Talking Books cassettes from the Library of Congress to all registered participants several weeks prior to the discussion. To learn more, contact discussion leader Lee Leibik at 847-972-5651 or lleibik@skokielibrary.info.
 
 ##Homebound delivery
 If you have a Skokie Public Library card but can't have a temporary disability or can't visit the library in person, we can select and deliver library materials to your home on a regular basis. To set up delivery, contact Lee Leibik at 847-972-5651 or lleibik@skokielibrary.info. 
