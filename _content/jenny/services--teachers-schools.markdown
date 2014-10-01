@@ -5,6 +5,9 @@ published: true
 ---
 
 ## Library Resources for Skokie School Teachers
+Find detailed information about our services in the [Teacher Toolkit](http://www.skokielibrary.info/s_kids/kd_homework/teachers/Teacher-Toolkit-2014.pdf "Teacher Toolkit")!
+
+[Nine Things to Know PDF here]
 
 ### Contact Us
 Give Jenny, the School Services Liason, a call 847-972-5645 / jwilkin@skokielibrary.info
