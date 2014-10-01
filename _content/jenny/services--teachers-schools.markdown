@@ -4,10 +4,10 @@ title: "Teachers & schools"
 published: true
 ---
 
-Library Resources for Skokie School Teachers
+## Library Resources for Skokie School Teachers
 
-## Jenny Wilkin is our school services liaison.
-Get in touch with her anytime: 847-972-5645 / jwilkin@skokielibrary.info
+### Contact Us
+Give Jenny, the School Services Liason, a call 847-972-5645 / jwilkin@skokielibrary.info
 
 ### Cards for Teachers
 - Every teacher in a Skokie school can get a library card to check out materials for classroom use.
