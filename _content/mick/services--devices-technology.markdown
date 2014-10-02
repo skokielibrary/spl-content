@@ -5,8 +5,8 @@ published: true
 ---
 
 ##Items that can be taken home.
-###Digital Creation 
 These items can can be checked out from the Library for 7 days.
+###Digital Creation 
 - Zoom H2 Handy MP3 recorders
 - Flip Video recorders
 - Lacie and Seagate portable hard drives
