@@ -26,7 +26,7 @@ Meet and network with fellow job seekers at the Skokie Career Support Group.  We
 For extra help we provide online tools to assist you in a job search. These tools go beyond the help you can find in books and on the internet alone and provide added value. These include:
 - **The Careers College** Get your career search organized by using The Careers College. Follow the complete guide or jump into individual sections that cover the individual aspects of the career search you need help with such as staying motivated,  interviewing skills and developing marketing material like resumes and LinkedIn profiles. 
 - **Career Center from Tutor.com** Career Center is organized into sections on Career Help, GED Preparation, Citizenship, and Back to School. The Career Help section includes resources to help write resumes and cover letters. Resumes and cover letters can be uploaded and evaluated by career experts using ProofPoint. ProofPoint is available from 3:00 to 10:00pm only. 
-- **Online Training** Check the library's collection of _online training tools_ to learn or review technical skills, review certification and employments exams 
+- **Online Training** Check the library's collection of _Tutorial and Practice Exam Sites_ to take an online class on MSOffice or some other computer application. Use these courses to develop your technical skills or to practice certification, employment or placement exams. 
 
 **###Ready to Start a Business?**
 An option you may want to consider instead of looking for a new job is to start your own business. Check our Business Resources to find SCORE counselors and other resouces to help you get started.
