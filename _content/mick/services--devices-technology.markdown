@@ -16,7 +16,7 @@ These items can can be checked out from the Library for 7 days from the Tech. He
 - Canon and Nikon point and shoot cameras
 - GoPro video cameras (image - gif - of somebody wearing a GoPro would be good on this page)
 
-These items can be used in the Library. They are found at the Tech. Help Desk on the 2nd floor and the Adult Digital Media.
+These items can be used in the Library. They are found at the Tech. Help Desk on the 2nd floor and in the Adult Digital Media.
 - Scanners
 - Speakers
 - Microphones
