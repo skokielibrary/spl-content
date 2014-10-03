@@ -4,7 +4,6 @@ title: "Devices & technology (?)"
 published: true
 ---
 
-
 ###Digital Creation 
 These items can can be checked out from the Library for 7 days from the Tech. Help Desk on the 2nd floor.
 - MP3 recorders
@@ -51,3 +50,5 @@ These items can can be checked out from the Library for 7 days from the Youth Se
 - Solar Telescope Kit
 - Take-apart Human Body Kit
 - Telescope Kit
+
+If you have a suggestion for other items we should check out please let us know. <insert email address or form>
