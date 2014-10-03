@@ -25,15 +25,14 @@ One stand-up computer is located in the Travel area.
 The High School Digital Media Lab is located on the first floor. This lab contains three Apple desktop computers running Mac OS and other software enabling users to creatively express themselves through digital videos, music, photography, websites, graphic design, podcasts, presentations and other forms of digital media.
 
 ###Computers for Kids
-The Youth Services Department has several computers that have been set up and configured  especially for children in preschool through 8th grade.
+Several computers that have been set up and configured  especially for children in preschool through 8th grade.
 - Three preschool computers for children ages 2 to 7 are available in the Preschool Area.
 - Two game computers for children in kindergarten through 8th grade are available near the craft room in the Youth Services Department
 - Four homework computers for children in kindergarten through 8th grade are located in  the Youth Services study room alcove.
 - Twelve Internet computers for children in kindergarten through 8th grade are available in the Youth Computer Lab.
-- Four iMac computers are available in the Youth Services Digital Media Lab.
+- Four iMac computers are available in the Youth Digital Media Lab.
 
-The preschool, game, and homework computers are available when the Library opens and are turned off 15 minutes before Library closing.
-Internet and Digital Media Lab computers are available according to the Youth Computer Lab schedule.
+The preschool, game, and homework computers are available when the Library opens and are turned off 15 minutes before Library closing. Internet and Youth Digital Media Lab computers are available according to the Youth Computer Lab schedule.
 
 ##WiFi
 We off free wireless internet connection.  Wireless printing is also available.
@@ -45,5 +44,3 @@ We off free wireless internet connection.  Wireless printing is also available.
 - Unclaimed print jobs will be deleted four hours after they are sent.
 - If you plan to use wireless printing on a regular basis, print from a mobile device, or print webpages that require a login, you must download and install the PrintWhere driver.
 - To print an email message or attachment from a mobile device forward your email to [skokie-adultservices@printspots.com](skokie-adultservices@printspots.com). You will be sent a confirmation email for each message and attachment.
-
-
