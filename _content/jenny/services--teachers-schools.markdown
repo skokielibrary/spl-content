@@ -13,10 +13,11 @@ Find detailed information about each of our services in the [Teacher Toolkit](ht
 Give Jenny, the School Services Liason, a call 847-972-5645 / jwilkin@skokielibrary.info
 
 ### Cards for Teachers
-- Every teacher in a Skokie school can get a library card to check out materials for classroom use.
+- Every teacher in a Skokie school can get a library card to check out materials for classroom use. 
 
 ### Request a Resource Bag
-- Request a Resource Bag, a collection of materials selected by librarians on your topic and checked out for you to pick up.
+- Request a Resource Bag, a collection of materials selected by librarians on your topic and checked out for you to pick up. Send your requests to schoolservices@skokielibrary.info. Please include your name, phone number, email address, school, grade level, type of material (Fiction, nonfiction, audio/visual), the subjects or titles for your resources, and the date they are needed by. 
+*Please allow one week for your resource bag to be prepared.*
 
 ### Classroom Sets
 - We have a large collection of classroom sets that include multiple copies of a book that can be used in reading groups or book discussions.
@@ -31,17 +32,4 @@ Give Jenny, the School Services Liason, a call 847-972-5645 / jwilkin@skokielibr
 The STEAM kits check out for one week and can be renewed 3 times unless reserved.
 
 ### Classroom Visits
-- Sign up to bring your class to the library or request that we visit your classroom for a puppet show or book talk.
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Sign up to bring your class to the library or request that we visit your classroom for a puppet show or book talk. Library visits take place October through March on Monday 1-2:30, Wednesday 9:30-11, and Thursday 1-2:30. Puppet shows will be visiting schools throughout November and March. Send your requests to schoolservices@skokielibrary.info. Please include your name, phone number, email address, school, grade level, and preferred day of the week for the visit.
