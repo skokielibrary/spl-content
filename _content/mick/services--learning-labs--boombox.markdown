@@ -4,6 +4,7 @@ title: BOOMbox
 published: true
 ---
 
-## The Space
-## 
-
+## What
+## Where
+## Why
+## What is in the space
