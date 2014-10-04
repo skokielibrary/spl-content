@@ -5,7 +5,7 @@ published: true
 ---
 
 ###Digital Creation 
-These items can can be checked out from the Library for 7 days from the Tech. Help Desk on the 2nd floor.
+These items can can be checked out with a Skokie Library card for 7 days from the Tech. Help Desk on the 2nd floor.
 - MP3 recorders
 - Flip Video recorders
 - Lacie and Seagate portable hard drives
@@ -15,7 +15,7 @@ These items can can be checked out from the Library for 7 days from the Tech. He
 - Canon and Nikon point and shoot cameras
 - GoPro video cameras (image - gif - of somebody wearing a GoPro would be good on this page)
 
-These items can be used in the Library. They are found at the Tech. Help Desk on the 2nd floor and in the Adult Digital Media.
+These items can be used in the Library. They are found at the Tech. Help Desk on the 2nd floor and in the Adult Digital Media. 
 - Scanners
 - Speakers
 - Microphones
@@ -32,7 +32,7 @@ These items can be used in the Library. They are found at the Tech. Help Desk on
 
 
 ###STEAM kits
-These items can can be checked out from the Library for 7 days from the Youth Services Desk on the 1st floor.
+These items can can be checked out from the Library for 7 days from the Youth Services Desk on the 1st floor wiht a Skokie Library card.
 - Bliptronic 5000 Music Kit(image may be helpful as well for many of the STEAM kits as people may not have a reference to understand what they are), these should all be linked to their catalog entries
 - Cardboard Construction Kit
 - Digital Microscope Kit
