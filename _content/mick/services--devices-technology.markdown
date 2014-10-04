@@ -33,12 +33,13 @@ These items can be used in the Library. They are found at the Tech. Help Desk on
 - Cassette to Digital converter
 - Blu-ray burner
 
-
 ##STEAM kits
 
-These items can can be checked out from the Library for 7 days from the Youth Services Desk on the 1st floor.
+These items can can be checked out from the Library for 7 days from the Youth Services Desk on the 1st floor wiht a Skokie Library card.
 
-- Bliptronic 5000 Music Kit(image may be helpful as well for many of the STEAM kits as people may not have a reference to understand what they are), these should all be linked to their catalog entries
+[image may be helpful as well for many of the STEAM kits as people may not have a reference to understand what they are), these should all be linked to their catalog entries]
+
+- Bliptronic 5000 Music Kit
 - Cardboard Construction Kit
 - Digital Microscope Kit
 - Dinosaur Fossil Kit

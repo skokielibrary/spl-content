@@ -4,9 +4,12 @@ title: DML
 published: true
 ---
 
-## What are the Digital Media Labs?
+[In a sidebar have a list of DML classes coming up, also (eventually) a 1 on 1 class booking widget. Also perhaps a widget of people working in the space.]
 
-Our Digital Media Labs were created to help Skokie Library card holders create music, produce movies, edit images and designs, digitize records/VHS/images/etc., design websites, and much more.
+Our Digital Media Labs were created to help Skokie Library card holders create music, produce movies, edit images and designs, digitize records/VHS/images/etc., design websites, and much more.  
+
+##Tutorials
+Links to tutorials - print or video here
 
 ##Adult Digital Media Lab
 
