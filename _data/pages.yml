@@ -30,7 +30,6 @@
     - ['bruce/resources--learn-language.html', 'Learn a language']
     - ['jessica/resources--local-history.html', 'Local history']
     - ['mick/resources--online-training-tutorials.html', 'Online training & tutorials']
-    - ['mandy/resources--parenting.html', 'Parenting']
     - ['bruce/resources--research-topic.html', 'Research']
     - ['bruce/bruce/resources--research-topic--consumer-help.html', 'Consumer help']
     - ['resources--research-topic--genealogy.html', 'Genealogy']
@@ -53,6 +52,7 @@
     - ['mick/services--study-meeting-rooms.html', 'Study & meeting rooms']
     - ['jenny/services--teachers-schools.html', 'Teachers & schools']
     - ['jenny/services--teachers-schools--bookbag-request.html', 'Bookbag request']
+    - ['mandy/services--parents.html', 'Parents']
 
 - title : About
   pages:
