@@ -6,6 +6,8 @@ published: true
 
 ##What are the Digital Media Labs?
 Our Digital Media Labs were created to help Skokie Library card holders create music, produce movies, edit images and designs, digitize records/VHS/images/etc., design websites, and much more.  
+##Tutorials
+Links to tutorials - print or video here
 ##Adult Digital Media Lab
 ###Eqipment
 - Apple iMac desktops (4)
