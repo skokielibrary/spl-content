@@ -84,7 +84,7 @@ Our Digital Media Labs were created to help Skokie Library card holders create m
        - Prelude
        - Bridge
        - Media Encoder
-   - Adobe Photoshop Elements 11 (on all terminals)
+   - Adobe Photoshop Elements 11 
    - Final Cut Studio
        - Final Cut Pro 7
        - Motion 4
@@ -120,4 +120,24 @@ Our Digital Media Labs were created to help Skokie Library card holders create m
    - Xcode
 
 ##High School Digital Media Lab
+###Equipment
+- 3 iMac Apple Computers
+- Blue Nessie Microphones (available for check out at the Reader Services Desk)
+- Headphones (available for check out at the Reader Services Desk)
+###Software
+ - Mac OS X v.10.8 (Mountain Lion)
+   - iLife '11
+       - iMovie
+       - iPhoto
+       - Garage Band (plus Garage Band Jam Packs)
+       - iWeb
+   - iTunes
+   - Adobe Photoshop Elements 11 
+   - Chrome
+   - Firefox
+   - Google Earth
+   - Handbrake
+   - Safari
 ##Youth Digital Media Lab
+###Equipment
+###Software
