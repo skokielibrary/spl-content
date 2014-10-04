@@ -12,7 +12,6 @@
 .site-title {
     font-size: 100%;
     line-height: 56px;
-    letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
 
@@ -23,7 +22,6 @@
 }
 
 .site-nav {
-    float: right;
     line-height: 56px;
 
     .menu-icon {
@@ -92,7 +90,7 @@ nav ul{margin: 0; padding: 0; list-style: none;}
 .nav{
     position: relative;
     margin-top: 1em;
-    border-bottom: 4px solid $grey-color;
+    margin-left: -.5rem;
 
     > li{
         position: relative;
@@ -105,8 +103,8 @@ nav ul{margin: 0; padding: 0; list-style: none;}
 
         &:after{
             content:' \25BC';
-            color: $grey-color;
-            font-size: 90%;
+            font-size: 50%;
+            vertical-align: middle;
         }
 
         > a{position: relative; display: block; }
