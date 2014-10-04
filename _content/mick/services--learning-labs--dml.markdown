@@ -34,5 +34,90 @@ Our Digital Media Labs were created to help Skokie Library card holders create m
 - Yeti Pro USB Microphone (2)
 ###Software
 
+   - Mac OS X v.10.8 (Mountain Lion)
+   - iLife '11
+       - iMovie
+       - iPhoto
+       - Garage Band (plus Garage Band Jam Packs)
+       - iWeb
+   - iTunes
+   - iWork 09
+       - Pages
+       - Numbers
+       - Keynote
+   - Adobe Creative Suite 6 Master Collection
+      -  Photoshop Extended
+      -  Illustrator
+      -  InDesign
+      -  Acrobat X Pro
+      -  Flash Professional
+      -  Flash Builder
+      -  Dreamweaver
+      -  Fireworks
+      -  Premiere Pro
+      -  After Effects
+      -  Audition
+      -  Speedgrade
+      -  Prelude
+      -  Encore
+      -  Bridge
+      -  Media Encoder
+  - Adobe Creative Suite 6 Design & Web Premium
+        - InDesign
+        - Photoshop Extended
+        - Illustrator
+        - Flash Professional
+        - Dreamweaver
+        - Fireworks
+        - Acrobat X Pro
+        - Bridge
+        - Media Encoder
+    - Adobe Creative Suite 6 Production Premium
+       - Premiere Pro
+       - After Effects
+       - Photoshop Extended
+       - Audition
+       - Flash Professional
+       - Illustrator
+       - Speedgrade
+       - Encore
+       - Prelude
+       - Bridge
+       - Media Encoder
+   - Adobe Photoshop Elements 11 (on all terminals)
+   - Final Cut Studio
+       - Final Cut Pro 7
+       - Motion 4
+       - Soundtrack Pro 3
+       - Color 1.5
+       - Compressor 3.5
+       - DVD Studio Pro 4
+    - Final Cut X
+   - Anime Studio Debut
+   - Audodesk Sketchbook Express
+   - Blender 3D
+   - Burn
+   - EZVinyl Converter
+   - Firefox
+   - Google Earth
+   - Handbrake
+   - iBooks Author
+   - Logic Pro 9
+   - Apple Mainstage
+   - Manga Studio EX4
+   - MP Navigator
+   - MPlayerX
+   - Nik Color Efex
+   - Printfolio
+   - ReplicatorG
+   - Roxio Toast 11 Titanium
+   - Safari
+   - Scratch 2.0
+   - Screenflow
+   - SkeinForge
+   - Thousands of stock photos  and videos
+   - VuScan
+   - Xcode
+
 ##High School Digital Media Lab
 ##Youth Digital Media Lab
