@@ -22,7 +22,7 @@ Wireless laptop computers can be checked out at the Technology Help Desk. Patron
 One stand-up computer is located in the Travel area. 
 ###Computers for High School Students
 - High School Digital Media Lab
-The High School Digital Media Lab is located on the first floor. This lab contains three Apple desktop computers running Mac OS and other software enabling users to creatively express themselves through digital videos, music, photography, websites, graphic design, podcasts, presentations and other forms of digital media.
+The High School Digital Media Lab is located on the first floor. This Lab contains three Apple desktop computers running Mac OS and other software enabling users to creatively express themselves through digital videos, music, photography, websites, graphic design, podcasts, presentations and other forms of digital media.
 
 ###Computers for Kids
 Several computers that have been set up and configured  especially for children in preschool through 8th grade.
