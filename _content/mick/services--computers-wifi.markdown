@@ -6,7 +6,7 @@ published: true
 
 ## [Reserve a Computer](computer reservation link) 
 
-##Where are the computers
+##Where are the computers?
 ###Computers for Adults
 - Adult Computer Classroom 
 Located on the second floor, this Computer Classroom has eleven full-service Internet/Microsoft Office computers, two scanning station, and printers. Periodically, the Lab will close for a computer class; closings are posted in advance. During these classes, computers are available in other areas of the Library. Computers may be used for one hour, though time can be extended if no one is waiting.
@@ -39,8 +39,8 @@ We off free wireless internet connection.  Wireless printing is also available.
 
 ###Wireless Printing
 - Visit Skokie Public Library's PrintSpot webpage to send print jobs to the Library's printers from a laptop connected to the Library's wireless network or from any computer outside of the Library with an Internet connection.
-- The cost for black and white printing is 10¢ per page. Color printing is currently not available through PrintSpot.
-- Print jobs can be retrieved at the Print Release Stations found in the Library's Computer Commons (second floor).
+- The cost for black and white printing is 10¢ per page. Color printing is currently not available.
+- Print jobs can be retrieved at the Print Release Stations found in Computer Commons (second floor).
 - Unclaimed print jobs will be deleted four hours after they are sent.
-- If you plan to use wireless printing on a regular basis, print from a mobile device, or print webpages that require a login, you must download and install the PrintWhere driver.
+- If you plan to use wireless printing on a regular basis, print from a mobile device, or print webpages that require a login, we recommned you download and install the [PrintWhere driver](http://www.printeron.com/services-support/downloads.html).
 - To print an email message or attachment from a mobile device forward your email to [skokie-adultservices@printspots.com](skokie-adultservices@printspots.com). You will be sent a confirmation email for each message and attachment.
