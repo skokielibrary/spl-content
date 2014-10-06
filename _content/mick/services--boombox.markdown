@@ -4,9 +4,9 @@ title: BOOMbox
 published: true
 ---
 
-Like the DML, a sidebar or something indicating upcoming classes and scheduled drop-in times. The BOOMbox logo should appear on this page as well as photo of people working (or a widget with photo slideshow)
+Like the DML, a sidebar or something indicating upcoming classes and scheduled drop-in times. The BOOMbox logo should appear on this page as well as photo of people working (or a widget with photo slideshow). Also a widget that points to the skokiemakes.tumblr.com
 
-The BOOMbox is an experimental space designed to facilitate STEAM learning for all ages. Every few months the theme of the room will change, so check back. You can find the BOOMbox in the Youth Services Area of Library near 
+The BOOMbox is an experimental space designed to facilitate STEAM learning for all ages. Every few months the theme of the room will change, so check back. You can find the BOOMbox in the Youth Services Area of Library near the Junior High Area.
 
 ## Q1 (or whatever Vanessa comes up with in regards to defining the quarters) Fabrication.
 
