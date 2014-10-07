@@ -102,6 +102,7 @@ Links to tutorials - print or video here
        - DVD Studio Pro 4
     - Final Cut X
    - Anime Studio Debut
+   - Arduino
    - Audodesk Sketchbook Express
    - Blender 3D
    - Burn
@@ -110,6 +111,8 @@ Links to tutorials - print or video here
    - Google Earth
    - Handbrake
    - iBooks Author
+   - Inkscape 
+   - Inkscape Watercolorbot and Eggbot Extensions 
    - Logic Pro 9
    - Apple Mainstage
    - Manga Studio EX4
@@ -126,6 +129,8 @@ Links to tutorials - print or video here
    - Thousands of stock photos  and videos
    - VuScan
    - Xcode
+ 
+  
 
 ##High School Digital Media Lab
 
@@ -152,7 +157,27 @@ Links to tutorials - print or video here
    - Safari
 
 ##Youth Digital Media Lab
-
 ###Equipment
+- iMac 21.5 inch 2.7 GHz Intel core i5, 8 GB memory, 1 TB hard drive
+- USB superdrive
+- Yeti microphones (2)
+- 500 GB G-Technology External Hard Drive
+- Sony Bloggie Duo Camera
+- Sony Tripod VCT-R100
+- USB Mini Midi Keyboard
+- Nikon Coolpix Camera
+- Wacom Bamboo Tablet
+- Sony Headphones (2)
 
 ###Software
+- Photoshop Elements 11
+- iLife Suite
+- Mainstage
+- Google Earth
+- Comic Life 
+- Alice 2.3
+- Scratch 2.0
+- Bamboo Dock 
+- Inkscape 
+- Inkscape Watercolorbot and Eggbot Extensions 
+- Arduino
