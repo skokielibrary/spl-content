@@ -148,6 +148,7 @@ Links to tutorials - print or video here
        - iPhoto
        - Garage Band (plus Garage Band Jam Packs)
        - iWeb
+   - iBooks
    - iTunes
    - Adobe Photoshop Elements 11
    - Chrome
@@ -155,6 +156,7 @@ Links to tutorials - print or video here
    - Google Earth
    - Handbrake
    - Safari
+   - Xcode
 
 ##Youth Digital Media Lab
 ###Equipment
