@@ -65,6 +65,92 @@ Tk
 
 ##Literature Criticism Online&#8212;Something About the Author
 
+##Live Homework Help
+
+##Lynda.com Online Learning Library
+
+##Mango Languages
+
+##MasterFILE Premier from EBSCOhost
+
+##MEDLINE from OCLC FirstSearch
+
+##Mergent Online
+
+##Mergent WebReports
+
+##Morningstar Investment Research Center
+
+##Music Online from Alexander Street Press
+
+##Natural Standard
+
+##Naxos Music Library 
+
+##Naxos Music Library Jazz
+
+##netTrekker
+
+##Newspaper Source from EBSCOhost
+
+##NewspaperDirect PressDisplay
+
+##The New York Times via LexisNexis Library Express
+
+##NoveList
+
+##NoveList K-8 Plus
+
+##OCLC FirstSearch
+
+##Public Records Electronic Database
+
+##ReferenceUSA
+
+##Rosetta Stone Library Solution
+
+##Safari Books Online
+
+##Salem Health
+
+##Science Online from Facts on File
+
+##Searchasaurus
+
+##Skokie Newspaper Index
+
+##Skokie Obituary Index
+
+##Skokie Review on digital microfilm
+
+##Something About the Author
+
+##TeachingBooks.net
+
+##Treehouse Online Learning
+
+##TumbleBook Library for Kids
+
+##TumbleTalking Books Collection
+
+##Value Line Research Center
+
+##WestlawNext
+
+##World Book Online
+
+##WorldCat from OCLC FirstSearch
+
+
+
+
+
+
+
+
+
+
+
 
 
 
