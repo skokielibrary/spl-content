@@ -29,3 +29,42 @@ Tk
 
 ##Children's Literature Comprehensive Database
 
+##Consumer Health Complete from EBSCOhost 
+
+##ConsumerReports.org from EBSCOhost
+
+##Consumers' Checkbook
+
+##CultureGrams Online
+
+##Current Biography Illustrated
+
+##Early World of Learning from World Book Online
+
+##ERIC from OCLC FirstSearch
+
+##eSequels
+
+##Factiva
+
+##Gale Directory Library
+
+##Gale Virtual Reference Library
+
+##Hoover's Online
+
+##JSTOR
+
+##Kids Search from EBSCO
+
+##LearningExpress Library
+
+##LegalForms from Gale
+
+##LexisNexis Library Express
+
+##Literature Criticism Online&#8212;Something About the Author
+
+
+
+
