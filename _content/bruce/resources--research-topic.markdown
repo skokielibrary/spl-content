@@ -19,5 +19,13 @@ Tk
 
 ##CAMIO
 
+##Career Center from Tutor.com
 
+##The Careers College
+
+##Chicago Tribune 1849 to present via ProQuest
+
+##Chicago Tribune Digital Microfilm via ProQuest
+
+##Children's Literature Comprehensive Database
 
