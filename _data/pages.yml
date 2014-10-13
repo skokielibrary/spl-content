@@ -17,7 +17,7 @@
 
 - title : Books, movies, more
   pages:
-    - ['lynnanne/books-movie-more--local-authors.html', 'Local authors']
+    - ['lynnanne/books-movies-more--local-authors.html', 'Local authors']
     - ['lynnanne/books-movies-more--book-discussions.html', 'Book discussions']
     - ['annabelle/books-movies-more--ebooks-more.html', 'eBooks & more']
     - ['annabelle/books-movies-more--finding-items.html', 'Finding items']
@@ -26,7 +26,7 @@
 
 - title : Resources
   pages:
-    - ['bruce/resources--homework-help.html', 'Homework help']
+    - ['mandy/resources--homework-help.html', 'Homework help']
     - ['bruce/resources--learn-language.html', 'Learn a language']
     - ['jessica/resources--local-history.html', 'Local history']
     - ['mick/resources--online-training-tutorials.html', 'Online training & tutorials']
