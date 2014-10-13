@@ -6,8 +6,9 @@ published: true
 
 ##ABCMouse.com
 
-##Ancestry Library Edition
+##Ancestry Library Edition 
 Search billions of genealogy documents&#8212;including census, military, immigration, and birth and death records&#8212;in the library version of Ancestry.com.
+[Genealogy]
 
 ##Article First from OCLC FirstSearch
 
@@ -28,6 +29,7 @@ Search billions of genealogy documents&#8212;including census, military, immigra
 ##Chicago Tribune 1849 to present via ProQuest
 
 ##Chicago Tribune Digital Microfilm via ProQuest
+Browse full-image content from 2008 onward. After logging in, choose "Title Select" to connect to the Tribune. There's a lag of a few months before current editions appear in this resource (full-image views of this week's Trib are available in NewspaperDirect PressDisplay).
 
 ##Children's Literature Comprehensive Database
 
