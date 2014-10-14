@@ -57,7 +57,7 @@ For the health-conscious consumer, covers all areas of health and wellness from 
 
 ##ConsumerReports.org
 Find ratings and recommendations on appliances, electronics, cars, and more. Ratings, reviews, recommendation and buying advice from the source that buyers trust.
-[Consumer]
+[Consumer information]
 
 ##Consumers' Checkbook
 Local consumer information for home repair, personal services, health professionals and more. It includes Chicago Consumers' Checkbook. You'll be asked to register with Consumers' Checkbook for home use. Get ratins on local service firms and  stores, such as auto repair shops, plumbers, dentists, banks and more, covering the entire Chicagoland area.
@@ -186,11 +186,17 @@ A collection of animated, talking picture books, puzzles, and games.
 An online collection of eBooks and read-along chapter, graphic novels, an audio books.
 
 ##Value Line Research Center
-The latest information on stocks, mutual funds, special situation stocks, options, and convertible securities. Research reports from the various Value Line Survey publications may be viewed, printed and downloaded. 
+The latest information on stocks, mutual funds, options, and convertible securities. View, print and download research reports from the various _Value Line_ publications.
 
 ##WestlawNext
+A legal research service designed for use by the general public, featuring Illinois and federal decisions, statutes to all 50 states, and Illinois law reviews and practice manuals.
+[Legal help]
 
 ##World Book Online
+An online version of the popular encyclopedia that provides a general guide to all fields of learning.
+[Kids]
+[Homework help]
+[Available in library only]
 
 ##WorldCat from OCLC FirstSearch
-Millions of library records in 400 languages.
+Search the collections of thousands of libraries in the United States and around the world using this global catalog.
