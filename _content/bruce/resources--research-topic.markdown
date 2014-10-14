@@ -33,7 +33,7 @@ All-ages content from _Encyclop&#230;dia Briannica_ and _Britannica Concise Ency
 [General facts]
 
 ##CAMIO
-View thousands of high-resolution images from leading museums around the world. The images can be downloaded and are rights-cleared for educational use.
+Art lovers can view and download thousands of high-resolution images of from leading museums around the world.
 [Arts & literature]
 
 ##Career Center from Tutor.com
@@ -81,11 +81,16 @@ Narrated stories, games, and leveled reading practice for preschool and elementa
 [Kids]
 
 ##ERIC from OCLC FirstSearch
-Articles and reports on education for teachers, students, and 
+Index to journal articles, resources and research in the field of education.
+[Articles]
 
 ##eSequels
+Check the correct order of all your favorite novels with this resource, which allows you to search by author, title, location, character, or subject.
+[Arts & Literature]
 
 ##Factiva
+Full-text access to thousands of newspapers, magazines, and journals, including the _Chicago Sun-Times_, _The Wall Street Journal_, and _The New York Times_.
+[Articles]
 
 ##Gale Directory Library
 
@@ -93,8 +98,11 @@ Articles and reports on education for teachers, students, and
 More than 330 encyclopedias and specialezed reference sources. Search the entire collection or a particular subject area. Search encyclopedias and specialized reference sources.
 
 ##Hoover's Online
+Detailed reports of thousands of companies, including financials, news, and industry information. Also includes basic contact information for millions more private and public businesses.
+[Business]
 
 ##JSTOR
+Full-text access to academic journals and primary souraces in the arts, sciences, humanities, social sciences, and medicine. Issue dates range from historical to current.
 
 ##Kids Search from EBSCO
 
