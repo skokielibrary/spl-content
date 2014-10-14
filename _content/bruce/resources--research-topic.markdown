@@ -5,15 +5,12 @@ published: true
 ---
 
 ##ABCMouse.com
+[Kids]
 
 ##Ancestry Library Edition 
 Search billions of genealogy documents&#8212;including census, military, immigration, and birth and death records&#8212;in the library version of Ancestry.com.
 [Genealogy]
 [Available in-library only]
-
-##Article First from OCLC FirstSearch
-Searchable index of journal and magazine article citations from 1990 to present, covering business, science, technology, medicine, and pop culture.
-[Articles]
 
 ##Atomic Training
 Watch short video tutorials on popular software applications including Microsoft, Adobe, Apple, and Google products.
@@ -26,19 +23,28 @@ Step-by-step repair procedures, diagnostics, and diagrams for domestic and impor
 ##Britannica Global Reference Center
 Access encyclopedias and other reference resources written in Spanish, Korean, Chinese, French, and Japanese.
 [Homework help]
+[Kids]
 
 ##Britannica Online
 All-ages content from _Encyclop&#230;dia Briannica_ and _Britannica Concise Encyclopedia_, as well as videos and magazine articles.
 [Homework help]
+[Kids]
 
 ##CAMIO
+The Catalog of Art Museum Images Online contains thousands of high-resolution images from leading museums around the world. The images can be downloaded and are rights-cleared for educational use.
+[Arts & literature]
 
 ##Career Center from Tutor.com
+Get tips on job searching and interview prep. From 3 to 10 pm daily, upload resumes and cover letters and a career expert will provide feedback in 24 hours.
+[Job search]
 
 ##The Careers College
+Learn how to navigate the job search process with interactive tutorials, career resources, resume templates, self-evaluation forms and more.
+[Job search]
 
 ##Chicago Tribune (1849&#8210;present) from ProQuest
-Full-text coverage, 1849-current
+Search the newspaper's complete text; content from 1849 to 1987 includes images of articles, photographs, death notices, and ads. From 1987 to present, only text versions of articls and obituaries are available.
+[Articles]
 
 ##Chicago Tribune Digital Microfilm from ProQuest
 Browse full-image content from 2008 onward. After logging in, choose "Title Select" to connect to the Tribune. There's a lag of a few months before current editions appear in this resource (full-image views of this week's Trib are available in NewspaperDirect PressDisplay).
