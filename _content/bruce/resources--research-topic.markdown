@@ -52,9 +52,6 @@ Search the newspaper's complete text; content from 1849 to 1987 includes images 
 Browse full-image content from 2008 onward. After logging in, choose "Title Select" to connect to the _Tribune_. There's a lag of a few months before current editions appear in this resource (full-image views of this week's paper are available in NewspaperDirect PressDisplay).
 [Articles]
 
-##Children's Literature Comprehensive Database
-Reviews and information about childrens' books
-
 ##Consumer Health Complete
 Get health and wellness information from hundreds of health journals and refrence books covering mainstream and integrated medicine. You can browse and search by topic or condition.
 
