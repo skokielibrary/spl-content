@@ -28,7 +28,7 @@ Access encyclopedias and other reference resources written in Spanish, Korean, C
 [Homework help]
 
 ##Britannica Online
-All-ages content from Encyclopedia Briannica and Britannica Concise Encyclopedia, as well as videos and magazine articles.
+All-ages content from _Encyclop&#230;dia Briannica_ and _Britannica Concise Encyclopedia_, as well as videos and magazine articles.
 [Homework help]
 
 ##CAMIO
