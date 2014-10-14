@@ -24,14 +24,16 @@ Step-by-step repair procedures, diagnostics, and diagrams for domestic and impor
 Access encyclopedias and other reference resources written in Spanish, Korean, Chinese, French, and Japanese.
 [Homework help]
 [Kids]
+[General facts]
 
 ##Britannica Online
 All-ages content from _Encyclop&#230;dia Briannica_ and _Britannica Concise Encyclopedia_, as well as videos and magazine articles.
 [Homework help]
 [Kids]
+[General facts]
 
 ##CAMIO
-The Catalog of Art Museum Images Online contains thousands of high-resolution images from leading museums around the world. The images can be downloaded and are rights-cleared for educational use.
+View thousands of high-resolution images from leading museums around the world. The images can be downloaded and are rights-cleared for educational use.
 [Arts & literature]
 
 ##Career Center from Tutor.com
@@ -47,31 +49,39 @@ Search the newspaper's complete text; content from 1849 to 1987 includes images 
 [Articles]
 
 ##Chicago Tribune Digital Microfilm from ProQuest
-Browse full-image content from 2008 onward. After logging in, choose "Title Select" to connect to the Tribune. There's a lag of a few months before current editions appear in this resource (full-image views of this week's Trib are available in NewspaperDirect PressDisplay).
+Browse full-image content from 2008 onward. After logging in, choose "Title Select" to connect to the _Tribune_. There's a lag of a few months before current editions appear in this resource (full-image views of this week's paper are available in NewspaperDirect PressDisplay).
 [Articles]
 
 ##Children's Literature Comprehensive Database
+Reviews and information about childrens' books
 
 ##Consumer Health Complete
-For the health-conscious consumer, covers all areas of health and wellness from mainstream medicine to complementary, holistic, and integrated medicing.
+Get health and wellness information from hundreds of health journals and refrence books covering mainstream and integrated medicine. You can browse and search by topic or condition.
 
 ##ConsumerReports.org
-Find ratings and recommendations on appliances, electronics, cars, and more. Ratings, reviews, recommendation and buying advice from the source that buyers trust.
+Find ratings and recommendations on appliances, electronics, cars, and more from the popular consumer review resource.
 [Consumer information]
+[Cars]
 
 ##Consumers' Checkbook
-Local consumer information for home repair, personal services, health professionals and more. It includes Chicago Consumers' Checkbook. You'll be asked to register with Consumers' Checkbook for home use. Get ratins on local service firms and  stores, such as auto repair shops, plumbers, dentists, banks and more, covering the entire Chicagoland area.
+Ratings on Chicago-area service providers such as car mechanics, plumbers, dentists, banks, and more. You'll be asked to register with Consumers' Checkbook to access the reviews.
+[Consumer information]
 
 ##CultureGrams Online
-Start here to find out about people in other countries. Listen to the national anthem, look at pictures, and try recipes. Learn about each country's history, customs and government, and see what everyday life is like.
+Learn about the worlds' people with concise profiles of daily life and customs in nearly 200 countries and all U.S. states and Canadian provinces.
+[Homework Help]
+[Kids]
 
-##Current Biography Illustrated
+##Current Biography Illustrated from EBSCOhost
+Magazine-length biographical profiles of celebrities, politicians, entertainers, sports figures, scientists, and other notable figures and newsmakers from the 1940s to the present.
+[General facts]
 
 ##Early World of Learning from World Book Online
-For preschool and elementary school students. Offers narrated stories, provides leveled reading practice, and is a child's first online encyclopedia.
+Narrated stories, games, and leveled reading practice for preschool and elementary school students. Includes a basic encyclopedia for the littlest learners.
+[Kids]
 
 ##ERIC from OCLC FirstSearch
-For researchers in the education field, an index to published and unpublished sources on education; includes some full-text documents.
+Articles and reports on education for teachers, students, and 
 
 ##eSequels
 
@@ -187,6 +197,7 @@ An online collection of eBooks and read-along chapter, graphic novels, an audio 
 
 ##Value Line Research Center
 The latest information on stocks, mutual funds, options, and convertible securities. View, print and download research reports from the various _Value Line_ publications.
+[Investing]
 
 ##WestlawNext
 A legal research service designed for use by the general public, featuring Illinois and federal decisions, statutes to all 50 states, and Illinois law reviews and practice manuals.
