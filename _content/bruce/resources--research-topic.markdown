@@ -123,6 +123,7 @@ Find information and criticism on current and historical writers and poets and t
 Connect with expert tutors to work on math, science, social studies, and English problems from 3 to 10 pm daily. Tailored for students from 4th grade to junior college, the sessions last approximately 20 minutes. Library cardholders are limited to 5 sessions per week. 
 
 ##Lynda.com Online Learning Library
+Watch thousands of step-by-step online video tutorials on software, apps, media, marketing, business, and technology, all led by expert trainers.
 
 ##Mango Languages
 Learn other languages. Use on your computer or on your mobile device by downloading the Mango Languages app. Offers dozens of language courses plus English courses for ESL students. Good for tourists or beginners, provides easy interactive tools to reach conversational proficiency.
