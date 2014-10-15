@@ -89,8 +89,6 @@ Check the correct order of all your favorite novels with this resource, which al
 Full-text access to thousands of newspapers, magazines, and journals, including the _Chicago Sun-Times_, _The Wall Street Journal_, and _The New York Times_.
 [Articles]
 
-##Gale Directory Library
-
 ##Gale Virtual Reference Library
 More than 330 encyclopedias and specialezed reference sources. Search the entire collection or a particular subject area. Search encyclopedias and specialized reference sources.
 
