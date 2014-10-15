@@ -8,7 +8,7 @@ published: true
 [Kids]
 
 ##Ancestry Library Edition 
-Search billions of genealogy documents&#8212;including census, military, immigration, and birth and death records&#8212;in the library version of Ancestry.com.
+Search billions of genealogy documents&#8212;including census, military, immigration, and birth and death records&#8212;in this, the library version of Ancestry.com.
 [Genealogy]
 [Available in-library only]
 
@@ -37,7 +37,7 @@ Art lovers can view and download thousands of high-resolution images of from lea
 [Arts & literature]
 
 ##Career Center from Tutor.com
-Get tips on job searching and interview prep. From 3 to 10 pm daily, upload resumes and cover letters and a career expert will provide feedback in 24 hours.
+Get tips on job searching and interview prep. From 3 to 10 pm daily, upload resumes and cover letters and a career expert will provide feedback within 24 hours.
 [Job search]
 
 ##The Careers College
@@ -109,15 +109,18 @@ Ace the ACT, SAT, GED, ASVAB, and other tests by prepping with these interactive
 Free forms for divorce, leases, wills, powers of attorney, business forms, contracts, and more for Illinois and other states.
 
 ##LexisNexis Library Express
-Find news, business, and sources for legal research. information. Newspaper coverage dates back to 1980, 
+Find newspaper and magazine articles, media transcripts, business information, and legal sources such as federal and state court cases dating back to 1789. _Please note that only the news and business portions of this resource are accesible outside the library._
 
 ##Library PressDisplay
 Current newspapers from around the world, presented in full-page format with photos, ads, crossword puzzles, and more.
 
-##Literature Criticism Online&#8212;Something About the Author
-
+##Literature Criticism Online/Something About the Author
+Find information and criticism on current and historical writers and poets and their works in this combined archive.
+[Arts & literature]
+[Homework help]
 
 ##Live Homework Help
+Connect with expert tutors to work on math, science, social studies, and English problems from 3 to 10 pm daily. Tailored for students from 4th grade to junior college, the sessions last approximately 20 minutes. Library cardholders are limited to 5 sessions per week. 
 
 ##Lynda.com Online Learning Library
 
