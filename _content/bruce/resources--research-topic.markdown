@@ -54,6 +54,7 @@ Browse full-image content from 2008 onward. After logging in, choose "Title Sele
 
 ##Consumer Health Complete
 Get health and wellness information from hundreds of health journals and refrence books covering mainstream and integrated medicine. You can browse and search by topic or condition.
+[Health & medicine]
 
 ##ConsumerReports.org
 Find ratings and recommendations on appliances, electronics, cars, and more from the popular consumer review resource.
@@ -66,7 +67,7 @@ Ratings on Chicago-area service providers such as car mechanics, plumbers, denti
 
 ##CultureGrams Online
 Learn about the worlds' people with concise profiles of daily life and customs in nearly 200 countries and all U.S. states and Canadian provinces.
-[Homework Help]
+[Homework help]
 [Kids]
 
 ##Current Biography Illustrated from EBSCOhost
@@ -83,14 +84,14 @@ Index to journal articles, resources and research in the field of education.
 
 ##eSequels
 Check the correct order of all your favorite novels with this resource, which allows you to search by author, title, location, character, or subject.
-[Arts & Literature]
+[Arts & literature]
 
 ##Factiva
 Full-text access to thousands of newspapers, magazines, and journals, including the _Chicago Sun-Times_, _The Wall Street Journal_, and _The New York Times_.
 [Articles]
 
 ##Gale Virtual Reference Library
-More than 330 encyclopedias and specialezed reference sources. Search the entire collection or a particular subject area. Search encyclopedias and specialized reference sources.
+More than 330 encyclopedias and specialized reference sources. Search the entire collection or a particular subject area.
 
 ##Hoover's Online
 Detailed reports of thousands of companies, including financials, news, and industry information. Also includes basic contact information for millions more private and public businesses.
@@ -102,10 +103,10 @@ Full-text access to academic journals and primary souraces in the arts, sciences
 ##Kids Search from EBSCO
 
 ##LearningExpress Library
-Use these test preparation materials and interactive practice exams.
+Ace the ACT, SAT, GED, ASVAB, and other tests by prepping with these interactive practice exams. Tests are scored immediately and evaluations highlight your strengths and weaknesses. There also are citizenship and career exam modules. You'll be asked to register with LearningExpress to access the tests.
 
 ##LegalForms from Gale
-Free forms for divorce, leases, wills, powers of attorney, and more.
+Free forms for divorce, leases, wills, powers of attorney, business forms, contracts, and more for Illinois and other states.
 
 ##LexisNexis Library Express
 Find news, business information, and legal cases. News coverage goes from 1980 to today. Information on 43 million co panies. It also covers all U.S. and state legal cases.
@@ -193,7 +194,7 @@ Geared toward younger students, this makes it easy for students to search by key
 ##Treehouse Online Learning
 
 ##TumbleBook Library for Kids
-A collection of animated, talking picture books, puzzles, and games.
+A collection of animated, narrated picture books that allows childred to follow along word for word. There also are literacy-based puzzles and games.
 
 ##TumbleTalking Books Collection
 An online collection of eBooks and read-along chapter, graphic novels, an audio books.
