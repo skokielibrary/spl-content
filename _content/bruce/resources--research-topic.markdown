@@ -109,7 +109,7 @@ Ace the ACT, SAT, GED, ASVAB, and other tests by prepping with these interactive
 Free forms for divorce, leases, wills, powers of attorney, business forms, contracts, and more for Illinois and other states.
 
 ##LexisNexis Library Express
-Find news, business, and legal information. Newspaper coverage dates back to 1980, 
+Find news, business, and sources for legal research. information. Newspaper coverage dates back to 1980, 
 
 ##Library PressDisplay
 Current newspapers from around the world, presented in full-page format with photos, ads, crossword puzzles, and more.
