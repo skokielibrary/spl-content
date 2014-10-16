@@ -92,6 +92,7 @@ Full-text access to thousands of newspapers, magazines, and journals, including 
 
 ##Gale Virtual Reference Library
 More than 330 encyclopedias and specialized reference sources. Search the entire collection or a particular subject area.
+[General reference]
 
 ##Hoover's Online
 Detailed reports of thousands of companies, including financials, news, and industry information. Also includes basic contact information for millions more private and public businesses.
@@ -99,17 +100,23 @@ Detailed reports of thousands of companies, including financials, news, and indu
 
 ##JSTOR
 Full-text access to academic journals and primary souraces in the arts, sciences, humanities, social sciences, and medicine. Issue dates range from historical to current.
+[Articles]
 
 ##Kids Search from EBSCO
 
 ##LearningExpress Library
 Ace the ACT, SAT, GED, ASVAB, and other tests by prepping with these interactive practice exams. Tests are scored immediately and evaluations highlight your strengths and weaknesses. There also are citizenship and career exam modules. You'll be asked to register with LearningExpress to access the tests.
+[Tests]
 
 ##LegalForms from Gale
 Free forms for divorce, leases, wills, powers of attorney, business forms, contracts, and more for Illinois and other states.
+[Legal]
 
 ##LexisNexis Library Express
 Find newspaper and magazine articles, media transcripts, business information, and legal sources such as federal and state court cases dating back to 1789. _Please note that only the news and business portions of this resource are accesible outside the library._
+[Articles]
+[Business]
+[Legal]
 
 ##Library PressDisplay
 Current newspapers from around the world, presented in full-page format with photos, ads, crossword puzzles, and more.
@@ -136,12 +143,16 @@ Search for and read full-text articles from popular magazines and journals cover
 [Articles]
 
 ##MEDLINE from OCLC FirstSearch
-Article citations for all areas of medicine, mainly for the medical profession. Produced by the National Library of Medicine. Abstracts of articles in medicine, dentistry, and nursing. Not full-text.
+Article index for journals in medicine, dentistry, and nursing, targeting health professionals and students.
+[Health & medicine]
+[Articles]
 
 ##Mergent Online
+Information on thousands of publicly traded companies from the United States and around the world, including historical stock prices and data on defunct businesses.
+
 
 ##Mergent WebReports
-An archive of corporate and industry-related documents covern more than 100 countries and industries. Includes annual reports dating back to the early 1900s. 
+An archive of corporate and industry-related documents from around the world. Includes annual reports dating back to the early 1900s and reports on municipal bonds.
 
 ##Morningstar Investment Research Center
 
