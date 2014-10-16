@@ -121,15 +121,19 @@ Find information and criticism on current and historical writers and poets and t
 
 ##Live Homework Help
 Connect with expert tutors to work on math, science, social studies, and English problems from 3 to 10 pm daily. Tailored for students from 4th grade to junior college, the sessions last approximately 20 minutes. Library cardholders are limited to 5 sessions per week. 
+[Homework help]
 
 ##Lynda.com Online Learning Library
 Watch thousands of step-by-step online video tutorials on software, apps, media, marketing, business, and technology, all led by expert trainers.
+[Technology training]
 
 ##Mango Languages
-Learn other languages. Use on your computer or on your mobile device by downloading the Mango Languages app. Offers dozens of language courses plus English courses for ESL students. Good for tourists or beginners, provides easy interactive tools to reach conversational proficiency.
+Learn a language or improve your English with easy interactive tutorials that can help you reach conversational proficiency. Use on your computer or on the go with a mobile device by downloading the Mango Languages app.
+[Languages]
 
 ##MasterFILE Premier from EBSCOhost
-Full-text for periodicals covering general reference, business, health, education, and science. Full-text magazines, journals from the world's leading publishers, covering virtually every subject area of general interest.
+Search for and read full-text articles from popular magazines and journals covering virtually every subject area of general interest.
+[Articles]
 
 ##MEDLINE from OCLC FirstSearch
 Article citations for all areas of medicine, mainly for the medical profession. Produced by the National Library of Medicine. Abstracts of articles in medicine, dentistry, and nursing. Not full-text.
