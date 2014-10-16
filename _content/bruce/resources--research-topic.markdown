@@ -155,12 +155,15 @@ Information on thousands of publicly traded companies from the United States and
 An archive of corporate and industry-related documents from around the world. Includes annual reports dating back to the early 1900s and reports on municipal bonds.
 
 ##Morningstar Investment Research Center
+Investment reports and ratings for stocks and mutual funds. Search by fund and company or ticker symbol.
+[Investing]
 
 ##Music Online from Alexander Street Press
 
 ##Natural Standard
 
 ##Naxos Music Library 
+Stream thousands of mostly classical albums from your browser; the collection features a small number of jazz and world music recordings.
 
 ##Naxos Music Library Jazz
 
