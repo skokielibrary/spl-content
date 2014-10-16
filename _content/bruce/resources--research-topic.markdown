@@ -96,13 +96,15 @@ More than 330 encyclopedias and specialized reference sources. Search the entire
 
 ##Hoover's Online
 Detailed reports of thousands of companies, including financials, news, and industry information. Also includes basic contact information for millions more private and public businesses.
-[Business]
+[Business & investing]
 
 ##JSTOR
 Full-text access to academic journals and primary souraces in the arts, sciences, humanities, social sciences, and medicine. Issue dates range from historical to current.
 [Articles]
 
 ##Kids Search from EBSCO
+Search for articles and pictures in this general reference resource for students in kindergarten through 5th grade. 
+[Kids]
 
 ##LearningExpress Library
 Ace the ACT, SAT, GED, ASVAB, and other tests by prepping with these interactive practice exams. Tests are scored immediately and evaluations highlight your strengths and weaknesses. There also are citizenship and career exam modules. You'll be asked to register with LearningExpress to access the tests.
@@ -149,6 +151,7 @@ Article index for journals in medicine, dentistry, and nursing, targeting health
 
 ##Mergent Online
 Information on thousands of publicly traded companies from the United States and around the world, including historical stock prices and data on defunct businesses.
+[Business & investing]
 
 
 ##Mergent WebReports
