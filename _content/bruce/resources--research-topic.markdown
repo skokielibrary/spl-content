@@ -172,6 +172,7 @@ Peer-reviewed, independent data on complementary and alternative thearapies such
 
 ##Naxos Music Library 
 Stream thousands of mostly classical albums from your browser; the collection features a small number of jazz and world music recordings.
+[Music]
 
 ##Naxos Music Library Jazz
 
