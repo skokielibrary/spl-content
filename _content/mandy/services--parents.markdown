@@ -22,7 +22,7 @@ While you're here, be sure to check out all the fun kid-friendly areas with the 
 [content about Museum Adventure Pass, Tumblebooks, and other resources, still to come.]
 
 ### One last reminder...
-*Children under 8 years old must be accompanied by an adult caregiver or parent  at all times throughout the library.*
+*Children under 8 years old must be accompanied by an adult caregiver or parent at all times throughout the library.*
 
 
 
