@@ -122,6 +122,7 @@ Find newspaper and magazine articles, media transcripts, business information, a
 
 ##Library PressDisplay
 Current newspapers from around the world, presented in full-page format with photos, ads, crossword puzzles, and more.
+[Articles]
 
 ##Literature Criticism Online/Something About the Author
 Find information and criticism on current and historical writers and poets and their works in this combined archive.
