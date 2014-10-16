@@ -163,8 +163,12 @@ Investment reports and ratings for stocks and mutual funds. Search by fund and c
 [Investing]
 
 ##Music Online from Alexander Street Press
+Listen to thousands of music tracks spanning everything from classical and country to rap and punk with this streaming service. If you choose to register with the database you can create and save playlists for repeated listening.
+[Music]
 
 ##Natural Standard
+Peer-reviewed, independent data on complementary and alternative thearapies such as herbs, supplements, and a variety of integrative medicine practices.
+[Health & medicine]
 
 ##Naxos Music Library 
 Stream thousands of mostly classical albums from your browser; the collection features a small number of jazz and world music recordings.
