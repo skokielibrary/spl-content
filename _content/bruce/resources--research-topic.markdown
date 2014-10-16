@@ -175,6 +175,8 @@ Stream thousands of mostly classical albums from your browser; the collection fe
 [Music]
 
 ##Naxos Music Library Jazz
+Stream jazz albums from the full Naxos and Fantasy Jazz catalogs as well as from labels such as Blue Note, Atlantic, and Elektra.
+[Music]
 
 ##netTrekker
 
