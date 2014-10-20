@@ -13,11 +13,11 @@ Search billions of genealogy documents&#8212;including census, military, immigra
 [Available in-library only]
 
 ##Atomic Training
-Watch short video tutorials on popular software applications (including Microsoft, Adobe, Apple, and Google).
+Watch short video tutorials on popular software applications (including Microsoft, Adobe, Apple, and Google products).
 [Technology training]
 
 ##Auto Repair Reference Center
-Step-by-step repair directions, diagnostics, and diagrams for domestic and imported cars from 1954 to today. New technical service bulletins and updates are added regularly.
+Step-by-step repair directions, diagnostics, diagrams, and updated service bulletins for domestic and imported cars from 1954 to today.
 
 ##Britannica Global Reference Center
 Search encyclopedias and other reference resources written in Spanish, Korean, Chinese, French, and Japanese.
@@ -52,7 +52,7 @@ Get health and wellness information from hundreds of health journals and referen
 [Health & medicine]
 
 ##ConsumerReports.org
-Find ratings and recommendations on appliances, electronics, cars, and more from the popular consumer review resource.
+Find ratings and recommendations on appliances, electronics, cars, and more from the popular magazine and website.
 [Consumer information]
 
 ##Consumers' Checkbook
@@ -64,14 +64,14 @@ Find detailed descriptions of daily life, customs, and culture in nearly 200 cou
 [Kids]
 
 ##Current Biography Illustrated from EBSCOhost
-Magazine-length biographical profiles of celebrities, politicians, entertainers, scientists, and other notable figures and newsmakers from the 1940s to the present.
+Magazine-length biographical profiles of celebrities, politicians, entertainers, scientists, and other newsmakers from the 1940s to the present.
 
 ##Early World of Learning from World Book Online
-Narrated stories, games, and leveled reading practice for preschool and elementary school students. Includes a basic encyclopedia for the youngest learners.
+Narrated stories, games, and reading practice for preschool and elementary school students. Includes a basic encyclopedia for the youngest learners.
 [Kids]
 
 ##ERIC from OCLC FirstSearch
-Index to journal articles, resources and research in the field of education.
+Index to journal articles, resources and research in the education field.
 [Articles]
 
 ##eSequels
@@ -86,11 +86,11 @@ Full-text access to thousands of newspapers, magazines, and journals, including 
 More than 330 encyclopedias and specialized reference sources. Search the entire collection or a particular subject area.
 
 ##Hoover's Online
-Information on thousands of companies, including financials, top officers, and top competitors. Also includes industry information and basic contacts for millions additional businesses.
+Information on thousands of companies, including financials, top officers, and top competitors. Also includes industry information and basic contacts for millions of additional businesses.
 [Business & investing]
 
 ##JSTOR
-Full-text access to academic journals and primary souraces in the arts, sciences, humanities, social sciences, and medicine. Issue dates range from historical to current.
+Full-text access to academic journals and primary sources in the arts, sciences, humanities, social sciences, and medicine. Issue dates range from historical to current.
 [Articles]
 
 ##Kids Search from EBSCO
@@ -98,28 +98,28 @@ Search for articles and pictures in this general reference resource for students
 [Kids]
 
 ##LearningExpress Library
-Ace the ACT, SAT, GED, ASVAB, and other tests by prepping with these interactive practice exams. There also are citizenship and career exam modules. You'll be asked to register with LearningExpress to access the tests.
+Ace the ACT, SAT, GED, ASVAB, and other tests by prepping with these interactive practice exams. There also are citizenship and career exam modules. You'll be asked to register with LearningExpress to take the tests.
 
 ##LegalForms from Gale
-Free forms for divorce, leases, wills, powers of attorney, business forms, contracts, and more for Illinois and other states.
-[Legal]
+Print free legal forms covering divorce, leases, wills, powers of attorney, and more.
+[Law]
 
 ##LexisNexis Library Express
-Find newspaper and magazine articles, media transcripts, business information, and legal sources such as federal and state court cases dating back to 1789. _Please note that only the news and business portions of this resource are accesible outside the library._
+Find newspaper and magazine articles, media transcripts, business information, and legal sources such as federal and state court cases dating back to 1789. _Note: Only the news and business sections are accesible outside the library._
 [Articles]
 [Business & investing]
-[Legal]
+[Law]
 
 ##Library PressDisplay
-Current newspapers from around the world, presented in full-page format with photos, ads, crossword puzzles, and more.
+Current newspapers from around the world, presented in image format with photos, ads, crossword puzzles, and more.
 [Articles]
 
 ##Literature Criticism Online/Something About the Author
-Find information and criticism on current and historical writers and poets and their works.
+Find information and criticism on writers, poets and their works.
 [Books & literature]
 
 ##Live Homework Help
-Connect with expert tutors to work on math, science, social studies, and English problems from 3 to 10 pm daily. Tailored for students from 4th grade to junior college, the sessions last approximately 20 minutes. Library cardholders are limited to 5 sessions per week. 
+Connect with tutors to work on math, science, social studies, and English problems from 3 to 10 pm daily. Tailored for students from 4th grade to junior college, the sessions last approximately 20 minutes. Library cardholders are limited to 5 sessions per week. 
 [Kids]
 
 ##Lynda.com Online Learning Library
@@ -127,11 +127,11 @@ Watch thousands of step-by-step online video tutorials on software, apps, media,
 [Technology training]
 
 ##Mango Languages
-Lessons in 60-plus languages, including English with easy interactive tutorials, including some that use world-lanugague films. Download the Mango Languages app to use on mobile devices.
-[Languages]
+Lessons in 60-plus languages, including English. Includes specialty courses, such as medical Spanish, and full-lengh theatrical movies with subtitles and enhanced instruction. Download the Mango Languages app to use on mobile devices.
+[Language learning]
 
 ##MasterFILE Premier from EBSCOhost
-Search for and read full-text articles from popular magazines and journals covering virtually every subject area of general interest.
+Search full-text articles from popular magazines and journals covering virtually every subject area of general interest.
 [Articles]
 
 ##MEDLINE from OCLC FirstSearch
@@ -143,7 +143,7 @@ Information on thousands of publicly traded companies from the United States and
 [Business & investing]
 
 ##Mergent WebReports
-An archive of corporate and industry-related documents from around the world. Includes annual reports dating back to the early 1900s and reports on municipal bonds.
+An archive of international corporate and industry-related documents. Includes annual reports dating back to the early 1900s and information on municipal bonds.
 [Business & investing]
 
 ##Morningstar Investment Research Center
@@ -183,22 +183,22 @@ Access Illinois public record data for home foreclosures, bankruptcies, new busi
 [Links for inside/remote access are different]
 
 ##ReferenceUSA
-Get contact information for millions of U.S. and Canadian companies as well as residential directory information. Search businesses by name, location, industry, and size.
+Get contact information for millions of U.S. and Canadian companies as well as residential directory information. Search businesses by name, location, industry, or size.
 [Business & investing]
 
 ##Rosetta Stone Library Solution
-Take introductory lessons in more than 30 languages in the library version of the popular software. 
+Take introductory lessons in more than 30 languages in the library version of the popular language software. 
 [Languages]
 
 ##Safari Books Online
-Read thousands technology, business, and professional development books from popular publishers through your web browser.
+Read thousands of technology, software, and business books through your web browser.
 
 ##Salem Health
 Find health answers culled from _Magill's Medical Guide_, an authoritative medical encyclopedia written in accessible language for general readers.
 [Health & medicine]
 
 ##Science Online
-A science encyclopedia, experiments, biographies, and illustrations recommended for grades 6 and up.
+Features a science encyclopedia, experiments, biographies, and illustrations ideal for grades 6 and up.
 [Kids]
 
 ##Searchasaurus
@@ -214,12 +214,12 @@ Find citations to obituaries that appeared in _The News_ (1960&#82101984), _Skok
 [Articles]
 
 ##Something About the Author
-Read biographies and critical essays about writers and illustrators of books for kids and teens.
+Read biographies and critical essays about writers and illustrators of children and teen books.
 [Kids]
 [Books & literature]
 
 ##TeachingBooks.net
-Aimed primarily at teachers, this provides multimedia resources and activities to supplement reading assignments for elementary, middle, and high school students.
+Aimed primarily at teachers, this provides multimedia resources and activities to supplement elementary, middle, and high school reading assignments.
 [Kids]
 [Books & literature]
 
@@ -233,12 +233,12 @@ A collection of animated, narrated picture books that kids can follow along word
 [Books & literature]
 
 ##TumbleTalking Books Collection
-An online collection of eBooks and read-along chapter, graphic novels, and audio books.
+An online collection of eBooks and read-along chapter, graphic novels, and audiobooks.
 [Kids]
 [Books & literature]
 
 ##Value Line Research Center
-The latest information on stocks, mutual funds, options, and convertible securities. View, print and download research reports from the various _Value Line_ publications.
+The latest information on stocks, mutual funds, options, and convertible securities. View, print, and download research reports from the various _Value Line_ publications.
 [Business & investing]
 
 ##WestlawNext
