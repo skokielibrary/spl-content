@@ -219,12 +219,13 @@ Geared toward younger students, this full-text article resource encourages kids 
 Find citations to articles that appeared in the _Skokie Review_, _The News_, and _Life: Skokie_ edition. To request full articles, email askref@skokielibrary.info or call our Reference Desk at 847-673-3733.
 
 ##Skokie Obituary Index
-
-##Skokie Review on digital microfilm
+Find citations to obituaries that appeared in The News (1960&#82101984), Skokie Review (1981&#8210present), and Life: Skokie edition (1978&#8210Oct. 2004). To request full obituaries, email askref@skokielibrary.info or call our Reference Desk at 847-673-3733.
 
 ##Something About the Author
+Read biographical and critical essays about writers and illustrators of children and young adult books.
 
 ##TeachingBooks.net
+Aimed primarily at teachers, this provides multimedia resources and activities to supplement reading assignments for elementary, middle, and high school students.
 
 ##Treehouse Online Learning
 Learn how to build websites and apps, write code, or start a business through self-paced video lessons.
