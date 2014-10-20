@@ -225,15 +225,15 @@ Aimed primarily at teachers, this provides multimedia resources and activities t
 
 ##Treehouse Online Learning
 Learn how to build websites and apps, write code, or start a business through self-paced video lessons.
-[Tutoring & training]
+[Technology training]
 
 ##TumbleBook Library for Kids
-A collection of animated, narrated picture books that allows childred to follow along word for word.
+A collection of animated, narrated picture books that kids can follow along word for word.
 [Kids]
 [Books & literature]
 
 ##TumbleTalking Books Collection
-An online collection of eBooks and read-along chapter, graphic novels, an audio books.
+An online collection of eBooks and read-along chapter, graphic novels, and audio books.
 [Kids]
 [Books & literature]
 
@@ -242,12 +242,12 @@ The latest information on stocks, mutual funds, options, and convertible securit
 [Business & investing]
 
 ##WestlawNext
-A legal research service designed for use by the general public, featuring Illinois and federal decisions, statutes to all 50 states, and Illinois law reviews and practice manuals.
+Legal research portal designed for the general public, this features the text of Illinois and federal court decisions and national statutes.
 [Law]
 [Available in library only]
 
 ##World Book Online
-An online version of the popular encyclopedia that provides a general guide to all fields of learning.
+An online version of the popular encyclopedia.
 [Kids]
 
 ##WorldCat from OCLC FirstSearch
