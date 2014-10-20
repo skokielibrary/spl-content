@@ -8,13 +8,13 @@ published: true
 [Kids]
 
 ##Ancestry Library Edition 
-Search billions of genealogy documents&#8212;including census, military, immigration, and birth and death records&#8212;in this, the library version of Ancestry.com.
+Search billions of genealogy documents&#8212;including census, military, immigration, and birth and death records&#8212;in the library version of Ancestry.com.
 [Genealogy]
 [Available in-library only]
 
 ##Atomic Training
 Watch short video tutorials on popular software applications including Microsoft, Adobe, Apple, and Google products.
-[Tutoring & training]
+[Technology training]
 
 ##Auto Repair Reference Center
 Step-by-step repair procedures, diagnostics, and diagrams for domestic and imported cars from 1954 to today. New technical service bulletins and updates are added regularly.
@@ -101,7 +101,7 @@ Ace the ACT, SAT, GED, ASVAB, and other tests by prepping with these interactive
 
 ##LegalForms from Gale
 Free forms for divorce, leases, wills, powers of attorney, business forms, contracts, and more for Illinois and other states.
-[Law]
+[Legal]
 
 ##LexisNexis Library Express
 Find newspaper and magazine articles, media transcripts, business information, and legal sources such as federal and state court cases dating back to 1789. _Please note that only the news and business portions of this resource are accesible outside the library._
@@ -119,11 +119,11 @@ Find information and criticism on current and historical writers and poets and t
 
 ##Live Homework Help
 Connect with expert tutors to work on math, science, social studies, and English problems from 3 to 10 pm daily. Tailored for students from 4th grade to junior college, the sessions last approximately 20 minutes. Library cardholders are limited to 5 sessions per week. 
-[Tutoring & training]
+[Kids]
 
 ##Lynda.com Online Learning Library
 Watch thousands of step-by-step online video tutorials on software, apps, media, marketing, business, and technology, all led by expert trainers.
-[Tutoring & training]
+[Technology training]
 
 ##Mango Languages
 Lessons in 60-plus languages, including English with easy interactive tutorials, including some that use world-lanugague films. Download the Mango Languages app to use on mobile devices.
@@ -224,7 +224,7 @@ Aimed primarily at teachers, this provides multimedia resources and activities t
 
 ##Treehouse Online Learning
 Learn how to build websites and apps, write code, or start a business through self-paced video lessons.
-[Technology training]
+[Tutoring & training]
 
 ##TumbleBook Library for Kids
 A collection of animated, narrated picture books that allows childred to follow along word for word.
