@@ -14,24 +14,21 @@ Search billions of genealogy documents&#8212;including census, military, immigra
 
 ##Atomic Training
 Watch short video tutorials on popular software applications including Microsoft, Adobe, Apple, and Google products.
-[Technology training]
+[Tutoring & training]
 
 ##Auto Repair Reference Center
 Step-by-step repair procedures, diagnostics, and diagrams for domestic and imported cars from 1954 to today. New technical service bulletins and updates are added regularly.
 
 ##Britannica Global Reference Center
 Access encyclopedias and other reference resources written in Spanish, Korean, Chinese, French, and Japanese.
-[Homework help]
 [Kids]
 
 ##Britannica Online
 All-ages content from _Encyclop&#230;dia Briannica_ and _Britannica Concise Encyclopedia_, as well as videos and magazine articles.
-[Homework help]
 [Kids]
 
 ##CAMIO
 Art lovers can view and download thousands of high-resolution images of from leading museums around the world.
-[Arts & literature]
 
 ##Career Center from Tutor.com
 Get tips on job searching and interview prep. From 3 to 10 pm daily, upload resumes and cover letters and a career expert will provide feedback within 24 hours.
@@ -56,7 +53,6 @@ Get health and wellness information from hundreds of health journals and refrenc
 ##ConsumerReports.org
 Find ratings and recommendations on appliances, electronics, cars, and more from the popular consumer review resource.
 [Consumer information]
-[Cars]
 
 ##Consumers' Checkbook
 Ratings on Chicago-area service providers such as car mechanics, plumbers, dentists, banks, and more. You'll be asked to register with Consumers' Checkbook to access the reviews.
@@ -64,12 +60,10 @@ Ratings on Chicago-area service providers such as car mechanics, plumbers, denti
 
 ##CultureGrams Online
 Learn about the worlds' people with concise profiles of daily life and customs in nearly 200 countries and all U.S. states and Canadian provinces.
-[Homework help]
 [Kids]
 
 ##Current Biography Illustrated from EBSCOhost
 Magazine-length biographical profiles of celebrities, politicians, entertainers, sports figures, scientists, and other notable figures and newsmakers from the 1940s to the present.
-[General facts]
 
 ##Early World of Learning from World Book Online
 Narrated stories, games, and leveled reading practice for preschool and elementary school students. Includes a basic encyclopedia for the littlest learners.
@@ -81,7 +75,7 @@ Index to journal articles, resources and research in the field of education.
 
 ##eSequels
 Check the correct order of all your favorite novels with this resource, which allows you to search by author, title, location, character, or subject.
-[Arts & literature]
+[Books & literature]
 
 ##Factiva
 Full-text access to thousands of newspapers, magazines, and journals, including the _Chicago Sun-Times_, _The Wall Street Journal_, and _The New York Times_.
@@ -89,7 +83,6 @@ Full-text access to thousands of newspapers, magazines, and journals, including 
 
 ##Gale Virtual Reference Library
 More than 330 encyclopedias and specialized reference sources. Search the entire collection or a particular subject area.
-[General reference]
 
 ##Hoover's Online
 Information on thousands of companies, including financials, top officers, and top competitors. Also includes industry information and basic contacts for millions additional businesses.
@@ -105,16 +98,15 @@ Search for articles and pictures in this general reference resource for students
 
 ##LearningExpress Library
 Ace the ACT, SAT, GED, ASVAB, and other tests by prepping with these interactive practice exams. There also are citizenship and career exam modules. You'll be asked to register with LearningExpress to access the tests.
-[Tests]
 
 ##LegalForms from Gale
 Free forms for divorce, leases, wills, powers of attorney, business forms, contracts, and more for Illinois and other states.
-[Legal]
+[Law]
 
 ##LexisNexis Library Express
 Find newspaper and magazine articles, media transcripts, business information, and legal sources such as federal and state court cases dating back to 1789. _Please note that only the news and business portions of this resource are accesible outside the library._
 [Articles]
-[Business]
+[Business & investing]
 [Legal]
 
 ##Library PressDisplay
@@ -123,16 +115,15 @@ Current newspapers from around the world, presented in full-page format with pho
 
 ##Literature Criticism Online/Something About the Author
 Find information and criticism on current and historical writers and poets and their works.
-[Arts & literature]
-[Homework help]
+[Books & literature]
 
 ##Live Homework Help
 Connect with expert tutors to work on math, science, social studies, and English problems from 3 to 10 pm daily. Tailored for students from 4th grade to junior college, the sessions last approximately 20 minutes. Library cardholders are limited to 5 sessions per week. 
-[Homework help]
+[Tutoring & training]
 
 ##Lynda.com Online Learning Library
 Watch thousands of step-by-step online video tutorials on software, apps, media, marketing, business, and technology, all led by expert trainers.
-[Technology training]
+[Tutoring & training]
 
 ##Mango Languages
 Lessons in 60-plus languages, including English with easy interactive tutorials, including some that use world-lanugague films. Download the Mango Languages app to use on mobile devices.
@@ -145,7 +136,6 @@ Search for and read full-text articles from popular magazines and journals cover
 ##MEDLINE from OCLC FirstSearch
 Article index for journals in medicine, dentistry, and nursing. Aimed primarily at doctors and medical researchers.
 [Health & medicine]
-[Articles]
 
 ##Mergent Online
 Information on thousands of publicly traded companies from the United States and around the world, including historical stock prices and data on defunct businesses.
@@ -157,41 +147,35 @@ An archive of corporate and industry-related documents from around the world. In
 
 ##Morningstar Investment Research Center
 Investment analysis and ratings for stocks, mutual funds, exchange-traded funds and markets.
-[Investing]
-
-##Music Online from Alexander Street Press
-Listen to thousands of music tracks spanning everything from classical and country to rap and punk with this streaming service. If you choose to register with the database you can create and save playlists for repeated listening.
-[Music]
+[Business & investing]
 
 ##Natural Standard
 Peer-reviewed, independent data on complementary and alternative thearapies such as herbs, supplements, and a variety of integrative medicine practices.
 [Health & medicine]
 
-##Naxos Music Library 
-Stream thousands of mostly classical albums from your browser; the collection features a small number of jazz and world music recordings.
-[Music]
-
-##Naxos Music Library Jazz
-Stream jazz albums from the full Naxos and Fantasy Jazz catalogs as well as from labels such as Blue Note, Atlantic, and Elektra.
-[Music]
-
 ##netTrekker
 Thousands of teacher-approved websites and digital resources for students from elementary through high school. You can refine search results by subject, reading level, or school level.
+[Kids]
 
 ##Newspaper Source from EBSCOhost
 Full-text articles from hundreds of U.S. and international newspapers such as The Washington Post and USA Today; also features transcripts from CNN, Fox News, and NPR.
+[Articles]
 
 ##The New York Times from LexisNexis Library Express
 Search full-text articles from 1980 to the present from the country's newspaper of record.
+[Articles]
 
 ##NoveList Plus
 Find recommendations and reviews for adult and teen fiction and nonfiction based on your favorite titles, authors, and genres.
+[Books & literature]
 
 ##NoveList K-8 Plus
 Discover great books for children from kindergarten through grade 8. Browse lists of award-winning titles or search for books by grade level or Lexile score.
+[Books & literature]
+[Kids]
 
 ##OCLC FirstSearch
-Search a wide range of databases including ArticleFirst, ERIC, WorldCat, and MEDLINE.
+Search a wide range of databases, including ArticleFirst, ERIC, WorldCat, and MEDLINE.
 
 ##Public Records Electronic Database
 Access Illinois public record data for home foreclosures, bankruptcies, new businesses, and real estate transactions. Available both inside and outside the library. 
@@ -199,57 +183,71 @@ Access Illinois public record data for home foreclosures, bankruptcies, new busi
 
 ##ReferenceUSA
 Get contact information for millions of U.S. and Canadian companies,  plus residential directory information. Search businesses by name, location, industry, and size.
+[Business & investing]
 
 ##Rosetta Stone Library Solution
 Take introductory lessons in more than 30 languages in the library version of the popular software. 
+[Languages]
 
 ##Safari Books Online
 Read thousands technology, business, and professional development books from popular publishers through your web browser.
 
 ##Salem Health
 Find health answers culled from _Magill's Medical Guide_, an authoritative medical encyclopedia written in accessible language for general readers.
+[Health & medicine]
 
 ##Science Online
 Science encyclopedia articles, experiments, biographies, and charts recommended for grades 6 and up.
+[Kids]
 
 ##Searchasaurus
 Geared toward younger students, this full-text article resource encourages kids to develop research skills with a fun, dinosaur-themed look.
+[Kids]
 
 ##Skokie Newspaper Index
 Find citations to articles that appeared in the _Skokie Review_, _The News_, and _Life: Skokie_ edition. To request full articles, email askref@skokielibrary.info or call our Reference Desk at 847-673-3733.
+[Articles]
 
 ##Skokie Obituary Index
 Find citations to obituaries that appeared in The News (1960&#82101984), Skokie Review (1981&#8210present), and Life: Skokie edition (1978&#8210Oct. 2004). To request full obituaries, email askref@skokielibrary.info or call our Reference Desk at 847-673-3733.
+[Articles]
 
 ##Something About the Author
 Read biographical and critical essays about writers and illustrators of children and young adult books.
+[Kids]
+[Books & literature]
 
 ##TeachingBooks.net
 Aimed primarily at teachers, this provides multimedia resources and activities to supplement reading assignments for elementary, middle, and high school students.
+[Kids]
+[Books & literature]
 
 ##Treehouse Online Learning
 Learn how to build websites and apps, write code, or start a business through self-paced video lessons.
 [Technology training]
 
 ##TumbleBook Library for Kids
-A collection of animated, narrated picture books that allows childred to follow along word for word. There also are literacy-based puzzles and games.
+A collection of animated, narrated picture books that allows childred to follow along word for word.
+[Kids]
+[Books & literature]
 
 ##TumbleTalking Books Collection
 An online collection of eBooks and read-along chapter, graphic novels, an audio books.
+[Kids]
+[Books & literature]
 
 ##Value Line Research Center
 The latest information on stocks, mutual funds, options, and convertible securities. View, print and download research reports from the various _Value Line_ publications.
-[Investing]
+[Business & investing]
 
 ##WestlawNext
 A legal research service designed for use by the general public, featuring Illinois and federal decisions, statutes to all 50 states, and Illinois law reviews and practice manuals.
-[Legal help]
+[Law]
+[Available in library only]
 
 ##World Book Online
 An online version of the popular encyclopedia that provides a general guide to all fields of learning.
 [Kids]
-[Homework help]
-[Available in library only]
 
 ##WorldCat from OCLC FirstSearch
 Search the collections of thousands of libraries in the United States and around the world using this global catalog.
