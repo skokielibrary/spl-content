@@ -13,14 +13,14 @@ Search billions of genealogy documents&#8212;including census, military, immigra
 [Available in-library only]
 
 ##Atomic Training
-Watch short video tutorials on popular software applications including Microsoft, Adobe, Apple, and Google products.
+Watch short video tutorials on popular software applications (including Microsoft, Adobe, Apple, and Google).
 [Technology training]
 
 ##Auto Repair Reference Center
-Step-by-step repair procedures, diagnostics, and diagrams for domestic and imported cars from 1954 to today. New technical service bulletins and updates are added regularly.
+Step-by-step repair directions, diagnostics, and diagrams for domestic and imported cars from 1954 to today. New technical service bulletins and updates are added regularly.
 
 ##Britannica Global Reference Center
-Access encyclopedias and other reference resources written in Spanish, Korean, Chinese, French, and Japanese.
+Search encyclopedias and other reference resources written in Spanish, Korean, Chinese, French, and Japanese.
 [Kids]
 
 ##Britannica Online
@@ -28,26 +28,27 @@ All-ages content from _Encyclop&#230;dia Briannica_ and _Britannica Concise Ency
 [Kids]
 
 ##CAMIO
-Art lovers can view and download thousands of high-resolution images from leading museums around the world.
+View and download thousands of high-resolution images of art works from leading museums around the world.
 
 ##Career Center from Tutor.com
 Get tips on job searching and interview prep. From 3 to 10 pm daily, upload resumes and cover letters and a career expert will give you feedback within 24 hours.
 [Job search]
 
 ##The Careers College
-Learn how to navigate the job search process with interactive tutorials, career resources, resume templates, self-evaluation forms, and more.
+Learn how to navigate your job search with interactive tutorials, career resources, resume templates, and self-evaluation forms.
 [Job search]
 
 ##Chicago Tribune (1849&#8210;present) from ProQuest
-Search the newspaper's complete text; content from 1849 to 1987 includes images of articles, photographs, death notices, and ads. From 1987 to present, only text versions of articls and obituaries are available.
+Search the newspaper's complete text. Content from 1849 to 1987 includes images of articles, photographs, death notices, and ads. From 1987 to present, only text versions of articles and obituaries are available.
 [Articles]
 
 ##Chicago Tribune Digital Microfilm from ProQuest
-Browse full-image content from 2008 onward. After logging in, choose "Title Select" to connect to the _Tribune_. There's a lag of a few months before current editions appear in this resource (full-image views of this week's paper are available in NewspaperDirect PressDisplay).
+Browse full-image content from 2008 onward. After logging in, choose "Title Select" to connect to the _Tribune_. There's a lag of a few months before current editions appear here (full-image views of this week's paper are available in Library PressDisplay).
 [Articles]
+[Link to Library PressDisplay?]
 
 ##Consumer Health Complete
-Get health and wellness information from hundreds of health journals and refrence books covering mainstream and integrated medicine. You can browse and search by topic or condition.
+Get health and wellness information from hundreds of health journals and reference books covering mainstream and integrated medicine.
 [Health & medicine]
 
 ##ConsumerReports.org
@@ -59,14 +60,14 @@ Ratings on Chicago-area service providers such as car mechanics, plumbers, denti
 [Consumer information]
 
 ##CultureGrams Online
-Learn about the worlds' people with concise profiles of daily life and customs in nearly 200 countries and all U.S. states and Canadian provinces.
+Find detailed descriptions of daily life, customs, and culture in nearly 200 countries and all U.S. states and Canadian provinces.
 [Kids]
 
 ##Current Biography Illustrated from EBSCOhost
-Magazine-length biographical profiles of celebrities, politicians, entertainers, sports figures, scientists, and other notable figures and newsmakers from the 1940s to the present.
+Magazine-length biographical profiles of celebrities, politicians, entertainers, scientists, and other notable figures and newsmakers from the 1940s to the present.
 
 ##Early World of Learning from World Book Online
-Narrated stories, games, and leveled reading practice for preschool and elementary school students. Includes a basic encyclopedia for the littlest learners.
+Narrated stories, games, and leveled reading practice for preschool and elementary school students. Includes a basic encyclopedia for the youngest learners.
 [Kids]
 
 ##ERIC from OCLC FirstSearch
