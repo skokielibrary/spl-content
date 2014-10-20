@@ -28,7 +28,7 @@ All-ages content from _Encyclop&#230;dia Briannica_ and _Britannica Concise Ency
 [Kids]
 
 ##CAMIO
-Art lovers can view and download thousands of high-resolution images of from leading museums around the world.
+Art lovers can view and download thousands of high-resolution images from leading museums around the world.
 
 ##Career Center from Tutor.com
 Get tips on job searching and interview prep. From 3 to 10 pm daily, upload resumes and cover letters and a career expert will provide feedback within 24 hours.
