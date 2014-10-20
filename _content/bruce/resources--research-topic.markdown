@@ -35,7 +35,7 @@ Get tips on job searching and interview prep. From 3 to 10 pm daily, upload resu
 [Job search]
 
 ##The Careers College
-Learn how to navigate the job search process with interactive tutorials, career resources, resume templates, self-evaluation forms and more.
+Learn how to navigate the job search process with interactive tutorials, career resources, resume templates, self-evaluation forms, and more.
 [Job search]
 
 ##Chicago Tribune (1849&#8210;present) from ProQuest
