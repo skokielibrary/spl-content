@@ -5,32 +5,29 @@ published: true
 ---
 
 ##ABCMouse.com
-[Kids]
+[Found in Kids]
 
 ##Ancestry Library Edition 
 Search billions of genealogy documents&#8212;including census, military, immigration, and birth and death records&#8212;in this, the library version of Ancestry.com.
-[Genealogy]
+[Found in Genealogy]
 [Available in-library only]
 
 ##Atomic Training
 Watch short video tutorials on popular software applications including Microsoft, Adobe, Apple, and Google products.
-[Technology training]
+[Found in Technology training]
 
 ##Auto Repair Reference Center
 Step-by-step repair procedures, diagnostics, and diagrams for domestic and imported cars from 1954 to today. New technical service bulletins and updates are added regularly.
-[Cars]
 
 ##Britannica Global Reference Center
 Access encyclopedias and other reference resources written in Spanish, Korean, Chinese, French, and Japanese.
 [Homework help]
 [Kids]
-[General facts]
 
 ##Britannica Online
 All-ages content from _Encyclop&#230;dia Briannica_ and _Britannica Concise Encyclopedia_, as well as videos and magazine articles.
 [Homework help]
 [Kids]
-[General facts]
 
 ##CAMIO
 Art lovers can view and download thousands of high-resolution images of from leading museums around the world.
@@ -95,7 +92,7 @@ More than 330 encyclopedias and specialized reference sources. Search the entire
 [General reference]
 
 ##Hoover's Online
-Detailed reports of thousands of companies, including financials, news, and industry information. Also includes basic contact information for millions more private and public businesses.
+Information on thousands of companies, including financials, top officers, and top competitors. Also includes industry information and basic contacts for millions additional businesses.
 [Business & investing]
 
 ##JSTOR
@@ -107,7 +104,7 @@ Search for articles and pictures in this general reference resource for students
 [Kids]
 
 ##LearningExpress Library
-Ace the ACT, SAT, GED, ASVAB, and other tests by prepping with these interactive practice exams. Tests are scored immediately and evaluations highlight your strengths and weaknesses. There also are citizenship and career exam modules. You'll be asked to register with LearningExpress to access the tests.
+Ace the ACT, SAT, GED, ASVAB, and other tests by prepping with these interactive practice exams. There also are citizenship and career exam modules. You'll be asked to register with LearningExpress to access the tests.
 [Tests]
 
 ##LegalForms from Gale
@@ -125,7 +122,7 @@ Current newspapers from around the world, presented in full-page format with pho
 [Articles]
 
 ##Literature Criticism Online/Something About the Author
-Find information and criticism on current and historical writers and poets and their works in this combined archive.
+Find information and criticism on current and historical writers and poets and their works.
 [Arts & literature]
 [Homework help]
 
@@ -138,7 +135,7 @@ Watch thousands of step-by-step online video tutorials on software, apps, media,
 [Technology training]
 
 ##Mango Languages
-Learn a language or improve your English with easy interactive tutorials that can help you reach conversational proficiency. Use on your computer or on the go with a mobile device by downloading the Mango Languages app.
+Lessons in 60-plus languages, including English with easy interactive tutorials, including some that use world-lanugague films. Download the Mango Languages app to use on mobile devices.
 [Languages]
 
 ##MasterFILE Premier from EBSCOhost
@@ -146,7 +143,7 @@ Search for and read full-text articles from popular magazines and journals cover
 [Articles]
 
 ##MEDLINE from OCLC FirstSearch
-Article index for journals in medicine, dentistry, and nursing, targeting health professionals and students.
+Article index for journals in medicine, dentistry, and nursing. Aimed primarily at doctors and medical researchers.
 [Health & medicine]
 [Articles]
 
@@ -159,7 +156,7 @@ An archive of corporate and industry-related documents from around the world. In
 [Business & investing]
 
 ##Morningstar Investment Research Center
-Investment reports and ratings for stocks and mutual funds. Search by fund and company or ticker symbol.
+Investment analysis and ratings for stocks, mutual funds, exchange-traded funds and markets.
 [Investing]
 
 ##Music Online from Alexander Street Press
@@ -179,42 +176,47 @@ Stream jazz albums from the full Naxos and Fantasy Jazz catalogs as well as from
 [Music]
 
 ##netTrekker
+Thousands of teacher-approved websites and digital resources for students from elementary through high school. You can refine search results by subject, reading level, or school level.
 
 ##Newspaper Source from EBSCOhost
-Full text from hundreds of U.S. and international newspapers.
-
+Full-text articles from hundreds of U.S. and international newspapers such as The Washington Post and USA Today; also features transcripts from CNN, Fox News, and NPR.
 
 ##The New York Times from LexisNexis Library Express
-Articles from 1980 to the present.
+Search full-text articles from 1980 to the present from the country's newspaper of record.
 
 ##NoveList Plus
-Find new fiction and nonfiction to read by searching favorite authors, titles, subjects, and genres. For readers of fiction and nonfiction, contains book reviews, annotations, readalikes, discussion guides and book lists.
+Find recommendations and reviews for adult and teen fiction and nonfiction based on your favorite titles, authors, and genres.
 
 ##NoveList K-8 Plus
-Fiction and nonfiction book lists for children, award-winning titles, books by grade-level or Lexile score.
+Discover great books for children from kindergarten through grade 8. Browse lists of award-winning titles or search for books by grade level or Lexile score.
 
 ##OCLC FirstSearch
+Search a wide range of databases including ArticleFirst, ERIC, WorldCat, and MEDLINE.
 
 ##Public Records Electronic Database
-Illinois public record data for new businesses, real estate transactions, home foreclosures and bankruptcies.
+Access Illinois public record data for home foreclosures, bankruptcies, new businesses, and real estate transactions. Available both inside and outside the library. 
+[Links for inside/remote access are different]
 
 ##ReferenceUSA
-Directory of information on U.S. and Canadian companies. Also has residential listings and a physician/dentist directory. For the job seeker, the small business owner or the general public, this directory provides information on milliions of businesses in the U.S. plus residential directory information.
+Get contact information for millions of U.S. and Canadian companies,  plus residential directory information. Search businesses by name, location, industry, and size.
 
 ##Rosetta Stone Library Solution
-Fifty hours of instruction include fun activities and lessons to language skills. A mobile app is available. 
+Take introductory lessons in more than 30 languages in the library version of the popular software. 
 
 ##Safari Books Online
-Over your web browser read the full content of thousands technology, business, and professional development books.
+Read thousands technology, business, and professional development books from popular publishers through your web browser.
 
 ##Salem Health
+Find health answers culled from _Magill's Medical Guide_, an authoritative medical encyclopedia written in accessible language for general readers.
 
-##Science Online from Facts on File
+##Science Online
+Science encyclopedia articles, experiments, biographies, and charts recommended for grades 6 and up.
 
 ##Searchasaurus
-Geared toward younger students, this makes it easy for students to search by keyword or topic to find most useful search results.
+Geared toward younger students, this full-text article resource encourages kids to develop research skills with a fun, dinosaur-themed look.
 
 ##Skokie Newspaper Index
+Find citations to articles that appeared in the _Skokie Review_, _The News_, and _Life: Skokie_ edition. To request full articles, email askref@skokielibrary.info or call our Reference Desk at 847-673-3733.
 
 ##Skokie Obituary Index
 
@@ -225,7 +227,8 @@ Geared toward younger students, this makes it easy for students to search by key
 ##TeachingBooks.net
 
 ##Treehouse Online Learning
-Learn how to build websites and apps, write code, or start a business through self-paced video lessons. You also can create projects and earn badges to demonstrate your mastery of topics.
+Learn how to build websites and apps, write code, or start a business through self-paced video lessons.
+[Technology training]
 
 ##TumbleBook Library for Kids
 A collection of animated, narrated picture books that allows childred to follow along word for word. There also are literacy-based puzzles and games.
