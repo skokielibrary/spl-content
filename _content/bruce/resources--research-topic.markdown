@@ -5,16 +5,16 @@ published: true
 ---
 
 ##ABCMouse.com
-[Found in Kids]
+[Kids]
 
 ##Ancestry Library Edition 
 Search billions of genealogy documents&#8212;including census, military, immigration, and birth and death records&#8212;in this, the library version of Ancestry.com.
-[Found in Genealogy]
+[Genealogy]
 [Available in-library only]
 
 ##Atomic Training
 Watch short video tutorials on popular software applications including Microsoft, Adobe, Apple, and Google products.
-[Found in Technology training]
+[Technology training]
 
 ##Auto Repair Reference Center
 Step-by-step repair procedures, diagnostics, and diagrams for domestic and imported cars from 1954 to today. New technical service bulletins and updates are added regularly.
