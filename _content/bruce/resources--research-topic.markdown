@@ -147,7 +147,7 @@ An archive of corporate and industry-related documents from around the world. In
 [Business & investing]
 
 ##Morningstar Investment Research Center
-Investment analysis and ratings for stocks, mutual funds, exchange-traded funds and markets.
+Investment analysis and ratings for stocks, mutual funds, exchange-traded funds, and markets.
 [Business & investing]
 
 ##Natural Standard
@@ -159,7 +159,7 @@ Thousands of teacher-approved websites and digital resources for students from e
 [Kids]
 
 ##Newspaper Source from EBSCOhost
-Full-text articles from hundreds of U.S. and international newspapers such as The Washington Post and USA Today; also features transcripts from CNN, Fox News, and NPR.
+Full-text articles from hundreds of U.S. and international newspapers such as _The Washington Post_ and _USA Today_; also features transcripts from CNN, Fox News, and NPR.
 [Articles]
 
 ##The New York Times from LexisNexis Library Express
@@ -183,7 +183,7 @@ Access Illinois public record data for home foreclosures, bankruptcies, new busi
 [Links for inside/remote access are different]
 
 ##ReferenceUSA
-Get contact information for millions of U.S. and Canadian companies,  plus residential directory information. Search businesses by name, location, industry, and size.
+Get contact information for millions of U.S. and Canadian companies as well as residential directory information. Search businesses by name, location, industry, and size.
 [Business & investing]
 
 ##Rosetta Stone Library Solution
@@ -198,11 +198,11 @@ Find health answers culled from _Magill's Medical Guide_, an authoritative medic
 [Health & medicine]
 
 ##Science Online
-Science encyclopedia articles, experiments, biographies, and charts recommended for grades 6 and up.
+A science encyclopedia, experiments, biographies, and illustrations recommended for grades 6 and up.
 [Kids]
 
 ##Searchasaurus
-Geared toward younger students, this full-text article resource encourages kids to develop research skills with a fun, dinosaur-themed look.
+Geared toward younger students, this full-text article resource encourages kids to develop research skills.
 [Kids]
 
 ##Skokie Newspaper Index
@@ -210,11 +210,11 @@ Find citations to articles that appeared in the _Skokie Review_, _The News_, and
 [Articles]
 
 ##Skokie Obituary Index
-Find citations to obituaries that appeared in The News (1960&#82101984), Skokie Review (1981&#8210present), and Life: Skokie edition (1978&#8210Oct. 2004). To request full obituaries, email askref@skokielibrary.info or call our Reference Desk at 847-673-3733.
+Find citations to obituaries that appeared in _The News_ (1960&#82101984), _Skokie Review_ (1981&#8210present), and _Life: Skokie edition_ (1978&#8210Oct. 2004). To request full obituaries, email askref@skokielibrary.info or call our Reference Desk at 847-673-3733.
 [Articles]
 
 ##Something About the Author
-Read biographical and critical essays about writers and illustrators of children and young adult books.
+Read biographies and critical essays about writers and illustrators of books for kids and teens.
 [Kids]
 [Books & literature]
 
