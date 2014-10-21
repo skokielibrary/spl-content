@@ -208,6 +208,7 @@ Geared toward younger students, this full-text article resource encourages kids 
 ##Skokie Newspaper Index
 Find citations to articles that appeared in the _Skokie Review_, _The News_, and _Life: Skokie_ edition. To request full articles, email askref@skokielibrary.info or call our Reference Desk at 847-673-3733.
 [Articles]
+[Genealogy]
 
 ##Skokie Obituary Index
 Find citations to obituaries that appeared in _The News_ (1960&#82101984), _Skokie Review_ (1981&#8210present), and _Life: Skokie edition_ (1978&#8210Oct. 2004). To request full obituaries, email askref@skokielibrary.info or call our Reference Desk at 847-673-3733.
