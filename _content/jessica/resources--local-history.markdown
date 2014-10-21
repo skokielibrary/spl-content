@@ -4,14 +4,12 @@ title: Local history
 published: true
 ---
 
-From its early days as a Potawatami settlement and its first European residents in the 1840s to a thriving, culturally diverse suburb, Skokie’s rich and varied history has mirrored the growth and expansion of nearby Chicago. 
-
-Explore Skokie’s history using the library’s digital and print collections or browse the resources of the Skokie Historical Society (link to: http://www.skokiehistory.info).
+From its early days as a Potawatami settlement to the culturally diverse suburb of today, Skokie has a rich and varied history. You can explore Skokie’s past using the library’s digital and print collections. 
 
 ## Newspapers and Obituaries
 
-- Obituary index [specific papers will be listed on the Content Pro page]
-Search Skokie obituaries from 1960 to the present. Full-text obituaries are available from March 2013 to the the present.
+- Skokie Obituary Index
+Search Skokie obituaries from 1960 to the present. Full-text obituaries are available from March 2013 onward.
 http://encore.skokielibrary.info/iii/cpro/CollectionViewPage.external?sp=1000003
 Browse our obituaries by date [link to page with this feature]
 
@@ -52,3 +50,7 @@ Print Collection
 Genealogy resources
 
 Link to genealogy resources page on SPL website
+
+[Possible callout:]
+
+Looking for more local history information? Browse the resources of the [Skokie Historical Society](http://www.skokiehistory.info).
