@@ -10,20 +10,23 @@ From its early days as a Potawatami settlement to today's culturally diverse sub
 
 ##Digital Collections
 
-### Attempted Nazi March
-- Local newspaper coverage [link] and recordings [link] from the 1977 and 1978 Attempted Nazi March in Skokie. For video clips, go to the Skokie Archive [external link].
+### Attempted Nazi March [link]
+- Extensive local newspaper coverage [link] and recordings [link] documenting the controversy surrounding the 1977 and 1978 Attempted Nazi March in Skokie. For video clips, go to the Skokie Archive.
 
-###Dr. Louise Klehm Archive
-- This archive [link] documents the life of Dr. Louise Klehm, Skokie's first woman doctor. Dr. Klehm graduated from medical school in 1902, interned at Jane Addam's Hull House, studied surgery in Europe, and returned to Skokie to practice medicine. Browse documents [link], ledgers [link], photos [link], and images of late 19th-century medical equipment [link].
+###Dr. Louise Klehm Archive [link]
+- Dr. Louise Klehm was Skokie's first woman doctor. She graduated from medical school in 1902, interned at Jane Addam's Hull House, studied surgery in Europe, and returned to Skokie to practice medicine. Browse her documents [link], ledgers [link], photos [link], and images of her late 19th-century medical equipment [link].
 
+###Skokie Fire Department History [link]
+- More than 700 artifacts detailing the history of the village's fire department, including photos of fire engines [link] and fire fighters [link].
+
+###Skokie History Project
 - Maps [link], architectural drawings [link], and aerial photographs [link] of Skokie from as early as 1893.
-
-- Photos of fire engines (link), fire fighters (link), and ledgers (link) from the history of the Skokie Fire Department (link).
 - Photos of people (link), places (link), and businesses (link) from Skokie’s History archive (link).
 [Leave room for future collections]
-Print and in-library resources
 
-## Newspapers and Obituaries
+##Print and in-library resources
+
+### Newspapers and Obituaries
 
 - Skokie Obituary Index
 Search Skokie obituaries from 1960 to the present. Full-text obituaries are available from March 2013 onward. [Link] You can also browse our obituaries by date [link to page with this feature]
