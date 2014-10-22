@@ -12,8 +12,10 @@ Items not owned by Skokie Public Library or available through LINKin may be requ
 ###Pick-up Locations
 You may choose to pick up your reserved items at the main library, at any Bookmobile stop or have them delivered to your door via Library Express. U.S. Postal Service Delivery is available for $2 per item.
 ###View Your Account
-Customers may view their library record to see checked out items, due dates, fines and reserves placed. 
-###Pay Fines Online
+Customers may view their library record to see checked out items, due dates, fines and reserves placed. [view my account]()
+###Paying Fines 
+Fines may be paid with cash or check at the east or west checkout desks or at any of the self-checkout machines with a debit or credit card. Fines may also be paid online through  
+
 
 
 
