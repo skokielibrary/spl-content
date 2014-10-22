@@ -51,6 +51,7 @@ Learn how to navigate your job search with interactive tutorials, career resourc
 Search the newspaper's complete text. Content from 1849 to 1987 includes images of articles, photographs, death notices, and ads. From 1987 to present, only text versions of articles and obituaries are available.
 
 [Articles]
+[Genealogy]
 
 ##Chicago Tribune Digital Microfilm from ProQuest
 
