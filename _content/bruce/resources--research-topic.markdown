@@ -270,7 +270,8 @@ Try also: Literary Criticism from Internet Public Library
 
 Consumer information
 ConsumerSearch
-Try also: Better Business Bureau, Eopinions, Find the Best, The Wirecutter
+Find detailed buying guides and useful reviews of hundreds of consumer products.
+Try also: [Better Business Bureau](http://www.bbb.org/), [Eopinions](http://www.epinions.com/?sb=1), [Find the Best](http://www.findthebest.com/), [The Wirecutter](http://thewirecutter.com/)
 
 Health & medicine
 MedlinePlus
