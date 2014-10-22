@@ -14,7 +14,7 @@ Circulating materials that are currently checked out or on order may be reserved
 ###Other Items Not Available at the Library
 Items not owned by Skokie Public Library or available through LINKin may be requested by Skokie Public Library cardholders through Interlibrary Loan. Make a request at any service desk, by phone or online [ILL request form]()
 ###Pick-up Locations
-You may choose to pick up your reserved items at the main library, at any Bookmobile stop or have them delivered to your door via Library Express. U.S. Postal Service Delivery is available for $2 per item.
+Choose to pick up your reserved items at the main library, at any Bookmobile stop or have them delivered to your door via Library Express. U.S. Postal Service Delivery is available for $2 per item.
 ###View Your Account
 Customers may view their library record to see checked out items, due dates, fines and reserves placed. [view my account]()
 ###Paying Fines 
