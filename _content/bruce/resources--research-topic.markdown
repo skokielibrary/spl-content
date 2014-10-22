@@ -95,7 +95,7 @@ Index to journal articles, resources and research in the education field.
 [Articles]
 
 ##eSequels
-Check the correct order of all your favorite novels with this resource, which allows you to search by author, title, location, character, or subject.
+Check the correct order of all your favorite novels with this resource. Search by author, title, location, character, or subject.
 
 [Books & literature]
 
