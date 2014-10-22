@@ -182,6 +182,7 @@ Search a wide range of databases, including ArticleFirst, ERIC, WorldCat, and ME
 
 ##Public Records Electronic Database
 Access Illinois public record data for home foreclosures, bankruptcies, new businesses, and real estate transactions. Available both inside and outside the library. 
+[Real estate]
 [Links for inside/remote access are different]
 
 ##ReferenceUSA
@@ -257,7 +258,7 @@ An online version of the popular encyclopedia.
 ##WorldCat from OCLC FirstSearch
 Search the collections of thousands of libraries in the United States and around the world using this global catalog.
 
-[Categories: Articles, Books & literature, Business & investing, Consumer information, Genealogy, Health & medicine, Job search, Kids, Languages, Law, Technology Training]
+[Categories: Articles, Books & literature, Business & investing, Consumer information, Genealogy, Health & medicine, Job search, Kids, Languages, Law, Real estate, Technology training]
 
 [Additional sites:
 
@@ -278,11 +279,14 @@ MedlinePlus
 Try also: [Mayo Clinic Health Information](http://www.mayoclinic.com/health-information/), [WebMD](http://www.webmd.com/)
 
 Law
-Cook County Tax Portal
 Try also: FindLaw, Illinois Legal Aid
 
 Genealogy
 Try also: Cyndi's List
 
-Job Search
-Try also: Glassdoor, Riley Guide
+Real estate:
+[Cook County Tax Portal](http://cookcountypropertyinfo.com/Pages/pin-search.aspx)
+Find county property information, including assessed values. Search by PIN or address.
+
+Job search
+Try also: [Glassdoor](http://www.glassdoor.com/), [Riley Guide](http://www.rileyguide.com/)
