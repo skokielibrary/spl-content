@@ -5,6 +5,8 @@ published: true
 ---
 
 ##Using Your Account 
+###Renewing an Item
+Most items may be renewed if they have not been requested by another customer or have not reached their maximum renewal. Some items may not be renewed. Renewable items may be renewed by calling (847) 673-2675 using a touchtone phone or online by signing into your account.[view my account]()
 ###Reserve an Item
 Circulating materials that are currently checked out or on order may be reserved by Skokie Public Library cardholders in person, over the telephone or via the library's catalog [library catalog]() Skokie Public Library cardholders may also use LINKin [LINKin catalog]()to request items taht are not available for checkout at Skokie Public Library.
 ###Other Items Not Available at the Library
