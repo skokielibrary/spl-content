@@ -14,7 +14,7 @@ You may choose to pick up your reserved items at the main library, at any Bookmo
 ###View Your Account
 Customers may view their library record to see checked out items, due dates, fines and reserves placed. [view my account]()
 ###Paying Fines 
-Fines may be paid with cash or check at the east or west checkout desks or at any of the self-checkout machines with a debit or credit card. Fines may also be paid online through  
+Fines may be paid with cash or check at the east or west checkout desks or at any of the self-checkout machines with a debit or credit card. Fines may also be paid online with a debit or credit card by signing into your account. [view my account]()
 
 
 
