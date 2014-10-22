@@ -286,7 +286,7 @@ Up-to-date health information from the National Library of Medicine, the world's
 Try also: [Mayo Clinic Health Information](http://www.mayoclinic.com/health-information/), [WebMD](http://www.webmd.com/)
 
 Job search
-Try also: [Glassdoor](http://www.glassdoor.com/), [Riley Guide](http://www.rileyguide.com/)\
+Try also: [Glassdoor](http://www.glassdoor.com/), [Riley Guide](http://www.rileyguide.com/)
 
 Law
 Try also: [FindLaw](http://public.findlaw.com/), [Illinois Legal Aid](http://www.illinoislegalaid.org/)
