@@ -342,7 +342,7 @@ Try also: [Better Business Bureau](http://www.bbb.org/), [Eopinions](http://www.
 
 Try also: [Cyndi's List](http://www.cyndislist.com/)
 
-Health & medicine
+**Health & medicine**
 
 [MedlinePlus](http://www.nlm.nih.gov/medlineplus/)
 
