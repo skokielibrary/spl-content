@@ -267,22 +267,25 @@ Illinois Corporate/LLC Search
 Try also: ThomasNet, Yahoo Finance
 
 Books & literature
-Try also: Literary Criticism from Internet Public Library
+Try also: [Literary Criticism: Internet Public Library](http://www.ipl.org/div/litcrit/)
 
 Consumer information
-ConsumerSearch
+[ConsumerSearch](http://www.consumersearch.com/)
 Find detailed buying guides and useful reviews of hundreds of consumer products.
 Try also: [Better Business Bureau](http://www.bbb.org/), [Eopinions](http://www.epinions.com/?sb=1), [Find the Best](http://www.findthebest.com/), [The Wirecutter](http://thewirecutter.com/)
 
 Genealogy
-Try also: Cyndi's List
+Try also: [Cyndi's List](http://www.cyndislist.com/)
 
 Health & medicine
-MedlinePlus
+[MedlinePlus](http://www.nlm.nih.gov/medlineplus/)
+Up-to-date health information from the National Library of Medicine, the world's largest medical library.
+
 Try also: [Mayo Clinic Health Information](http://www.mayoclinic.com/health-information/), [WebMD](http://www.webmd.com/)
 
 Job search
-Try also: [Glassdoor](http://www.glassdoor.com/), [Riley Guide](http://www.rileyguide.com/)
+Try also: [Glassdoor](http://www.glassdoor.com/), [Riley Guide](http://www.rileyguide.com/)\
+
 Law
 Try also: [FindLaw](http://public.findlaw.com/), [Illinois Legal Aid](http://www.illinoislegalaid.org/)
 
