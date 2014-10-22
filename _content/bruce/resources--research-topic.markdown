@@ -108,7 +108,7 @@ Full-text access to thousands of newspapers, magazines, and journals, including 
 More than 330 encyclopedias and specialized reference sources. Search the entire collection or a particular subject area.
 
 ##Hoover's Online
-Information on thousands of companies, including financials, top officers, and top competitors. Also includes industry information and basic contacts for millions of additional businesses.
+Information on thousands of companies, including financials, top officers, and competitors. Also includes industry data and contact information for smaller businesses.
 
 [Business & investing]
 
@@ -131,14 +131,14 @@ Print free legal forms covering divorce, leases, wills, powers of attorney, and 
 [Law]
 
 ##LexisNexis Library Express
-Find newspaper and magazine articles, media transcripts, business information, and legal sources such as federal and state court cases dating back to 1789. _Note: Only the news and business sections are accesible outside the library._
+Find newspaper and magazine articles, media transcripts, business information, and legal sources such as federal and state court cases dating back to 1789. _Note: Only the news and business sections are available outside the library._
 
 [Articles]
 [Business & investing]
 [Law]
 
 ##Library PressDisplay
-Current newspapers from around the world, presented in image format with photos, ads, crossword puzzles, and more.
+Current newspapers from around the world, presented in image format with full layouts, photos, and advertisements.
 
 [Articles]
 
@@ -153,7 +153,7 @@ Connect with tutors to work on math, science, social studies, and English proble
 [Kids]
 
 ##Lynda.com Online Learning Library
-Watch thousands of step-by-step online video tutorials on software, apps, media, marketing, business, and technology, all led by expert trainers.
+Watch thousands of step-by-step online video tutorials on software, apps, media, marketing, business, and technology.
 
 [Technology training]
 
