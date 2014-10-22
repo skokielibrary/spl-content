@@ -35,7 +35,7 @@ All-ages content from _Encyclop&#230;dia Briannica_ and _Britannica Concise Ency
 [Kids]
 
 ##CAMIO
-View and download thousands of high-resolution images of art works from leading museums around the world.
+View and download thousands of high-resolution images of artworks from leading museums around the world.
 
 ##Career Center from Tutor.com
 Get tips on job searching and interview prep. From 3 to 10 pm daily, upload resumes and cover letters and a career expert will give you feedback within 24 hours.
@@ -344,4 +344,3 @@ Try also: [FindLaw](http://public.findlaw.com/), [Illinois Legal Aid](http://www
 Real estate:
 [Cook County Tax Portal](http://cookcountypropertyinfo.com/Pages/pin-search.aspx)
 Find county property information, including assessed values. Search by PIN or address.
-
