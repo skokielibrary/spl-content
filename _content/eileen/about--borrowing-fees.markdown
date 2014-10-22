@@ -6,9 +6,11 @@ published: true
 
 ##Loan Periods and Fees
 [Loan table]()
-###Account Information
-If you move, promptly update your address at the west checkout desk. Provide the library with an email address and we will notify you two days ahead of your due date. Overdue and reserve notifications will also come to you by email.
+###Notifications
+Provide the library with an email address and we will notify you two days ahead of your due date. Overdue and reserve notifications will also come to you by email.
 ##Using Your Account 
+###Change of Address
+If you move, promptly update your address and phone number at the west checkout desk.
 ###Renewing an Item
 Most items may be renewed if they have not been requested by another customer or have not reached their maximum renewal. Some items may not be renewed. Renewable items may be renewed by calling (847) 673-2675 using a touchtone phone or online by signing into your account.[view my account]() 
 ###Reserve an Item
