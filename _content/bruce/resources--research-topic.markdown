@@ -10,7 +10,7 @@ Introduce your preschoolers and kindergarteners to reading, math, social science
 [Available in-library only]
 
 ##Ancestry Library Edition 
-Search billions of genealogy documents&#8212;including census, military, immigration, and birth and death records&#8212;in the library version of Ancestry.com.
+Search billions of genealogy documents&#8212;including census, military, immigration, birth, and death records&#8212;in the library version of Ancestry.com.
 [Genealogy]
 [Available in-library only]
 
@@ -285,5 +285,3 @@ Try also: Cyndi's List
 
 Job Search
 Try also: Glassdoor, Riley Guide
-
-
