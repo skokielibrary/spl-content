@@ -168,7 +168,7 @@ Search full-text articles from popular magazines and journals covering areas of 
 [Articles]
 
 ##MEDLINE from OCLC FirstSearch
-Article index for journals in medicine, dentistry, and nursing. Aimed primarily at doctors and medical researchers.
+Article index for journals in medicine, dentistry, and nursing, aimed primarily at doctors and medical researchers.
 
 [Health & medicine]
 
@@ -193,7 +193,7 @@ Peer-reviewed, independent data on complementary and alternative thearapies such
 [Health & medicine]
 
 ##netTrekker
-Thousands of teacher-approved websites and digital resources for students from elementary through high school. You can refine search results by subject, reading level, or school level.
+Thousands of teacher-approved websites and digital resources for students from elementary through high school. You can refine search results by subject, reading level, or grade level.
 
 [Kids]
 
