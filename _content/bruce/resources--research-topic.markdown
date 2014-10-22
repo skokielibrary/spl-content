@@ -61,18 +61,22 @@ Browse full-image content from 2008 onward. After logging in, choose "Title Sele
 ##Consumer Health Complete
 
 Get health and wellness information from hundreds of health journals and reference books covering mainstream and integrated medicine.
+
 [Health & medicine]
 
 ##ConsumerReports.org
 Find ratings and recommendations on appliances, electronics, cars, and more from the popular magazine and website.
+
 [Consumer information]
 
 ##Consumers' Checkbook
 Ratings on Chicago-area service providers such as car mechanics, plumbers, dentists, banks, and more. You'll be asked to register with Consumers' Checkbook to access the reviews.
+
 [Consumer information]
 
 ##CultureGrams Online
 Find detailed descriptions of daily life, customs, and culture in nearly 200 countries and all U.S. states and Canadian provinces.
+
 [Kids]
 
 ##Current Biography Illustrated from EBSCOhost
@@ -80,18 +84,22 @@ Magazine-length biographical profiles of celebrities, politicians, entertainers,
 
 ##Early World of Learning from World Book Online
 Narrated stories, games, and reading practice for preschool and elementary school students. Includes a basic encyclopedia for the youngest learners.
+
 [Kids]
 
 ##ERIC from OCLC FirstSearch
 Index to journal articles, resources and research in the education field.
+
 [Articles]
 
 ##eSequels
 Check the correct order of all your favorite novels with this resource, which allows you to search by author, title, location, character, or subject.
+
 [Books & literature]
 
 ##Factiva
 Full-text access to thousands of newspapers, magazines, and journals, including the _Chicago Sun-Times_, _The Wall Street Journal_, and _The New York Times_.
+
 [Articles]
 
 ##Gale Virtual Reference Library
@@ -99,14 +107,17 @@ More than 330 encyclopedias and specialized reference sources. Search the entire
 
 ##Hoover's Online
 Information on thousands of companies, including financials, top officers, and top competitors. Also includes industry information and basic contacts for millions of additional businesses.
+
 [Business & investing]
 
 ##JSTOR
 Full-text access to academic journals and primary sources in the arts, sciences, humanities, social sciences, and medicine. Issue dates range from historical to current.
+
 [Articles]
 
 ##Kids Search from EBSCO
 Search for articles and pictures in this general reference resource for students in kindergarten through 5th grade. 
+
 [Kids]
 
 ##LearningExpress Library
@@ -114,76 +125,94 @@ Ace the ACT, SAT, GED, ASVAB, and other tests by prepping with these interactive
 
 ##LegalForms from Gale
 Print free legal forms covering divorce, leases, wills, powers of attorney, and more.
+
 [Law]
 
 ##LexisNexis Library Express
 Find newspaper and magazine articles, media transcripts, business information, and legal sources such as federal and state court cases dating back to 1789. _Note: Only the news and business sections are accesible outside the library._
+
 [Articles]
 [Business & investing]
 [Law]
 
 ##Library PressDisplay
 Current newspapers from around the world, presented in image format with photos, ads, crossword puzzles, and more.
+
 [Articles]
 
 ##Literature Criticism Online/Something About the Author
 Find information and criticism on writers, poets and their works.
+
 [Books & literature]
 
 ##Live Homework Help
 Connect with tutors to work on math, science, social studies, and English problems from 3 to 10 pm daily. Tailored for students from 4th grade to junior college, the sessions last approximately 20 minutes. Library cardholders are limited to 5 sessions per week. 
+
 [Kids]
 
 ##Lynda.com Online Learning Library
 Watch thousands of step-by-step online video tutorials on software, apps, media, marketing, business, and technology, all led by expert trainers.
+
 [Technology training]
 
 ##Mango Languages
 Lessons in 60-plus languages, including English. Includes specialty courses, such as medical Spanish, and full-lengh theatrical movies with subtitles and enhanced instruction. Download the Mango Languages app to use on mobile devices.
+
 [Languages]
 
 ##MasterFILE Premier from EBSCOhost
 Search full-text articles from popular magazines and journals covering virtually every subject area of general interest.
+
 [Articles]
 
 ##MEDLINE from OCLC FirstSearch
 Article index for journals in medicine, dentistry, and nursing. Aimed primarily at doctors and medical researchers.
+
 [Health & medicine]
 
 ##Mergent Online
 Information on thousands of publicly traded companies from the United States and around the world, including historical stock prices and data on defunct businesses.
+
 [Business & investing]
 
 ##Mergent WebReports
 An archive of international corporate and industry-related documents. Includes annual reports dating back to the early 1900s and information on municipal bonds.
+
 [Business & investing]
 
 ##Morningstar Investment Research Center
 Investment analysis and ratings for stocks, mutual funds, exchange-traded funds, and markets.
+
 [Business & investing]
 
 ##Natural Standard
 Peer-reviewed, independent data on complementary and alternative thearapies such as herbs, supplements, and a variety of integrative medicine practices.
+
 [Health & medicine]
 
 ##netTrekker
 Thousands of teacher-approved websites and digital resources for students from elementary through high school. You can refine search results by subject, reading level, or school level.
+
 [Kids]
 
 ##Newspaper Source from EBSCOhost
 Full-text articles from hundreds of U.S. and international newspapers such as _The Washington Post_ and _USA Today_; also features transcripts from CNN, Fox News, and NPR.
+
 [Articles]
 
 ##The New York Times from LexisNexis Library Express
 Search full-text articles from 1980 to the present from the country's newspaper of record.
+
 [Articles]
 
 ##NoveList Plus
 Find recommendations and reviews for adult and teen fiction and nonfiction based on your favorite titles, authors, and genres.
+
 [Books & literature]
 
 ##NoveList K-8 Plus
 Discover great books for children from kindergarten through grade 8. Browse lists of award-winning titles or search for books by grade level or Lexile score.
+
 [Books & literature]
 [Kids]
 
@@ -192,15 +221,18 @@ Search a wide range of databases, including ArticleFirst, ERIC, WorldCat, and ME
 
 ##Public Records Electronic Database
 Access Illinois public record data for home foreclosures, bankruptcies, new businesses, and real estate transactions. Available both inside and outside the library. 
+
 [Real estate]
 [Links for inside/remote access are different]
 
 ##ReferenceUSA
 Get contact information for millions of U.S. and Canadian companies as well as residential directory information. Search businesses by name, location, industry, or size.
+
 [Business & investing]
 
 ##Rosetta Stone Library Solution
 Take introductory lessons in more than 30 languages in the library version of the popular language software. 
+
 [Languages]
 
 ##Safari Books Online
@@ -208,33 +240,40 @@ Read thousands of technology, software, and business books through your web brow
 
 ##Salem Health
 Find health answers culled from _Magill's Medical Guide_, an authoritative medical encyclopedia written in accessible language for general readers.
+
 [Health & medicine]
 
 ##Science Online
 Features a science encyclopedia, experiments, biographies, and illustrations ideal for grades 6 and up.
+
 [Kids]
 
 ##Searchasaurus
 Geared toward younger students, this full-text article resource encourages kids to develop research skills.
+
 [Kids]
 
 ##Skokie Newspaper Index
 Find citations to articles that appeared in the _Skokie Review_, _The News_, and _Life: Skokie_ edition. To request full articles, email askref@skokielibrary.info or call our Reference Desk at 847-673-3733.
+
 [Articles]
 [Genealogy]
 
 ##Skokie Obituary Index
 Find citations to obituaries that appeared in _The News_ (1960&#82101984), _Skokie Review_ (1981&#8210present), and _Life: Skokie edition_ (1978&#8210Oct. 2004). To request full obituaries, email askref@skokielibrary.info or call our Reference Desk at 847-673-3733.
+
 [Articles]
 [Genealogy]
 
 ##Something About the Author
 Read biographies and critical essays about writers and illustrators of children and teen books.
+
 [Kids]
 [Books & literature]
 
 ##TeachingBooks.net
 Aimed primarily at teachers, this provides multimedia resources and activities to supplement elementary, middle, and high school reading assignments.
+
 [Kids]
 [Books & literature]
 
@@ -244,6 +283,7 @@ Learn how to build websites and apps, write code, or start a business through se
 
 ##TumbleBook Library for Kids
 A collection of animated, narrated picture books that kids can follow along word for word.
+
 [Kids]
 [Books & literature]
 
