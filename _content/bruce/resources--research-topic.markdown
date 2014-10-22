@@ -275,9 +275,9 @@ Try also: [Better Business Bureau](http://www.bbb.org/), [Eopinions](http://www.
 
 Health & medicine
 MedlinePlus
-Try also: [Mayo Clinic Health Information](http://www.mayoclinic.com/health-information/), WebMD
+Try also: [Mayo Clinic Health Information](http://www.mayoclinic.com/health-information/), [WebMD](http://www.webmd.com/)
 
-Legal & government
+Law
 Cook County Tax Portal
 Try also: FindLaw, Illinois Legal Aid
 
