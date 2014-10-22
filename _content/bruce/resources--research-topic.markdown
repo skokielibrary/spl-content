@@ -284,7 +284,7 @@ Try also: [Mayo Clinic Health Information](http://www.mayoclinic.com/health-info
 Job search
 Try also: [Glassdoor](http://www.glassdoor.com/), [Riley Guide](http://www.rileyguide.com/)
 Law
-Try also: FindLaw, Illinois Legal Aid
+Try also: [FindLaw](http://public.findlaw.com/), [Illinois Legal Aid](http://www.illinoislegalaid.org/)
 
 Real estate:
 [Cook County Tax Portal](http://cookcountypropertyinfo.com/Pages/pin-search.aspx)
