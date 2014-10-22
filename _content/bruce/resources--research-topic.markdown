@@ -72,7 +72,7 @@ Find ratings and recommendations on appliances, electronics, cars, and more from
 [Consumer information]
 
 ##Consumers' Checkbook
-Ratings on Chicago-area service providers such as car mechanics, plumbers, dentists, banks, and more. You'll be asked to register with Consumers' Checkbook to access the reviews.
+Ratings on numerous categories of Chicago-area service providers, including car mechanics, plumbers, dentists, roofers, and lawn care companies. [You'll be asked to register with Consumers' Checkbook to access the reviews.--checking to see if this is true off-site]
 
 [Consumer information]
 
