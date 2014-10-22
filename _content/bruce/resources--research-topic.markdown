@@ -6,16 +6,19 @@ published: true
 
 ##ABCMouse.com
 Introduce your preschoolers and kindergarteners to reading, math, social science, art, and music with this award-winning education software.
+
 [Kids]
 [Available in-library only]
 
 ##Ancestry Library Edition 
 Search billions of genealogy documents&#8212;including census, military, immigration, birth, and death records&#8212;in the library version of Ancestry.com.
+
 [Genealogy]
 [Available in-library only]
 
 ##Atomic Training
 Watch short video tutorials on popular software applications (including Microsoft, Adobe, Apple, and Google products).
+
 [Technology training]
 
 ##Auto Repair Reference Center
@@ -23,10 +26,12 @@ Step-by-step repair directions, diagnostics, diagrams, and updated service bulle
 
 ##Britannica Global Reference Center
 Search encyclopedias and other reference resources written in Spanish, Korean, Chinese, French, and Japanese.
+
 [Kids]
 
 ##Britannica Online
 All-ages content from _Encyclop&#230;dia Briannica_ and _Britannica Concise Encyclopedia_, as well as videos and magazine articles.
+
 [Kids]
 
 ##CAMIO
@@ -34,22 +39,27 @@ View and download thousands of high-resolution images of art works from leading 
 
 ##Career Center from Tutor.com
 Get tips on job searching and interview prep. From 3 to 10 pm daily, upload resumes and cover letters and a career expert will give you feedback within 24 hours.
+
 [Job search]
 
 ##The Careers College
 Learn how to navigate your job search with interactive tutorials, career resources, resume templates, and self-evaluation forms.
+
 [Job search]
 
 ##Chicago Tribune (1849&#8210;present) from ProQuest
 Search the newspaper's complete text. Content from 1849 to 1987 includes images of articles, photographs, death notices, and ads. From 1987 to present, only text versions of articles and obituaries are available.
+
 [Articles]
 
 ##Chicago Tribune Digital Microfilm from ProQuest
+
 Browse full-image content from 2008 onward. After logging in, choose "Title Select" to connect to the _Tribune_. There's a lag of a few months before current editions appear here (full-image views of this week's paper are available in Library PressDisplay).
 [Articles]
 [Link to Library PressDisplay?]
 
 ##Consumer Health Complete
+
 Get health and wellness information from hundreds of health journals and reference books covering mainstream and integrated medicine.
 [Health & medicine]
 
