@@ -291,20 +291,24 @@ A collection of animated, narrated picture books that kids can follow along word
 
 ##TumbleTalking Books Collection
 An online collection of eBooks and read-along chapter, graphic novels, and audiobooks.
+
 [Kids]
 [Books & literature]
 
 ##Value Line Research Center
 The latest information on stocks, mutual funds, options, and convertible securities. View, print, and download research reports from the various _Value Line_ publications.
+
 [Business & investing]
 
 ##WestlawNext
 Legal research portal designed for the general public, this features the text of Illinois and federal court decisions and national statutes.
+
 [Law]
 [Available in library only]
 
 ##World Book Online
 An online version of the popular encyclopedia.
+
 [Kids]
 
 ##WorldCat from OCLC FirstSearch
@@ -345,4 +349,4 @@ Try also: [FindLaw](http://public.findlaw.com/), [Illinois Legal Aid](http://www
 
 Real estate:
 [Cook County Tax Portal](http://cookcountypropertyinfo.com/Pages/pin-search.aspx)
-Find county property information, including assessed values. Search by PIN or address.
+Find county property information, including assessed values. Search by PIN or address.]
