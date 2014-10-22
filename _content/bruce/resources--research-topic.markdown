@@ -43,7 +43,7 @@ Get tips on job searching and interview prep. From 3 to 10 pm daily, upload resu
 [Job search]
 
 ##The Careers College
-Learn how to navigate your job search with interactive tutorials, career resources, resume templates, and self-evaluation forms.
+Learn to navigate your job search with interactive tutorials, career resources, resume templates, and self-evaluation forms.
 
 [Job search]
 
