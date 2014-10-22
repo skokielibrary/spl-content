@@ -321,6 +321,7 @@ Search the collections of thousands of libraries in the United States and around
 **Business & investing**
 
 [Illinois Corporation/LLC Search](http://www.ilsos.gov/corporatellc/)
+
 Information on businessess and nonprofits, including those that have been dissolved or are in poor standing, from the Illinois Secretary of State.
 
 Try also: [ThomasNet](http://www.thomasnet.com/), [Yahoo Finance](http://finance.yahoo.com/)
@@ -332,6 +333,7 @@ Try also: [Literary Criticism: Internet Public Library](http://www.ipl.org/div/l
 **Consumer information**
 
 [ConsumerSearch](http://www.consumersearch.com/)
+
 Find detailed buying guides and useful reviews of hundreds of consumer products.
 
 Try also: [Better Business Bureau](http://www.bbb.org/), [Eopinions](http://www.epinions.com/?sb=1), [Find the Best](http://www.findthebest.com/), [The Wirecutter](http://thewirecutter.com/)
@@ -343,6 +345,7 @@ Try also: [Cyndi's List](http://www.cyndislist.com/)
 Health & medicine
 
 [MedlinePlus](http://www.nlm.nih.gov/medlineplus/)
+
 Up-to-date health information from the National Library of Medicine, the world's largest medical library.
 
 Try also: [Mayo Clinic Health Information](http://www.mayoclinic.com/health-information/), [WebMD](http://www.webmd.com/)
@@ -358,4 +361,5 @@ Try also: [FindLaw](http://public.findlaw.com/), [Illinois Legal Aid](http://www
 **Real estate:**
 
 [Cook County Tax Portal](http://cookcountypropertyinfo.com/Pages/pin-search.aspx)
+
 Find county property information, including assessed values. Search by PIN or address.]
