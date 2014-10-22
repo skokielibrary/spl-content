@@ -77,7 +77,7 @@ Ratings on numerous Chicago-area service providers, including car mechanics, plu
 [Consumer information]
 
 ##CultureGrams Online
-Find detailed descriptions of daily life, customs, and culture in nearly 200 countries and all U.S. states and Canadian provinces.
+Find detailed descriptions of daily life, customs, and culture in nearly 200 countries.
 
 [Kids]
 
