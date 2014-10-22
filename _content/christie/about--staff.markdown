@@ -11,7 +11,7 @@ We have about 82 full-time and 77 part-time staff members working to help you in
 ###Management Team
 
 - Director, Carolyn A. Anthony
-- Deputy Director, Richard Kon
+- Deputy Director, Richard Kong
 - Access Services Manager, Laura McGrath
 - Adult Services Manager, Lynnanne Pearson
 - Communications and Marketing Manager, Christie Robinson
@@ -25,6 +25,3 @@ We have about 82 full-time and 77 part-time staff members working to help you in
 - Youth Services Manager, Jan Watkins
 
 Until we have the capacity to do something fun with this page, would it be relatively easy to have a carousel or even a still collage of action photos of staff working? Using existing photos for now.
-
-
-
