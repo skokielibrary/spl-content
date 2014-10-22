@@ -5,7 +5,9 @@ published: true
 ---
 
 ##ABCMouse.com
+Introduce your preschoolers and kindergarteners to reading, math, social science, art, and music with this award-winning education software.
 [Kids]
+[Available in-library only]
 
 ##Ancestry Library Edition 
 Search billions of genealogy documents&#8212;including census, military, immigration, and birth and death records&#8212;in the library version of Ancestry.com.
@@ -128,7 +130,7 @@ Watch thousands of step-by-step online video tutorials on software, apps, media,
 
 ##Mango Languages
 Lessons in 60-plus languages, including English. Includes specialty courses, such as medical Spanish, and full-lengh theatrical movies with subtitles and enhanced instruction. Download the Mango Languages app to use on mobile devices.
-[Language learning]
+[Languages]
 
 ##MasterFILE Premier from EBSCOhost
 Search full-text articles from popular magazines and journals covering virtually every subject area of general interest.
@@ -213,6 +215,7 @@ Find citations to articles that appeared in the _Skokie Review_, _The News_, and
 ##Skokie Obituary Index
 Find citations to obituaries that appeared in _The News_ (1960&#82101984), _Skokie Review_ (1981&#8210present), and _Life: Skokie edition_ (1978&#8210Oct. 2004). To request full obituaries, email askref@skokielibrary.info or call our Reference Desk at 847-673-3733.
 [Articles]
+[Genealogy]
 
 ##Something About the Author
 Read biographies and critical essays about writers and illustrators of children and teen books.
@@ -253,3 +256,34 @@ An online version of the popular encyclopedia.
 
 ##WorldCat from OCLC FirstSearch
 Search the collections of thousands of libraries in the United States and around the world using this global catalog.
+
+[Categories: Articles, Books & literature, Business & investing, Consumer information, Genealogy, Health & medicine, Job search, Kids, Languages, Law, Technology Training]
+
+[Additional sites:
+
+Business & investing
+Illinois Corporate/LLC Search
+Try also: ThomasNet, Yahoo Finance
+
+Books & literature
+Try also: Literary Criticism from Internet Public Library
+
+Consumer information
+ConsumerSearch
+Try also: Better Business Bureau, Eopinions, Find the Best, The Wirecutter
+
+Health & medicine
+MedlinePlus
+Try also: Mayo Clinic Health Information, WebMD
+
+Legal & government
+Cook County Tax Portal
+Try also: FindLaw, Illinois Legal Aid
+
+Genealogy
+Try also: Cyndi's List
+
+Job Search
+Try also: Glassdoor, Riley Guide
+
+
