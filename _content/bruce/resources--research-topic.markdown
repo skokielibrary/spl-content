@@ -163,7 +163,7 @@ Lessons in 60-plus languages, including English. Includes specialty courses, suc
 [Languages]
 
 ##MasterFILE Premier from EBSCOhost
-Search full-text articles from popular magazines and journals covering virtually every subject area of general interest.
+Search full-text articles from popular magazines and journals covering areas of general interest.
 
 [Articles]
 
