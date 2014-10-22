@@ -56,6 +56,7 @@ Search the newspaper's complete text. Content from 1849 to 1987 includes images 
 ##Chicago Tribune Digital Microfilm from ProQuest
 
 Browse full-image content from 2008 onward. After logging in, choose "Title Select" to connect to the _Tribune_. There's a lag of a few months before current editions appear here (full-image views of this week's paper are available in Library PressDisplay).
+
 [Articles]
 [Link to Library PressDisplay?]
 
