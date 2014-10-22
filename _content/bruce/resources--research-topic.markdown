@@ -274,19 +274,19 @@ ConsumerSearch
 Find detailed buying guides and useful reviews of hundreds of consumer products.
 Try also: [Better Business Bureau](http://www.bbb.org/), [Eopinions](http://www.epinions.com/?sb=1), [Find the Best](http://www.findthebest.com/), [The Wirecutter](http://thewirecutter.com/)
 
+Genealogy
+Try also: Cyndi's List
+
 Health & medicine
 MedlinePlus
 Try also: [Mayo Clinic Health Information](http://www.mayoclinic.com/health-information/), [WebMD](http://www.webmd.com/)
 
+Job search
+Try also: [Glassdoor](http://www.glassdoor.com/), [Riley Guide](http://www.rileyguide.com/)
 Law
 Try also: FindLaw, Illinois Legal Aid
-
-Genealogy
-Try also: Cyndi's List
 
 Real estate:
 [Cook County Tax Portal](http://cookcountypropertyinfo.com/Pages/pin-search.aspx)
 Find county property information, including assessed values. Search by PIN or address.
 
-Job search
-Try also: [Glassdoor](http://www.glassdoor.com/), [Riley Guide](http://www.rileyguide.com/)
