@@ -228,7 +228,7 @@ Access Illinois public record data for home foreclosures, bankruptcies, new busi
 [Links for inside/remote access are different]
 
 ##ReferenceUSA
-Get contact information for millions of U.S. and Canadian companies as well as residential directory information. Search businesses by name, location, industry, or size.
+Get contact information for millions of U.S. and Canadian companies as well as residential directory information. Generate reports by searching businesses by name, location, industry, or size.
 
 [Business & investing]
 
@@ -238,7 +238,7 @@ Take introductory lessons in more than 30 languages in the library version of th
 [Languages]
 
 ##Safari Books Online
-Read thousands of technology, software, and business books through your web browser.
+Read thousands of technology, software, and business books through your browser.
 
 ##Salem Health
 Find health answers culled from _Magill's Medical Guide_, an authoritative medical encyclopedia written in accessible language for general readers.
