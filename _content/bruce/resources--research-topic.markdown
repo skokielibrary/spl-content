@@ -263,8 +263,9 @@ Search the collections of thousands of libraries in the United States and around
 [Additional sites:
 
 Business & investing
-Illinois Corporate/LLC Search
-Try also: ThomasNet, Yahoo Finance
+[Illinois Corporation/LLC Search](http://www.ilsos.gov/corporatellc/)
+Information on businessess and nonprofits, including those that have been dissolved or are in poor standing, from the Illinois Secretary of State.
+Try also: [ThomasNet](http://www.thomasnet.com/), [Yahoo Finance](http://finance.yahoo.com/)
 
 Books & literature
 Try also: [Literary Criticism: Internet Public Library](http://www.ipl.org/div/litcrit/)
@@ -272,6 +273,7 @@ Try also: [Literary Criticism: Internet Public Library](http://www.ipl.org/div/l
 Consumer information
 [ConsumerSearch](http://www.consumersearch.com/)
 Find detailed buying guides and useful reviews of hundreds of consumer products.
+
 Try also: [Better Business Bureau](http://www.bbb.org/), [Eopinions](http://www.epinions.com/?sb=1), [Find the Best](http://www.findthebest.com/), [The Wirecutter](http://thewirecutter.com/)
 
 Genealogy
