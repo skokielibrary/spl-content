@@ -7,7 +7,7 @@ published: true
 ##Loan Periods and Fees
 [Loan table]()
 ###Notifications
-Provide the library with an email address and we will notify you two days ahead of your due date. Overdue and reserve notifications will also come to you by email.
+Provide the library with an email address and we will notify you two days ahead of your due date. Overdue and reserve notifications will also be sent to you by email.
 ##Using Your Account 
 ###Change of Address
 If you move, promptly update your address and phone number at the west checkout desk.
