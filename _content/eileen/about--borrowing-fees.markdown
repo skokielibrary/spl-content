@@ -5,7 +5,7 @@ published: true
 ---
 
 ##Loan Periods and Fees
-[Loan table]()
+[Loan table](Use the condensed table Christie has in the Loan Policy brochure) 
 ###Notifications
 Provide the library with an email address and we will notify you two days ahead of your due date. Overdue and reserve notifications will also be sent to you by email.
 ##Using Your Account 
