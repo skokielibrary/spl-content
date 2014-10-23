@@ -19,3 +19,8 @@ Those with visual impairments are invited to this monthly discussion of fiction 
 
 ##Homebound delivery
 If you have a Skokie Public Library card but can't visit our building because of age, illness, or a temporary or permanent disability, we'll bring the library to you. Contact Lee Leibik at 847-972-5651 or lleibik@skokielibrary.info to register for our free homebound delivery service. Volunteers and staff will help select and deliver library materials to your door once a month.
+
+[Callout: 
+
+Accessibility services for children
+If you're visiting the library with a child who has special needs, please call ahead to let us know how we can be most accomodating. We have many services designed specifically for youth with disabilities.]
