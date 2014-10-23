@@ -233,7 +233,7 @@ Get contact information for millions of U.S. and Canadian companies as well as r
 [Business & investing]
 
 ##Rosetta Stone Library Solution
-Take introductory lessons in more than 30 languages in the library version of the popular language software. 
+Take introductory-level lessons in more than 30 languages in the library version of the popular language software. You'll be asked to register with Rosetta Stone to access the lessons.
 
 [Languages]
 
