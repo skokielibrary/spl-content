@@ -4,19 +4,23 @@ title: "Borrowing & fees"
 published: true
 ---
 
-##Loan Periods and Fees
-[Loan table](Use the condensed table Christie has in the Loan Policy brochure) 
-###Notifications
-Provide the library with an email address and we will notify you two days ahead of your due date. Overdue and reserve notifications will also be sent to you by email.
+Checking out one of our items? Here's what you need to know about borrowing and your account.
+
+##Loan periods and fees
+[Loan table: use the condensed table Christie has in the Loan Policy brochure]
+
 ##Using Your Account 
+
+###Renewals
+You can renew most items if no one else has reserved them or they haven't reached their renewal limit. Call 847-673-2675 to use our automated renewal line or log in [link] to renew online.
+
+###Reserves
+You can reserve items unavailable circulating items through our catalog, in person, or via phone. You can have up to 15 items reserved at on your card. 
+
+###Due date notification
+log in to your account and select and we will notify you two days ahead of your due date. Overdue and reserve notifications will also be sent to you by email.
 ###Change of Address
 If you move, promptly update your address and phone number at the west checkout desk.
-###Renewing an Item
-Most items may be renewed if they have not been requested by another customer or have not reached their maximum renewal. Some items may not be renewed. Renewable items may be renewed by calling (847) 673-2675 using a touchtone phone or online by signing into your account.[view my account]() 
-###Reserve an Item
-Circulating materials that are currently checked out or on order may be reserved by Skokie Public Library cardholders in person, over the telephone or via the library's catalog [library catalog]() Skokie Public Library cardholders may also use LINKin [LINKin catalog]()to request items that are not available for checkout at Skokie Public Library. You may have up to 15 items reserved at any one time.
-###Other Items Not Available at the Library
-Items not owned by Skokie Public Library or available through LINKin may be requested by Skokie Public Library cardholders through Interlibrary Loan. Make a request at any service desk, by phone or online [ILL request form]()
 ###Pick-up Locations
 Choose to pick up your reserved items at the main library, at any Bookmobile stop or have them delivered to your door via Library Express. U.S. Postal Service Delivery is available for $2 per item.
 ###View Your Account
