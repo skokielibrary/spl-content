@@ -9,10 +9,10 @@ Want to download books, music, magazines, and movies to your tablet or phone wit
 ##eBooks
 Check out fiction and nonfiction eBooks for adults, children, and teens in a variety of genres and subjects. Find titles in our catalog or search directly through [3M Cloud Library](http://ebook.3m.com/library/SkokiePublicLibrary/) and [OverDrive](http://overdrive.skokielibrary.info/). You can also download their apps on Google Play or the App Store. 
 
-Know a kid who loves books? With TumbleBook Library [direct link to db or see note at bottom] they can read animated, narrated picture and chapter books through any Web browser.
+Know a kid who loves books? With TumbleBook Library [direct link to db or see note at bottom] they can read animated, narrated picture and chapter books through any browser.
 
 ##Audiobooks
-Download audiobooks onto phones or mobile devices through [Overdrive](http://overdrive.skokielibrary.inf/), [Hoopla](http://hoopla.skokielibrary.info), and [OneClick Digital](http://skokieil.oneclickdigital.com/) or their apps. You can also stream audiobooks on a computer or laptop using Hoopla.
+Download audiobooks onto phones or mobile devices with [Overdrive](http://overdrive.skokielibrary.inf/), [Hoopla](http://hoopla.skokielibrary.info), and [OneClick Digital](http://skokieil.oneclickdigital.com/) or their apps. You can also stream audiobooks on a computer or laptop using Hoopla.
 
 ##Music
 Download or stream chart-topping albums with no holds and no fees via [Hoopla](http://hoopla.skokielibrary.info). If your passion is classical music, you don't want to miss streaming the Naxos Music Library [link]. We also have Naxos Jazz [link] and Music Online [link] for streaming jazz, Americana, and world music.
