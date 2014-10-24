@@ -4,7 +4,7 @@ title: "eBooks & more"
 published: true
 ---
 
-Want to download books, music, magazines, and movies to your tablet or phone? We have you covered.
+Want to download free books, music, magazines, and movies to your tablet or phone? We have you covered.
 
 ##eBooks
 Check out eBooks for adults, kids, and teens in a variety of genres and subjects. Find titles in our catalog or search directly through [3M Cloud Library](http://ebook.3m.com/library/SkokiePublicLibrary/) and [Overdrive](http://overdrive.skokielibrary.info/). You can also download their apps on Google Play or the App Store. 
