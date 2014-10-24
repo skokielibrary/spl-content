@@ -21,6 +21,12 @@ Watch short video tutorials on popular software applications (including Microsof
 
 [Technology training]
 
+##AudioBookCloud
+An online collection of streaming audiobooks for children.
+
+[Kids]
+[Books & literature]
+
 ##Auto Repair Reference Center
 Step-by-step repair directions, diagnostics, diagrams, and updated service bulletins for domestic and imported cars from 1954 to today.
 
@@ -285,12 +291,6 @@ Learn how to build websites and apps, write code, or start a business through se
 
 ##TumbleBook Library for Kids
 A collection of animated, narrated picture books that kids can follow along word for word.
-
-[Kids]
-[Books & literature]
-
-##TumbleTalking Books Collection
-An online collection of eBooks and read-along chapter, graphic novels, and audiobooks.
 
 [Kids]
 [Books & literature]
