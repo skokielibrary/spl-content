@@ -15,10 +15,10 @@ Know a kid who loves books? With TumbleBook Library [direct link to db or see no
 Download audiobooks onto phones or mobile devices through [Overdrive](http://overdrive.skokielibrary.inf/), [Hoopla](http://hoopla.skokielibrary.info), and [OneClick Digital](http://skokieil.oneclickdigital.com/) or their apps. You can also stream audiobooks on a computer or laptop using Hoopla.
 
 ##Music
-Download or stream chart-topping albums with no holds and no fees via [Hoopla](http://hoopla.skokielibrary.info). If your passion is classical music, you don't want to miss streaming from the Naxos Music Library [link]. We also have Naxos Jazz and Music Online, which lets you listen to jazz, Americana, and world music from Web browsers.
+Download or stream chart-topping albums with no holds and no fees via [Hoopla](http://hoopla.skokielibrary.info). If your passion is classical music, you don't want to miss streaming from the Naxos Music Library [link]. We also have Naxos Jazz and Music Online, which lets you listen to jazz, Americana, and world music from your browser.
 
 ##Magazines
-Read digital editions of your favorite magazines on your tablet or phone. (To check out magazines, first go to our Zinio page with your library card and then create an account with Zinio. To read magazines, download the Zinio app to your device or [download Zinio Reader](http://www.zinio.com/www/apps/desktop.jsp) for your Mac or PC.)
+Read digital editions of your favorite magazines on your tablet or phone. To check out magazines, first go to our Zinio page with your library card and then create an account with Zinio. To read magazines, download the Zinio app to your device or [download Zinio Reader](http://www.zinio.com/www/apps/desktop.jsp) for your Mac or PC.
 
 ##Movies & TV
 
