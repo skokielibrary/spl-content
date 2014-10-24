@@ -79,3 +79,4 @@ We will contact you to schedule the event.
 
 [callout]
 Do you want to find more ways to introduce STEAM learning to your students? Our STEAM kits are a fun, portable way to engage kids with science, engineering, and more. The kits check out for one week and can be renewed 3 times unless reserved. Take a look at our [collection](http://encore.skokielibrary.info/iii/encore/search?target=STEAM+KIT&formids=target&lang=eng&suite=def&reservedids=lang%2Csuite&submitmode=&submitname=&x=0&y=0 "STEAM kits").
+[/callout]
