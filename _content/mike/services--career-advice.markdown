@@ -6,7 +6,7 @@ published: false
 
 If you or someone you know needs help finding a job, we can help.
 
-For more information on career resources contact Mike Buhmann at 847-673-7774 ext. 3176, or [mbuhmann@skokielibrary.info](mailto:mbuhmann@skokielibrary.info).
+For more information on career resources, contact Mike Buhmann at 847-324-3176 or [mbuhmann@skokielibrary.info](mailto:mbuhmann@skokielibrary.info).
 
 ##Career Resource Center
 
