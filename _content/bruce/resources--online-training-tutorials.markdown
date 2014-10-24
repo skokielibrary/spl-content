@@ -4,7 +4,13 @@ title: "Online training & tutorials"
 published: true
 ---
 
+##Master technology
 
+##Learn a language
+
+##Pass a test
+
+##Get a job
 
 ##Atomic Training
 Watch short video tutorials on popular software applications (including Microsoft, Adobe, Apple, and Google products).
