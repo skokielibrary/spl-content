@@ -8,17 +8,15 @@ published: true
 
 ## Computers for Adults
 
-### Adult Computer Classroom
+### Adult Computer Commons & Computer Classroom
 
-Located on the second floor, this Computer Classroom has eleven full-service Internet/Microsoft Office computers, two scanning station, and printers. Periodically, the Lab will close for a computer class; closings are posted in advance. During these classes, computers are available in other areas of the Library. Computers may be used for one hour, though time can be extended if no one is waiting.
+You will find two spaces with computers on the library's second floor--the Adult Computer Commons and the Computer Classroom. Each space has full-service computers with Internet access and Microsoft Office, scanning stations, and printers. You sign up for one hour sessions, though time can be extended if no one is waiting. 
 
-### Adult Computer Commons
-
-Located on the second floor, this area contains Internet/Microsoft Office computers, one scanning station, and printers. Computers may be used for one hour, though time can be extended if no one is waiting.
+The Computer Classroom may be unavailable when we have regularly scheduled classes there. Closings are posted in advance.
 
 ### Digital Media Lab
 
-The Digital Media Lab is located on the first floor. This lab contains four Apple desktop computers running Mac OS and other software enabling users to creatively express themselves through digital videos, music, photography, websites, graphic design, podcasts, presentations and other forms of digital media. The room also features two scanners, an electronic keyboard, and a green screen wall.
+The Digital Media Lab lets you use advanced software and tools on Apple computers. It's a space for creating to creatively express yourself through digital videos, music, photography, websites, graphic design, podcasts, presentations and other forms of digital media.
 
 [BA: this should probably be on DML page, we can link to it?]
 
