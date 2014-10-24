@@ -12,7 +12,7 @@ Check out fiction and nonfiction eBooks for adults, children, and teens in a var
 Know a kid who loves books? With TumbleBook Library [direct link to db or see note at bottom] they can read animated, narrated picture and chapter books through any browser.
 
 ##Audiobooks
-Download audiobooks onto phones or mobile devices with [Overdrive](http://overdrive.skokielibrary.inf/), [Hoopla](http://hoopla.skokielibrary.info), and [OneClick Digital](http://skokieil.oneclickdigital.com/) or their apps. You can also stream audiobooks on a computer or laptop using Hoopla.
+Download audiobooks onto phones or mobile devices with [Overdrive](http://overdrive.skokielibrary.inf/), [Hoopla](http://hoopla.skokielibrary.info), and [OneClick Digital](http://skokieil.oneclickdigital.com/) or their apps. You can also stream audiobooks on a computer or laptop using Hoopla or AudioBookCloud [link] for kids.
 
 ##Music
 Download or stream chart-topping albums with no holds and no fees via [Hoopla](http://hoopla.skokielibrary.info). If your passion is classical music, you don't want to miss streaming the Naxos Music Library [link]. We also have Naxos Jazz [link] and Music Online [link] for streaming jazz, Americana, and world music.
