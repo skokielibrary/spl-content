@@ -15,6 +15,7 @@ Bring a photo I.D. with your name and current Skokie address to the West Checkou
 If you don't live in Skokie but have a library card from RAILS member public library [link to RAILS], bring your card and photo I.D. with name and current address to register your card at Skokie. Nonresidents can check out most of our items, but some borrowing limits [link] do apply. If you live in Chicago or elsewhere outside the RAILS system, you can buy a Skokie Public Library card for the cost of taxpayer support.
 
 ###Skokie businesses
-Companies based in Skokie or those with a current membership in the Skokie Chamber of Commerce may apply for a business library card. Complete the business library card application form and return to Skokie Public Library with the required documentation. Cards will be mailed to the business address.[business card application form]()
+Companies based in Skokie or members of the Skokie Chamber of Commerce can apply for a business library card. Complete the business library card application form [link] and return to Skokie Public Library with the required documentation. [need to find out what this is]. We'll mail the card to the business address.
+
 ##Lost Library Cards
-Call immediately to report a lost or stolen card. You are responsible for any items checked out with the card until you notify the library. Replacement cards cost $1.00.
+Call immediately to report a lost or stolen card, as you're responsible for any items checked out with the card until you notify the library. Replacement cards cost $1.
