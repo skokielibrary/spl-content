@@ -1,4 +1,22 @@
 ---
 layout: page
-title: eBooks & more
+title: "eBooks & more"
+published: true
 ---
+
+Want to download books, music, magazines, and movies to your tablet or phone? We have you covered.
+
+##eBooks
+Check out eBooks for adults, kids, and teens in a variety of genres and subjects. Find titles in our catalog or search directly through [3M Cloud Library](http://ebook.3m.com/library/SkokiePublicLibrary/) and [Overdrive](http://overdrive.skokielibrary.info/). You can also download their apps on Google Play or the App Store. 
+
+##Audiobooks
+Download audiobooks onto phones or mobile devices through Overdrive, Hoopla, and OneClick Digital.
+
+Music
+
+Magazines
+Read digital editions of your favorite magazines on your tablet or phone with Zinio. 
+
+Movies & TV
+
+[Call out: ad for TumbleBooks]
