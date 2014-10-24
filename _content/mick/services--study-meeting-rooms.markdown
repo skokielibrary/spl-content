@@ -17,9 +17,9 @@ We have 10 small group study rooms for adults and teens (9th grade and up) on th
 [Info or link for kids' study rooms]
 
 ##Meeting rooms
-The library has two meeting rooms and an auditorium  be available for community meetings. Click the links below for the meeting room policy, rules and procedures for using meeting rooms, and an application form.
+The library has two large meeting rooms and an auditorium available for community programs. 
+- Read our meeting room policy [link] and rules and procedures [link]
+- Download and print application forms for the Book Discussion Room [pdf], Mary Radmacher Room [pdf], and Petty Auditorium [link]
 
 ##Business & Career Center
-If you have a Skokie Public Library business card [link], you can use our Business and Career Center as a work, meeting, and seminar space. Visit our Business & Career Center Page to find out more
-
-The Business and Career Center is a suite of three rooms that can accommodate up to 49 people. They include a Program Room, a Committee Room, and a Conference Room.
+Skokie Public Library business card holders [link] can use the second-floor Business and Career Center, a suite of three rooms available for study, work, meeting, or seminar space. Visit our Business & Career Center page [link] to learn more.
