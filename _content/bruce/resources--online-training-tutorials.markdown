@@ -105,19 +105,6 @@ Check the correct order of all your favorite novels with this resource. Search b
 
 [Books & literature]
 
-##Factiva
-Full-text access to thousands of newspapers, magazines, and journals, including the _Chicago Sun-Times_, _The Wall Street Journal_, and _The New York Times_.
-
-[Articles]
-
-##Gale Virtual Reference Library
-More than 330 encyclopedias and specialized reference sources. Search the entire collection or a particular subject area.
-
-##Hoover's Online
-Information on thousands of companies, including financials, top officers, and competitors. Also includes industry data and contact information for smaller businesses.
-
-[Business & investing]
-
 
 ##LearningExpress Library
 Ace the ACT, SAT, GED, ASVAB, and other tests by prepping with these interactive practice exams. There also are citizenship and career exam modules. You'll be asked to register with LearningExpress to take the tests.
