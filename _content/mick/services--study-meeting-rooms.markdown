@@ -10,7 +10,7 @@ Our building is full of great spaces for studying, meeting, and gathering.
 
 We have 10 small group study rooms for adults and teens (9th grade and up) on the library's second floor. 
 - Reserve a room using the [study room booking system](http://events.skokielibrary.info/evanced/lib/roomrequest.asp?mm=1&libnum=2&allroomscheck=1) (you'll need a registered library or computer use card).
-- Study rooms can be booked up to a week in advance
+- Study rooms can be booked up to a week in advance.
 - You can reserve one 2-hour block per card per day.
 - Study rooms seat up to 6 people.
 - For more details check out our full study room procedures. [link] [and map?]
