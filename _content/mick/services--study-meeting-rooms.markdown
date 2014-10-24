@@ -4,7 +4,7 @@ title: "Study & meeting rooms"
 published: true
 ---
 
-Our building is full of great spaces for studying and holding business meetings and community gatherings.
+Our building is full of great spaces for studying, meeting, and gathering.
 
 ##Study rooms
 
