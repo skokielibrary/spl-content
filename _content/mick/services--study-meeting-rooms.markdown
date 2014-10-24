@@ -23,4 +23,4 @@ The library has two large meeting rooms and an auditorium available for communit
 - Download and print application forms for the Book Discussion Room [pdf], Mary Radmacher Room [pdf], and Petty Auditorium [link]
 
 ##Business & Career Center
-Skokie Public Library business card holders [link] can use the second-floor Business and Career Center, a suite of three rooms available for study, work, meeting, or seminar space. Visit our Business & Career Center page [link] to learn more.
+Skokie Public Library business card holders [link] can use the second-floor Business and Career Center, a suite of three rooms available for study, work, meetings, or presentations. Visit our Business & Career Center page [link] to learn more.
