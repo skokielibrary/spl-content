@@ -21,5 +21,6 @@ Download or stream chart-topping albums with no holds and no fees via [Hoopla](h
 Read digital editions of your favorite magazines on your tablet or phone. To check out magazines, first go to our Zinio page with your library card and then create an account with Zinio. To read magazines, download the Zinio app for mobile devices or [Zinio Reader](http://www.zinio.com/www/apps/desktop.jsp) for your Mac or PC.
 
 ##Movies & TV
+Instantly stream and download movies, television shows, documentaries, and instructional programs with [Hoopla](http://hoopla.skokielibrary.info). New classic, foreign, family, and contemporary films are added monthly.
 
 [Or call out for TBL and TBaudio?]
