@@ -14,5 +14,5 @@ Items usually arrive in Skokie within five days, and we'll let you know when the
 ##Not in LINKin?
 If you're a Skokie cardholder hunting for a new release, fill out our purchase request form [link] and we'll look into buying it for the library. For items older than six months, submit an interlibrary loan request [link]. 
 
-You can also use your library card to check out items at other suburban public libraries. Try searching the Morton Grove Public Library [catalog](http://mgpl.sirsi.net/uhtbin/cgisirsi/?ps=lKNzLwN0B6/x/48500016/60/1190/X) or nearby libraries (such as Lincolnwood, Niles, Evanston, and Wilmette) that use the joint [CCS catalog](http://64.107.155.140/cgi-bin/ibistro).
+You can also use your library card to check out items at other suburban public libraries. Try searching the Morton Grove Public Library [catalog](http://mgpl.sirsi.net/uhtbin/cgisirsi/?ps=lKNzLwN0B6/x/48500016/60/1190/X) or nearby libraries (such as those in Lincolnwood, Niles, Evanston, and Wilmette) that use the joint [CCS catalog](http://64.107.155.140/cgi-bin/ibistro).
 
