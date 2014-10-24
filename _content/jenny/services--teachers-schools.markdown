@@ -10,7 +10,7 @@ We work closely with area teachers and schools to make the library's services an
 Go in-depth! Our Teacher Toolkit gives you a detailed look at how we can help teachers, schools, and students.  [Download the Teacher Toolkit](link to toolkit "Teacher Toolkit")!
 [/callout]
 
-Get In Touch: Contact Jenny, the School Services Liason, at 847-972-5645 or at schoolservices@skokielibrary.info
+Get In Touch: Contact Jenny, the School Services Liason, at 847-972-5645 or at [schoolservices@skokielibrary.info](mailto:schoolservices@skokielibrary.info)
 
 ## Nine Things to Know
 
@@ -28,7 +28,7 @@ Students who live in Skokie can sign up for a library card through their school.
 
 We pack our Resource Bags with a collection of materials on a topic you choose. The bag is checked out for you to pick up at the library. 
 
-Send your requests to schoolservices@skokielibrary.info. Please include:
+Send your requests to [schoolservices@skokielibrary.info](mailto:schoolservices@skokielibrary.info). Please include:
 
 - Your name
 - Phone number
@@ -63,7 +63,7 @@ Library visits take place October through March on...
 
 Puppet shows will be visiting schools throughout November and March. Summer Reads book talks take place April through May.
  
-Send your requests to schoolservices@skokielibrary.info. Please include:
+Send your requests to [schoolservices@skokielibrary.info](mailto:schoolservices@skokielibrary.info). Please include:
 
 - Your name
 - Phone number
