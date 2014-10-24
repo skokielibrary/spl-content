@@ -4,7 +4,7 @@ title: "eBooks & more"
 published: true
 ---
 
-Want to download books, music, magazines, and movies to your tablet or phone with no fines or fees? Your library card has you covered.
+Want to download books, music, magazines, and movies to your tablet or phone with no fines or fees? Your Skokie Public Library card has you covered.
 
 ##eBooks
 Check out fiction and nonfiction eBooks for adults, children, and teens in a variety of genres and subjects. Find titles in our catalog or search directly through [3M Cloud Library](http://ebook.3m.com/library/SkokiePublicLibrary/) and [OverDrive](http://overdrive.skokielibrary.info/). You can also download their apps on Google Play or the App Store. 
@@ -24,6 +24,6 @@ Read digital editions of your favorite magazines on your tablet or phone with [Z
 Instantly stream and download movies, television shows, documentaries, and instructional programs with [Hoopla](http://hoopla.skokielibrary.info). New classic, foreign, family, and contemporary films are added monthly.
 
 ##Kindles and Roku
-You can also borrow [Kindle readers](http://encore.skokielibrary.info/iii/encore/search/C__Sebook%20reader.__Ff%3Afacetmediatype%3Ar%3Ar%3ADigital%20Devices%3A%3A__Orightresult__X0?lang=eng&suite=beta) preloaded with best-selling titles from our Readers Services Desk on the first floor. That's the place you can also check out a [Roku](http://encore.skokielibrary.info/iii/encore/record/C__Rb1807766__Sroku__Orightresult__X7?lang=eng&suite=beta) video streaming player.
+You can also borrow [Roku](http://encore.skokielibrary.info/iii/encore/record/C__Rb1807766__Sroku__Orightresult__X7?lang=eng&suite=beta) video streaming player and [Kindle readers](http://encore.skokielibrary.info/iii/encore/search/C__Sebook%20reader.__Ff%3Afacetmediatype%3Ar%3Ar%3ADigital%20Devices%3A%3A__Orightresult__X0?lang=eng&suite=beta) preloaded with best-selling titles from our Readers Services Desk on the first floor.
 
 [Or call out for TBL and TBaudio?]
