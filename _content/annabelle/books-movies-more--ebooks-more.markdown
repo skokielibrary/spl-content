@@ -18,7 +18,7 @@ Download audiobooks onto phones or mobile devices with [Overdrive](http://overdr
 Download or stream chart-topping albums with no holds and no fees via [Hoopla](http://hoopla.skokielibrary.info). If your passion is classical music, you don't want to miss streaming the Naxos Music Library [link]. We also have Naxos Jazz [link] and Music Online [link] for streaming jazz, Americana, and world music.
 
 ##Magazines
-Read digital editions of your favorite magazines on your tablet or phone. To check out magazines, first go to our Zinio page with your library card and then create an account with Zinio. To read magazines, download the Zinio app to your device or [download Zinio Reader](http://www.zinio.com/www/apps/desktop.jsp) for your Mac or PC.
+Read digital editions of your favorite magazines on your tablet or phone. To check out magazines, first go to our Zinio page with your library card and then create an account with Zinio. To read magazines, download the Zinio app for mobile devices or [Zinio Reader](http://www.zinio.com/www/apps/desktop.jsp) for your Mac or PC.
 
 ##Movies & TV
 
