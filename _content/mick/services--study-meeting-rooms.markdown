@@ -13,7 +13,7 @@ We have 10 small group study rooms for adults and teens (9th grade and up) on th
 - Study rooms can be booked up to a week in advance.
 - You can reserve one 2-hour block per card per day.
 - Study rooms seat up to 6 people.
-- For more details, read our study room policy. [link] [and map?]
+- For more details, read our full study room policy. [link] [and map?]
 
 [Info or link for kids' study rooms]
 
