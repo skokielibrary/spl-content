@@ -4,9 +4,11 @@ title: Apply for a library card
 published: true
 ---
 
-Your library card connects you to a world of resources and learning. Register for a card at our West Checkout Desk on the first floor. If you have questions about library cards or your account, email [link] Customer Services or call 847-673-7774.
+Your library card connects you to a world of resources and learning. Register for a card at our West Checkout Desk on the first floor. 
 
-##How do I get a card?
+If you have questions about library cards or your account, email [link] Customer Services or call 847-673-7774.
+
+##Getting a card
 
 ###Skokie residents
 Bring a photo I.D. with your name and current Skokie address to the West Checkout Desk to apply. Residents under the age of 16 need a parent's signature; young children need to be able to print their first and last name to get their own card. You also can start the process online [link] and pick up your card in person later (don't forget to bring along I.D.).
