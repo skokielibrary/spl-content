@@ -17,7 +17,7 @@ The Board of Trustees generally meets at 7:30 pm on the second Wednesday of each
 - Jonathan H. Maks, MD
 - Zelda Rich
 
-[Agenda for the next meeting] where will these links come from???
+[Agenda for the next meeting where will these links come from??]
 
 [Meeting minutes, August 13, 2014]
 [Meeting minutes, July 9, 2014]
@@ -40,8 +40,3 @@ The Board of Trustees generally meets at 7:30 pm on the second Wednesday of each
 - Wednesday, October 14, 2015
 - Wednesday, November 11, 2015
 - Wednesday, December 9, 2015
-
-
-
-
-
