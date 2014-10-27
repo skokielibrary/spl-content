@@ -44,10 +44,10 @@ Research local events, people, and organizations in our [index](http://articles.
 
 ##Research local history inside the library
 Still stumped in your research? We have many local history resources within the library building, including ...
-- Local newspapers [available on microfilm](http://encore.skokielibrary.info/iii/encore/search/C__SSkokie)
-- Telephone books, business directories, and reverse-address directories that can help you track down who lived where and when
-- Books about Skokie history
-- Genealogy resources [Link to genealogy resources page on SPL website]
+- Local newspapers [available on microfilm](http://encore.skokielibrary.info/iii/encore/search/C__SSkokie).
+- Telephone books, business directories, and reverse-address directories that can help you track down who lived where and when.
+- Books about Skokie history.
+- Digital genealogy resources [Link to genealogy resources page on SPL website].
 
 [Possible callout:]
 Looking for more local history information? Browse the resources of the [Skokie Historical Society](http://www.skokiehistory.info).
