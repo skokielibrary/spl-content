@@ -8,7 +8,7 @@ Can't find an item in our catalog? We can try to get it from another library or 
 
 ##Search LINKin
 Your library card gives you access to LINKin, a lending partnership with local libraries. Here's how it works:
-- [search LINKin](http://www.linkin-libraries.org/). (Please note that DVDs and new books currently aren't available)
+- Search the [LINKin catalog](http://www.linkin-libraries.org/). (Please note that DVDs and new books currently aren't available)
 - If you're in our catalog already, click "Search Partner Libraries" to get to LINKin.
 - Found what you're looking for? Click "Request this item." From there, select Skokie as your home library and enter your name and card number. 
 - LINKin items usually arrive in Skokie within five days. We'll let you know when they're ready to pick up. 
