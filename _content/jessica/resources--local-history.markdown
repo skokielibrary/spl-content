@@ -45,8 +45,8 @@ Research local events, people, and organizations in our [index](http://articles.
 ##Research local history inside the library
 Still stumped in your research? We have many local history resources within the library building, including ...
 - Local newspapers [available on microfilm](http://encore.skokielibrary.info/iii/encore/search/C__SSkokie).
-- Telephone books, business directories, and reverse-address directories that can help you track down who lived where and when.
-- Books about Skokie history.
+- [Telephone books](http://encore.skokielibrary.info/iii/encore/search/C__SSkokie%20%28Ill.%29%20--%20Telephone%20--%20Directories__Orightresult__U?lang=eng&suite=beta), [business directories](http://encore.skokielibrary.info/iii/encore/search/C__Shttp%3ALw%3D%3DLw%3D%3Dencore.skokielibrary.infoLw%3D%3DiiiLw%3D%3DencoreLw%3D%3DsearchLw%3D%3DC__SBusiness%20enterprises%20--%20Illinois%20--%20Skokie%20--%20Directories__Orightresult__U?lang=eng&suite=beta), and [criss-cross directories](http://encore.skokielibrary.info/iii/encore/search/C__Shttp%3ALw%3D%3DLw%3D%3Dencore.skokielibrary.infoLw%3D%3DiiiLw%3D%3DencoreLw%3D%3DsearchLw%3D%3DC__SChicago%20%28Ill.%29%20--%20Suburbs%20and%20environs%20%E2%80%93%20Directories__Orightresult__U?lang=eng&suite=beta) that can help you track down who lived where and when.
+- [Books](http://encore.skokielibrary.info/iii/encore/search/C__SSkokie%20%28Ill.%29%20--%20History__Orightresult?lang=eng&suite=beta) about Skokie history.
 - Digital genealogy resources [Link to genealogy resources page on SPL website].
 
 [Possible callout:]
