@@ -6,7 +6,7 @@ published: true
 
 ## Library Board of Trustees
 
-The Board of Trustees generally meets at 7:30 pm on the second Wednesday of each month. Meetings are held in the Board Room on the third floor and are open to the public. Board members are elected for six-year terms in consolidated April elections.
+Our Board of Trustees generally meets at 7:30 pm on the second Wednesday of each month. Meetings are held in the Board Room on the third floor and are open to the public. Board members are elected for six-year terms in consolidated April elections.
 
 ### Trustees
 
