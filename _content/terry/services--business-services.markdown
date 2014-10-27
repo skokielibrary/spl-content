@@ -39,4 +39,4 @@ SCORE counselors can advise you on business issues such as financing, marketing,
 - [Independent Merchants of Downtown Skokie(IMODS)](http://downtownskokie.org/)
 - Dempster Street Merchants
 
-We have great resources for job hunters and investors too.
+We have great resources for [job hunters](careers page) and investors too.
