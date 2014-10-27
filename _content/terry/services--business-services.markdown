@@ -9,13 +9,13 @@ If you are a business owner, starting a business or employed in the area, we can
 ##Get a business library card
 Access our free business resources from home or work, use our [Business & Career Center](link to Business and Career center page) for working and meeting, and [register for business and technology classes](Evanced limited to business and technology classes) with a free business library card. Businesses and non-profits located in Skokie, or members of the Skokie Chamber of Commerce, are eligible to apply. 
 
-##Take advantage of our free business resources for researching and learning
+##Take advantage of our free business resources
 Creating lists of new home owners, generating leads, mapping your competition and taking classes online (link to Lynda, Atomic Learning, and Treehouse) to sharpen your business and technology skills are just a few of the things you can do using our free business resources.(Link to Business Database page –Reference USA, Public Records, Lynda.com, Treehouse, Atomic Learning, investing databases) Our wide selection of databases can help you market your business, learn about companies and industries, and find investment information.
 
 ##Schedule a consultation
 Need help getting started? Schedule an appointment with our business services librarian, Terry Ratoff, (can we create a form?-AHML has a good one), sign up for a one-on-one technology appointment or give us a call.
 
-##Find the right business book and periodical
+##Find the right business books and periodicals
 Our Small Business Collection (link to list on Encore) has a wide range of books and periodicals. Access ebooks and magazines online for the latest business, financial and technology information. (link to Safari books, books 24x7, Lexisnexis, factiva, zinio)
 
 ##Learn to use technology and equipment
