@@ -39,9 +39,8 @@ Search Skokie obituaries from 1960 to the present. Full-text obituaries are avai
 
 - Skokie Newspaper Index
 
-Research local events, people, and organizations in our index. To get the articles, come in to the library or contact us askref@skokielibrary.info.
-link to current index page [Content Pro collection not yet up and running]
-http://articles.skokielibrary.info/newsindex.php
+Research local events, people, and organizations in our [index](http://articles.skokielibrary.info/newsindex.php). To get the articles, come in to the library or contact us askref@skokielibrary.info.
+[link to current index page--Content Pro collection not yet up and running]
 
 ##Skokie Newspapers
 link to list of papers available on microfilm
