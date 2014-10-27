@@ -42,26 +42,12 @@ Search Skokie obituaries from 1960 to the present. Full-text obituaries are avai
 Research local events, people, and organizations in our [index](http://articles.skokielibrary.info/newsindex.php). To get the articles, come in to the library or contact us askref@skokielibrary.info.
 [link to current index page--Content Pro collection not yet up and running]
 
-##Skokie Newspapers
-link to list of papers available on microfilm
-http://encore.skokielibrary.info/iii/encore/search/C__SSkokie 
-
-Newspapers. from library computers, this will then link to the digitized newspapers once we have them up in CP
-Telephone and business directories
-links to searches: 
-Phone books
- 
-Directories.
-Business directories
-
-Haines
-
-Print Collection
-
-Genealogy resources
-
-Link to genealogy resources page on SPL website
+##Research local history inside the library
+Still stumped in your research? We have many local history resources within the library building, including ...
+- Local newspapers [available on microfilm](http://encore.skokielibrary.info/iii/encore/search/C__SSkokie)
+- Telephone books, business directories, and reverse-address directories that can help you track down who lived where and when
+- Books about Skokie history
+- Genealogy resources [Link to genealogy resources page on SPL website]
 
 [Possible callout:]
-
 Looking for more local history information? Browse the resources of the [Skokie Historical Society](http://www.skokiehistory.info).
