@@ -34,9 +34,11 @@ The [http://www.idaillinois.org/cdm/search/collection/skokiepo02](Skokie History
 ### Newspapers and Obituaries
 
 - Skokie Obituary Index
+
 Search Skokie obituaries from 1960 to the present. Full-text obituaries are available from March 2013 onward. [Link] You can also browse our obituaries by date [link to page with this feature]
 
 - Skokie Newspaper Index
+
 Research local events, people, and organizations in our index. To get the articles, come in to the library or contact us askref@skokielibrary.info.
 link to current index page [Content Pro collection not yet up and running]
 http://articles.skokielibrary.info/newsindex.php
