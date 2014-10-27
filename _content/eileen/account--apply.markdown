@@ -16,7 +16,7 @@ Bring a photo I.D. with your name and current Skokie address to the West Checkou
 You also can start the process online [link] and pick up your card in person later (don't forget to bring along I.D.).
 
 ###Suburban residents
-If you don't live in Skokie but have a library card from a [RAILS member public library](http://www.librarylearning.info/libraries/?LibSys=RAILS&LibraryTypeID=1), bring your card and photo I.D. with name and current address to register your card. Nonresidents can check out most of our items, but some borrowing limits [link] do apply. 
+If you don't live in Skokie but have a library card from a [RAILS public library](http://www.librarylearning.info/libraries/?LibSys=RAILS&LibraryTypeID=1), bring your card and photo I.D. with name and current address to register your card. Nonresidents can check out most of our items, but some borrowing limits [link] do apply. 
 
 If you live in Chicago or elsewhere outside the RAILS system, you can buy a Skokie Public Library card for the cost of taxpayer support.
 
