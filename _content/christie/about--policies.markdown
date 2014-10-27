@@ -6,13 +6,13 @@ published: true
 
 ##Library Policies
 
-Skokie Public Library policies are official statements that the Library Board of Trustees has adopted. The policies ensure that the library operates in a way that most effectively fulfills its mission and vision.
+Skokie Public Library policies are official statements adopted by our Board of Trustees. These policies ensure that we operate in a way that most effectively fulfills the library's mission and vision.
 
-###Vision Statement
+###Vision
 
 Skokie Public Library is the heart of a vibrant village where people of all ages and cultures engage in lifelong learning and discovery while participating in the life of the community.
 
-###Mission Statement
+###Mission
 
 As a springboard for personal growth and community development, Skokie Public Library promotes discovery, enrichment, and the exchange of ideas through a broad spectrum of materials, technologies, and experiences.
 
@@ -79,34 +79,3 @@ Confidentiality and use of patron information.
 ###Website Privacy
 
 Privacy policies specifically related to the library website.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
