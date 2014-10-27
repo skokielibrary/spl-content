@@ -4,7 +4,7 @@ title: Local history
 published: true
 ---
 
-From its early days as a Potawatami settlement to today's culturally diverse suburb, Skokie has a rich and varied history. You can explore Skokie’s past using the library’s digital and print collections. 
+From its early days as a Potawatami settlement to the culturally diverse suburb of today, Skokie has a rich and varied history. Explore Skokie’s past using the library’s digital and print collections. 
 
 [images to illustrate collections]
 
