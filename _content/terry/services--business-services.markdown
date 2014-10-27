@@ -18,18 +18,34 @@ Need help getting started? Schedule an appointment with our business services li
 ##Find the right business book and periodical
 Our Small Business Collection (link to list on Encore) has a wide range of books and periodicals. Access ebooks and magazines online for the latest business, financial and technology information. (link to Safari books, books 24x7, Lexisnexis, factiva, zinio)
 
+##Learn to use technology and equipment
+
 ##Start and stay in business
 ###Get counseling from experienced executives and business owners
 SCORE counselors can advise you on business issues such as financing, marketing, and creating business plans. They are at Skokie Public Library every Wednesday evening. To sign up for a free appointment choose Skokie as a location on the [SCORE website](http://scorechicago.org/request-meeting/).
 ###Write a business plan
 [SCORE](https://www.score.org/resources/business-planning-financial-statements-template-gallery) and the [Gale Business Plans Handbook](http://go.galegroup.com/ps/i.do?action=interpret&id=GALE|2YYW&v=2.1&u=skok17141&it=aboutBook&p=GVRL&sw=w&authCount=1) offer sample business plans and templates to help you get started creating your business plan.
-###Access online guides and forms supporting starting and running businesses
-- Illinois Small Business Development Centers
-- Illinois SBDC JVS/Duman Microenterprise Center
-- State of Illinois Business Portal
-- Small Business Administration
+###Access online guides and forms supporting businesses
+- [Illinois SBDC/Duman Entrepreneurship Center (SBDC)](http://jvschicago.org/duman/) 
+- [Illinois.gov Business](https://www.illinois.gov/business/Pages/default.asp)
+- Small Business Administration-[SBA.gov](http://www.sba.gov/)
 - Legal Forms from Gale Cengage [Legal Forms Library](http://subscriptions.uslegalforms.com/gale/index.php?s=categories)
 - Essential Government forms from [BusinessUSA.gov](http://business.usa.gov/)
+
+##Contact our local partners for information and support
+- Village of Skokie
+- Skokie Chamber of Commerce
+- Independent Merchants of Downtown Skokie(IMODS)
+- Dempster Street Merchants
+
+
+
+
+
+
+
+
+
 
 
 
