@@ -10,15 +10,16 @@ If you are a business owner, starting a business or employed in the area, we can
 Access our free business resources from home or work, use our [Business & Career Center](link to Business and Career center page) for working and meeting, and [register for business and technology classes](Evanced limited to business and technology classes) with a free business library card. Businesses and non-profits located in Skokie, or members of the Skokie Chamber of Commerce, are eligible to [apply](http://www.skokielibrary.info/s_about/How/business-card-application.pdf). 
 
 ##Take advantage of our free business resources
-Creating lists of new home owners, generating leads, mapping your competition and taking classes online to sharpen your business and technology skills are just a few of the things you can do using our free business resources.(Link to Business Database page –Reference USA, Public Records, Lynda.com, Treehouse, Atomic Learning, investing databases) Our wide selection of databases can help you market your business, learn about companies and industries, and find investment information.
+Creating lists of new home owners, generating leads, mapping your competition and taking classes online to sharpen your business and technology skills are just a few of the things you can do using our [free business resources](link to Business database page including REFUSA, Public records Lynda, Treehouse, atomic learning and investing databases) Our wide selection of databases can help you market your business, learn about companies and industries, and find investment information.
 
 ##Schedule a consultation
-Need help getting started? Schedule an appointment with our business services librarian, Terry Ratoff, (can we create a form?-AHML has a good one), sign up for a one-on-one technology appointment or give us a call.
+Need help getting started? Schedule an appointment with our business services librarian, Terry Ratoff,sign up for a one-on-one technology appointment or give us a call.
 
 ##Find the right business books and periodicals
 Our Small Business Collection (link to list on Encore) has a wide range of books and periodicals. Access ebooks and magazines online for the latest business, financial and technology information. (link to Safari books, books 24x7, Lexisnexis, factiva, zinio)
 
 ##Learn to use technology and equipment
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ##Start and stay in business
 ###Get counseling from experienced executives and business owners
@@ -33,9 +34,9 @@ SCORE counselors can advise you on business issues such as financing, marketing,
 - Essential Government forms from [BusinessUSA.gov](http://business.usa.gov/)
 
 ##Contact our local partners for information and support
-- Village of Skokie
-- Skokie Chamber of Commerce
-- Independent Merchants of Downtown Skokie(IMODS)
+- [Village of Skokie](http://www.skokie.org/index.cfm)
+- [Skokie Chamber of Commerce](http://skokiechamber.org/)
+- [Independent Merchants of Downtown Skokie(IMODS)](http://downtownskokie.org/)
 - Dempster Street Merchants
 
 We have great resources for job hunters and investors too.
