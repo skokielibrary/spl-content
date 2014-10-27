@@ -7,10 +7,10 @@ published: true
 If you are a business owner, starting a business or employed in the area, we can help you:
 
 ##Get a business library card
-Access our free business resources from home or work, use our [Business & Career Center](link to Business and Career center page) for working and meeting, and [register for business and technology classes](Evanced limited to business and technology classes) with a free business library card. Businesses and non-profits located in Skokie, or members of the Skokie Chamber of Commerce, are eligible to apply. 
+Access our free business resources from home or work, use our [Business & Career Center](link to Business and Career center page) for working and meeting, and [register for business and technology classes](Evanced limited to business and technology classes) with a free business library card. Businesses and non-profits located in Skokie, or members of the Skokie Chamber of Commerce, are eligible to [apply](http://www.skokielibrary.info/s_about/How/business-card-application.pdf). 
 
 ##Take advantage of our free business resources
-Creating lists of new home owners, generating leads, mapping your competition and taking classes online (link to Lynda, Atomic Learning, and Treehouse) to sharpen your business and technology skills are just a few of the things you can do using our free business resources.(Link to Business Database page –Reference USA, Public Records, Lynda.com, Treehouse, Atomic Learning, investing databases) Our wide selection of databases can help you market your business, learn about companies and industries, and find investment information.
+Creating lists of new home owners, generating leads, mapping your competition and taking classes online to sharpen your business and technology skills are just a few of the things you can do using our free business resources.(Link to Business Database page –Reference USA, Public Records, Lynda.com, Treehouse, Atomic Learning, investing databases) Our wide selection of databases can help you market your business, learn about companies and industries, and find investment information.
 
 ##Schedule a consultation
 Need help getting started? Schedule an appointment with our business services librarian, Terry Ratoff, (can we create a form?-AHML has a good one), sign up for a one-on-one technology appointment or give us a call.
@@ -39,49 +39,3 @@ SCORE counselors can advise you on business issues such as financing, marketing,
 - Dempster Street Merchants
 
 We have great resources for job hunters and investors too.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
