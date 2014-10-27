@@ -10,7 +10,7 @@ From its early days as a Potawatami settlement to the culturally diverse suburb 
 
 ##Digital Collections
 
-### Attempted Nazi [March](sdfasf)
+### Attempted Nazi March
 
 The [Attempted Nazi March](http://encore.skokielibrary.info/iii/cpro/CollectionViewPage.external;jsessionid=CAD41B18B5ABBEE26CD4D9069EEF9F2C?lang=eng&sp=1000004&suite=def) collection contains extensive [local newspaper coverage](link to newspaper) and recordings documenting the controversy surrounding the attempts by the National Socialst Party of American to march in Skokie in 1977 and 1978. For video clips, go to the Skokie Archive. [ba: what does this mean?]
 
@@ -40,10 +40,6 @@ Search Skokie obituaries from 1960 to the present. Full-text obituaries are avai
 Research local events, people, and organizations in our index. To get the articles, come in to the library or contact us askref@skokielibrary.info.
 link to current index page [Content Pro collection not yet up and running]
 http://articles.skokielibrary.info/newsindex.php
-[in-house only—FUTURE FEATURE] Skokie Newspaper Archives
-link to Content Pro collection—not available yet
-
-
 
 ##Skokie Newspapers
 link to list of papers available on microfilm
