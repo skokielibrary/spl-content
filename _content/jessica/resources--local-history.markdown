@@ -16,7 +16,7 @@ The [Attempted Nazi March](http://encore.skokielibrary.info/iii/cpro/CollectionV
 
 ###Dr. Louise Klehm Archive
 
-Our [http://idaillinois.org/cdm/search/collection/skokiepo004/](Dr. Louise Klehm Archive) details the live and work of Skokie's first woman doctor. She graduated from medical school in 1902, interned at Jane Addam's Hull House, studied surgery in Europe, and returned to Skokie to practice medicine. Browse her [link to docs](documents), [link to legders](ledgers), [link to photos](photos), and images of her late 19th-century [link to equipment](medical equipment).
+Our [Dr. Louise Klehm Archive](http://idaillinois.org/cdm/search/collection/skokiepo004/) details the live and work of Skokie's first woman doctor. She graduated from medical school in 1902, interned at Jane Addam's Hull House, studied surgery in Europe, and returned to Skokie to practice medicine. Browse her [link to docs](documents), [link to legders](ledgers), [link to photos](photos), and images of her late 19th-century [link to equipment](medical equipment).
 
 ###Skokie Fire Department History
 
