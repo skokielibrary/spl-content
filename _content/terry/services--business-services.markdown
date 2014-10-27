@@ -7,7 +7,7 @@ published: true
 If you are a business owner, starting a business or employed in the area, we can help you:
 
 ##Get a business library card
-Access our free business resources from home or work, use our Business & Career Center for working and meeting, and register for business and technology classes with a free business library card. Businesses and non-profits and located in Skokie, or are members of the Skokie Chamber of Commerce, are eligible to apply. 
+Access our free business resources from home or work, use our [Business & Career Center](link to Business and Career center page) for working and meeting, and [register for business and technology classes](Evanced limited to business and technology classes) with a free business library card. Businesses and non-profits and located in Skokie, or are members of the Skokie Chamber of Commerce, are eligible to apply. 
 
 ##Take advantage of our free business resources for researching and learning
 Creating lists of new home owners, generating leads, mapping your competition and taking classes online (link to Lynda, Atomic Learning, and Treehouse) to sharpen your business and technology skills are just a few of the things you can do using our free business resources.(Link to Business Database page –Reference USA, Public Records, Lynda.com, Treehouse, Atomic Learning, investing databases) Our wide selection of databases can help you market your business, learn about companies and industries, and find investment information.
@@ -17,6 +17,40 @@ Need help getting started? Schedule an appointment with our business services li
 
 ##Find the right business book and periodical
 Our Small Business Collection (link to list on Encore) has a wide range of books and periodicals. Access ebooks and magazines online for the latest business, financial and technology information. (link to Safari books, books 24x7, Lexisnexis, factiva, zinio)
+
+##Start and stay in business
+###Get counseling from experienced executives and business owners
+SCORE counselors can advise you on business issues such as financing, marketing, and creating business plans. They are at Skokie Public Library every Wednesday evening. To sign up for a free appointment choose Skokie as a location on the [SCORE website](http://scorechicago.org/request-meeting/).
+###Write a business plan
+[SCORE](https://www.score.org/resources/business-planning-financial-statements-template-gallery) and the [Gale Business Plans Handbook](http://go.galegroup.com/ps/i.do?action=interpret&id=GALE|2YYW&v=2.1&u=skok17141&it=aboutBook&p=GVRL&sw=w&authCount=1) offer sample business plans and templates to help you get started creating your business plan.
+###Access online guides and forms supporting starting and running businesses
+- Illinois Small Business Development Centers
+- Illinois SBDC JVS/Duman Microenterprise Center
+- State of Illinois Business Portal
+- Small Business Administration
+- Legal Forms from Gale Cengage [Legal Forms Library](http://subscriptions.uslegalforms.com/gale/index.php?s=categories)
+- Essential Government forms from [BusinessUSA.gov](http://business.usa.gov/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
