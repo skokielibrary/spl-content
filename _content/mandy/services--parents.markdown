@@ -10,10 +10,12 @@ Our Youth Services Department features books, music, and movies for babies throu
 [Insert picture or slideshow of YS shots.]
 
 ### What's a STEAM kit?
+
 Skokie cardholders can take home a telescope, digital microscope, model of the human body, or even a steel drum! These Science, Technology, Engineering, Arts, and Mathematics kits are great tools for children to explore the world around them while still having fun! We have more than a dozen STEAM kits to choose from--with more coming soon--so take a look at our [collection](http://encore.skokielibrary.info/iii/encore/search?target=STEAM+KIT&formids=target&lang=eng&suite=def&reservedids=lang%2Csuite&submitmode=&submitname=&x=0&y=0 "STEAM kits").
 STEAM kits check out for one week and can be renewed 3 times unless reserved. 
 
 ## Visiting Youth Services
+
 While you're here, be sure to check out all the kid-friendly areas within the department.
 - *Program Room.* This is "the place" for many of our storytimes and other programs. We also schedule programs throughout the department, with bigger performances and events happening in the Petty Auditorium or Mary Radmacher Meeting Room. For full details about all of our youth and family programs, visit our [Events](http://skokielibrary.info/s_programs/index.asp) page. 
 - *Craft Room.* Spread out and work on your school projects, or pick up a craft kit or board game at the Youth Services Desk and get creative!
@@ -26,6 +28,7 @@ While you're here, be sure to check out all the kid-friendly areas within the de
 [add link to Holly's SPL Come On In! video?? http://www.youtube.com/watch?v=PCjBcyl0Y08]
 
 ## But wait, there's more!
+
 Youth Services participates in the [Museum Adventure Pass](http://www.museumadventure.org/) program, a partnership between north suburban destinations and other libraries. Use your Skokie Public library card to get discounts and passes to more than a dozen participating attractions.
 
 We also subscribe to a large collection of databases, including [TumbleBooks](http://www.tumblebooks.com/library/asp/home_tumblebooks.asp), an online collection of animated, talking picture books, puzzles, and quizzes. TumbleBook stories are adapted from existing picture books and can be enjoyed in English, Spanish, Chinese, and French. As with most library-subscribed databases, the TumbleBook Library is available from Internet computers inside the library and from home for Skokie Public Library cardholders.
@@ -39,4 +42,5 @@ Other links of interest include:
 - [LearningExpressLibrary.com](http://www.learningexpresshub.com/learningexpresslibrary?AuthToken=16C3F10B-C424-4961-84E9-F04DFC1C1A58) [OPTIONAL TO ADD? MIGHT BE TOO MUCH.]
 
 ### One last reminder...
+
 *Children under 8 years old must be accompanied by an adult caregiver or parent at all times throughout the library.*
