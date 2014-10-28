@@ -11,7 +11,9 @@ The Skokie writers group meets monthly at 7 pm on the last Monday of every month
 ###Upcoming Quarterly programs 
 (will depend on this quarter's selection)
 
+
 ##Being featured
+
 ###Becoming a local author
 The library will gladly add self-published books by local authors to our collection. Local authors can donate a bound copy of the book for inclusion in our collection. All donation should be dropped off at the Readers Services Desk. The library will also purchase select books by our local authors. In order for book to be considered for purchasing, the book needs to be available as a print bound book through a major book retailer.  
 
