@@ -22,4 +22,4 @@ Quarterly, a local author presents in the Writers' Nook. This quarter we showcas
 Monthly, a local author is interviewed by the library. Past interviews can be found [on our blog](http://blogs.skokielibrary.info/?s=local+author+showcase&x=0&y=0). Any local authors interested in being interviewed for this feature, should contact New RS librarian at newlynnanne@skokielibrary.info.
 
 ###Local Authors At Skokie Library
-The library has a growing collection of great books by our talented [local authors.](http://encore.skokielibrary.info/iii/encore/search/C__SLocal%20author.__Orightresult?lang=eng&suite=beta). Check one out today. 
+The library has a growing collection of great books by our talented [local authors.](http://encore.skokielibrary.info/iii/encore/search/C__SLocal%20author.__Orightresult?lang=eng&suite=beta). Check one out today.
