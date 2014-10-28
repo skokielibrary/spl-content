@@ -7,11 +7,11 @@ published: true
 ##Parents and Caregivers
 
 Our Youth Services Department features books, music, and movies for babies through 8th graders, but that's not all we have to offer. Our circulating collection also includes audiobooks, video games, puppets, Playaway Views, Little Learner backpacks, and STEAM kits.
+[Insert picture or slideshow of YS shots.]
 
 ### What's a STEAM kit?
 Skokie cardholders can take home a telescope, digital microscope, model of the human body, or even a steel drum! These Science, Technology, Engineering, Arts, and Mathematics kits are great tools for children to explore the world around them while still having fun! We have more than a dozen STEAM kits to choose from--with more coming soon--so take a look at our [collection](http://encore.skokielibrary.info/iii/encore/search?target=STEAM+KIT&formids=target&lang=eng&suite=def&reservedids=lang%2Csuite&submitmode=&submitname=&x=0&y=0 "STEAM kits").
 STEAM kits check out for one week and can be renewed 3 times unless reserved. 
-[Insert pictures of YS?]
 
 ### Visiting Youth Services
 While you're here, be sure to check out all the fun kid-friendly areas with the department.
