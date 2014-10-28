@@ -9,9 +9,9 @@ published: true
 ###Live Homework Help
 
 
-Skokie Public Library subscribes to Live Homework Help, [add link] an online tutoring service that connects students in kindergarten through 12th grade (as well as college and adult learners) with expert tutors--certified teacher, university professors, graduate school students, college students, and professionals who are experts in their fields.
+Skokie Public Library subscribes to Live Homework Help, [add link] an online tutoring service that connects students in kindergarten through 12th grade (as well as college and adult learners) with expert tutors--certified teachers, university professors, graduate school students, college students, and professionals who are experts in their fields.
 
-Live Homework Help is open from 3 to 10 p.m. central time, seven days a week. All tutoring sessions are guided by the tutor last approximately 20 minutes. The SkillsCenter Resource Library [add link?] is available 24/7. *There is a limit of five sessions per week per Skokie cardholder.* [Check with Bruce if this up-to-date.]
+Live Homework Help is open from 3 to 10 p.m. central time, seven days a week. All tutoring sessions are guided by the tutor and last approximately 20 minutes. The SkillsCenter Resource Library [add link?] is available 24/7. *There is a limit of five sessions per week per Skokie cardholder.* [Check with Bruce if this up-to-date.]
 
 Visit the Live Homework Help Learning Suite and, when you're ready, follow the steps to connect with a tutor. If you have trouble connecting to Live Homework Help or the Online Classroom, visit Tutor.com's Live Homework Help Support FAQ [add link] or chat with a Live Homework Help support representative. [add link]
 
