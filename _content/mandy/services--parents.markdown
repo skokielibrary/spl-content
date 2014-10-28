@@ -12,7 +12,7 @@ Our Youth Services Department features books, music, and movies for babies throu
 ### What's a STEAM kit?
 
 Skokie cardholders can take home a telescope, digital microscope, model of the human body, or even a steel drum! These Science, Technology, Engineering, Arts, and Mathematics kits are great tools for children to explore the world around them while still having fun! We have more than a dozen STEAM kits to choose from--with more coming soon--so take a look at our [collection](http://encore.skokielibrary.info/iii/encore/search?target=STEAM+KIT&formids=target&lang=eng&suite=def&reservedids=lang%2Csuite&submitmode=&submitname=&x=0&y=0 "STEAM kits").
-STEAM kits check out for one week and can be renewed 3 times unless reserved. 
+STEAM kits check out for one week and can be renewed three times unless reserved. 
 
 ## Visiting Youth Services
 
@@ -24,23 +24,23 @@ While you're here, be sure to check out all the kid-friendly areas within the de
 - *Preschool Area.* Here you'll find a LEGO table, puppet stage, toys, computers, and iPads, all customized for toddlers and preschoolers!
 - *Baby Garden.* Babies and their caregivers can hang out in this safe corner nook, designed especially for our littlest, non-walking patrons.
 - *Junior High Zone.* The name says it all in this dedicated area for older kids. In addition to comfortable seating and open workspaces, the zone also hosts random pop-up programs and video gaming.
-- *Come On In!* An ongoing goal of the Youth Services Department is to make the public library a meaningful and popular place for all children. In partnership with [Niles Township District for Special Education (NTDSE)](http://www.ntdse.org/), Youth Services staff has been trained to better understand and serve children with disabilities. We also offer monthly programs, Sensory Storytime and Rainbow Therapy.
-[add link to Holly's SPL Come On In! video?? http://www.youtube.com/watch?v=PCjBcyl0Y08]
+- *Come On In!* An ongoing goal of the Youth Services Department is to make the public library a meaningful and popular place for all children. In partnership with  [Niles Township District for Special Education (NTDSE)](http://www.ntdse.org/), Youth Services staff has been trained to better understand and serve children with disabilities. We also offer monthly programs, Sensory Storytime and Rainbow Therapy.
+[Add link to Holly's SPL Come On In! video???? http://www.youtube.com/watch?v=PCjBcyl0Y08]
 
 ## But wait, there's more!
 
-Youth Services participates in the [Museum Adventure Pass](http://www.museumadventure.org/) program, a partnership between north suburban destinations and other libraries. Use your Skokie Public library card to get discounts and passes to more than a dozen participating attractions.
+Youth Services participates in the [Museum Adventure Pass](http://www.museumadventure.org/) program, a partnership between north suburban destinations and other libraries. Use your Skokie Public Library card to get discounts and passes to more than a dozen participating attractions.
 
 We also subscribe to a large collection of databases, including [TumbleBooks](http://www.tumblebooks.com/library/asp/home_tumblebooks.asp), an online collection of animated, talking picture books, puzzles, and quizzes. TumbleBook stories are adapted from existing picture books and can be enjoyed in English, Spanish, Chinese, and French. As with most library-subscribed databases, the TumbleBook Library is available from Internet computers inside the library and from home for Skokie Public Library cardholders.
 
 Other links of interest include:
 - [Common Sense Media](https://www.commonsensemedia.org/)
-- Kids' books We Love [possibly add this link or add Book Match for Kids????]
+- Kids' Books We Love [possibly add this link or add Book Match for Kids????]
 - [Novelist K-8](http://web.b.ebscohost.com/novpk8/search/novbasic?sid=9ab09b5e-59cf-44cd-974e-e95cd837c05e%40sessionmgr198&vid=0&hid=124) 
-- [SkokieNet Directory of K-12 Schools](http://skokienet.org/taxonomy/term/1619) and [Preschools/Child Care Centers](http://www.skokienet.org/preschoolchildcare) 
+- [SkokieNet Directory of K-12 Schools](http://skokienet.org/taxonomy/term/1619) and  [Preschools/Child Care Centers](http://www.skokienet.org/preschoolchildcare) 
 - [Atomic Learning](http://www.atomiclearning.com/training/home) [OPTIONAL TO ADD? MIGHT BE TOO MUCH.]
 - [LearningExpressLibrary.com](http://www.learningexpresshub.com/learningexpresslibrary?AuthToken=16C3F10B-C424-4961-84E9-F04DFC1C1A58) [OPTIONAL TO ADD? MIGHT BE TOO MUCH.]
 
 ### One last reminder...
 
-*Children under 8 years old must be accompanied by an adult caregiver or parent at all times throughout the library.*
+*Children under 8 years old must be accompanied by an adult caregiver or parent at all times throughout the library. We look forward to seeing you soon.*
