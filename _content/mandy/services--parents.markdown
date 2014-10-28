@@ -27,7 +27,9 @@ While you're here, be sure to check out all the fun kid-friendly areas with the 
 
 ### But wait, there's more!
 Youth Services participates in the Museum Adventure Pass program, [insert link] a partnership between north suburban destinations and other libraries. Use your Skokie Public library card to get discounts and passes to more than a dozen participating attractions.
+
 We also subscribe to a large collection of databases, including TumbleBooks, [add link] an online collection of animated, talking picture books, puzzles, and quizzes. TumbleBook stories are adapted from existing picture books and can be enjoyed in English, Spanish, Chinese, and French. As with most library-subscribed databases, the TumbleBook Library is available from Internet computers inside the library and from home for Skokie Public Library cardholders.
+
 Other links of interest include:
 - Common Sense Media [add link]
 - Kids' books We Love [possibly add this link or add Book Match for Kids????]
@@ -35,8 +37,6 @@ Other links of interest include:
 - SkokieNet Directory of K-12 Schools and Preschools/Child Care Centers [add two separate links]
 - Atomic Learning [add link??]
 - LearningExpressLibrary.com [add link??]
-
-
 
 ### One last reminder...
 *Children under 8 years old must be accompanied by an adult caregiver or parent at all times throughout the library.*
