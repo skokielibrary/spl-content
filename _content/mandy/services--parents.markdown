@@ -11,18 +11,32 @@ Our Youth Services Department features books, music, and movies for babies throu
 ### What's a STEAM kit?
 Skokie cardholders can take home a telescope, digital microscope, model of the human body, or even a steel drum! These Science, Technology, Engineering, Arts, and Mathematics kits are great tools for children to explore the world around them while still having fun! We have more than a dozen STEAM kits to choose from--with more coming soon--so take a look at our [collection](http://encore.skokielibrary.info/iii/encore/search?target=STEAM+KIT&formids=target&lang=eng&suite=def&reservedids=lang%2Csuite&submitmode=&submitname=&x=0&y=0 "STEAM kits").
 STEAM kits check out for one week and can be renewed 3 times unless reserved. 
+[Insert pictures of YS?]
 
 ### Visiting Youth Services
 While you're here, be sure to check out all the fun kid-friendly areas with the department.
 - *Program Room.* This is "the place" for many of our storytimes and other programs. We also schedule programs throughout the department, with bigger performances and events happening in the Petty Auditorium or Mary Radmacher Meeting Room. For full details about all of our youth and family programs, visit our Events page. [add link]
 - *Craft Room.* Spread out and work on your school projects, or pick up a craft kit or board game at the Youth Services Desk and get creative!
 - *Group Study Rooms.* With a library card or school I.D., students can schedule a block of time in one of our four study rooms.
-- *Youth Computer Lab.* [TK]
+- *Youth Computer Lab.* In addition to our game computers, mounted iPads, and homework computers, Youth Services also has a computer lab, featuring Internet access and a digital media lab, both supervised by digital literacy specialists and designed specifically for children.
 - *Preschool Area.* Here you'll find a LEGO table, puppet stage, toys, computers, and iPads, all customized for toddlers and preschoolers!
 - *Baby Garden.* Babies and their caregivers can hang out in this safe corner nook, designed especially for our littlest, non-walking patrons.
+- *Junior High Zone.* The name says it all in this dedicated area for older kids. In addition to comfortable seating and open workspaces, the zone also hosts random pop-up programs and video gaming.
+- *Come On In!* An ongoing goal of the Youth Services Department is to make the public library a meaningful and popular place for all children. In partnership with Niles Township District for Special Education (NTDSE), [add link] Youth Services staff has been trained to better understand and serve children with disabilities. We also offer monthly programs, Sensory Storytime and Rainbow Therapy.
+[add link to Holly's SPL Come On In! video??]
 
 ### But wait, there's more!
-[content about Museum Adventure Pass, Tumblebooks, and other resources, still to come.]
+Youth Services participates in the Museum Adventure Pass program, [insert link] a partnership between north suburban destinations and other libraries. Use your Skokie Public library card to get discounts and passes to more than a dozen participating attractions.
+We also subscribe to a large collection of databases, including TumbleBooks, [add link] an online collection of animated, talking picture books, puzzles, and quizzes. TumbleBook stories are adapted from existing picture books and can be enjoyed in English, Spanish, Chinese, and French. As with most library-subscribed databases, the TumbleBook Library is available from Internet computers inside the library and from home for Skokie Public Library cardholders.
+Other links of interest include:
+- Common Sense Media [add link]
+- Kids' books We Love [possibly add this link or add Book Match for Kids????]
+- Novelist K-8 [add link]
+- SkokieNet Directory of K-12 Schools and Preschools/Child Care Centers [add two separate links]
+- Atomic Learning [add link??]
+- LearningExpressLibrary.com [add link??]
+
+
 
 ### One last reminder...
 *Children under 8 years old must be accompanied by an adult caregiver or parent at all times throughout the library.*
