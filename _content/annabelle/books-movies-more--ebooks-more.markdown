@@ -24,6 +24,6 @@ Read digital editions of your favorite magazines on your tablet or phone with [Z
 Instantly stream and download movies, television shows, documentaries, and instructional programs with [Hoopla](http://hoopla.skokielibrary.info). New classic, foreign, family, and contemporary films are added monthly.
 
 ##Kindles and Roku
-You can also borrow [Roku](http://encore.skokielibrary.info/iii/encore/record/C__Rb1807766__Sroku__Orightresult__X7?lang=eng&suite=beta) video streaming player and [Kindle readers](http://encore.skokielibrary.info/iii/encore/search/C__Sebook%20reader.__Ff%3Afacetmediatype%3Ar%3Ar%3ADigital%20Devices%3A%3A__Orightresult__X0?lang=eng&suite=beta) preloaded with best-selling titles from our Readers Services Desk on the first floor.
+You can also borrow a [Roku](http://encore.skokielibrary.info/iii/encore/record/C__Rb1807766__Sroku__Orightresult__X7?lang=eng&suite=beta) video streaming player and [Kindle readers](http://encore.skokielibrary.info/iii/encore/search/C__Sebook%20reader.__Ff%3Afacetmediatype%3Ar%3Ar%3ADigital%20Devices%3A%3A__Orightresult__X0?lang=eng&suite=beta) preloaded with best-selling titles from our Readers Services Desk on the first floor.
 
 [Or call out for TBL and TBaudio?]
