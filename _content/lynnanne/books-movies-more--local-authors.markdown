@@ -13,7 +13,7 @@ The Skokie writers group meets monthly at 7 pm on the last Monday of every month
 
 ##Being featured at the library
 ###Your book in the collection
-The library will gladly add self-published books by local authors to our collection. Local authors can donate a bound copy of the book for inclusion in our collection. All donation should be dropped off at the Readers Services Desk. The library will also purchase select books by our local authors. In order for book to be considered for purchasing, the book needs to be available as a print bound book and available through a major book retailer.  
+The library will gladly add self-published books by local authors to our collection. Local authors can donate a bound copy of the book for inclusion in our collection. All donation should be dropped off at the Readers Services Desk. The library will also purchase select books by our local authors. In order for book to be considered for purchasing, the book needs to be available as a print bound book through a major book retailer.  
 
 ###Local Author showcase
 Quarterly, a local author presents in the Writers' Nook. This quarter we showcase (include this quarter's author here) on (date/time). Any local authors interested in being a part of the local author showcase, should contact New RS librarian at newlynnanne@skokielibrary.info.
