@@ -14,6 +14,8 @@ Live Homework Help is open from 3 to 10 p.m. central time, seven days a week. Al
 
 Visit the Live Homework Help Learning Suite and, when you're ready, follow the steps to connect with a tutor. If you have trouble connecting to Live Homework Help or the Online Classroom, visit Tutor.com's [Live Homework Help Support FAQ](http://lhh.tutor.com/policies/faq.aspx) or chat with a [Live Homework Help support representative](http://lhh.tutor.com/policies/live-support.htm). [add link]
 
+###Other Resources
+
 A range of databases are available on our main Resources page [add link when available and correct name]. Here are links to a few favorites for kids:
 - [CultureGrams](http://online.culturegrams.com/)
 - [Kids Search](http://web.a.ebscohost.com/srck5/search?sid=1ec97ab5-e8d7-4476-8853-5e75a76b166e%40sessionmgr4003&vid=0&hid=4114)
@@ -24,4 +26,8 @@ A range of databases are available on our main Resources page [add link when ava
 - Kids.gov [not sure???]
 [Let me know if you want annotations describing each resource.]
 
-###ADD SKOKIE SCHOOLS AND TEXTBOOKS!!!!!
+###Skokie Schools
+
+Skokie is home to many public and private schools. [SkokieNet's Directory of K-12 Schools](http://skokienet.org/taxonomy/term/1619) features a complete list of school websites and contact information.
+
+A number of Skokie schools have loaned us copies of their textbooks for use in the library. So check with us the next time a school book is left behind. We just may have it!
