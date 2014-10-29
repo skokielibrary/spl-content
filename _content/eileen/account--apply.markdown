@@ -20,7 +20,7 @@ If you don't live in Skokie but have a library card from a [RAILS public library
 
 If you live in Chicago or elsewhere outside the RAILS system, you can buy a Skokie Public Library card for the cost of taxpayer support.
 
-###Skokie businesses
+###Business cards
 Companies based in Skokie or members of the Skokie Chamber of Commerce are eligible for a business library card. Complete the business library card application [link] and return it to us with the required documentation. [need to find out what this is]. We'll mail the card to the business address.
 
 ##Lost your card?
