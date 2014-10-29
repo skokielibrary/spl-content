@@ -33,3 +33,7 @@ Mail: 5215 Oakton Street, Skokie, IL 60077
 ##Library Vision
 
 Skokie Public Library is the heart of a vibrant village where people of all ages and cultures engage in lifelong learning and discovery while actively participating in the life of the community.
+
+
+
+Do we need to include the links to all the subpages in the About section?
