@@ -19,9 +19,9 @@ Need help getting started? Schedule an appointment with our business services li
 Our Small Business Collection (link a list from Encore) has a wide range of books and periodicals. Access ebooks and magazines online for the latest business, financial and technology information. (link to Safari books, books 24x7, Lexisnexis, factiva, zinio)
 
 ##Learn to use technology and equipment
-The Business & Career Center has Wi-Fi, a SMART board, voice conference and laptop projection equipment for making presentations and conducting meetings. Call our Technology Help Desk at 847.324.3179 to arrange training prior to your meeting.
+The [Business & Career Center](Business & Career Center page) has Wi-Fi, a SMART board, voice conference and laptop projection equipment for making presentations and conducting meetings. Call our Technology Help Desk at 847.324.3179 to arrange training prior to your meeting.
 
-The [Digital Media Lab](http://www.skokielibrary.info/s_about/How/Tech_Resources/DML.asp) has equipment for creating digital videos, music, photograpy, websites and more. Learn to use this and other technology with [online training](Link to Lynda.com, ATomic learning,treehouse) and Safari e-books, or contact our Technology Help Desk to schedule training. 
+The [Digital Media Lab](http://www.skokielibrary.info/s_about/How/Tech_Resources/DML.asp) has equipment for creating digital videos, music, photograpy, websites and more. Learn to use this and other technology with [online training](Link to Lynda.com, ATomic learning,treehouse) and [Safari e-books](http://proquestcombo.safaribooksonline.com/), or contact our Technology Help Desk at 847.324.3179 to schedule training. 
 
 ##Start and stay in business
 ###Get counseling from experienced executives and business owners
