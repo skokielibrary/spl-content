@@ -76,6 +76,12 @@ Why the library selects which materials.
 
 Confidentiality and use of patron information.
 
+###Freedom of Information
+
+Information about the Freedom of Information Act as it applies to the library.
+
+
+
 ###Website Privacy
 
 Privacy policies specifically related to the library website.
