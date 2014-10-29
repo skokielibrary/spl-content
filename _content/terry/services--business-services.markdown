@@ -25,9 +25,9 @@ The [Digital Media Lab](http://www.skokielibrary.info/s_about/How/Tech_Resources
 
 ##Start and stay in business
 ###Get counseling from experienced executives and business owners
-SCORE counselors can advise you on business issues such as financing, marketing, and creating business plans. They are at Skokie Public Library every Wednesday evening. To sign up for a free appointment choose Skokie as a location on the [SCORE website](http://scorechicago.org/request-meeting/).
+SCORE counselors can advise on business issues, includining financing, marketing, and creating business plans. Counselors are at Skokie Public Library every Wednesday evening. To sign up for a free appointment choose Skokie as a location on the [SCORE website](http://scorechicago.org/request-meeting/).
 ###Write a business plan
-[SCORE](https://www.score.org/resources/business-planning-financial-statements-template-gallery) and the [Gale Business Plans Handbook](http://go.galegroup.com/ps/i.do?action=interpret&id=GALE|2YYW&v=2.1&u=skok17141&it=aboutBook&p=GVRL&sw=w&authCount=1) offer sample business plans and templates to help you get started creating your business plan.
+[SCORE](https://www.score.org/resources/business-planning-financial-statements-template-gallery) and the [Gale Business Plans Handbook](http://go.galegroup.com/ps/i.do?action=interpret&id=GALE|2YYW&v=2.1&u=skok17141&it=aboutBook&p=GVRL&sw=w&authCount=1) offer sample business plans and templates to help you get started creating your business plan. Or, take a look at one of our many business plan [books](http://encore.skokielibrary.info/iii/encore/search/C__SBusiness%20plans__Ff%3Afacetlocations%3Aanf%3Aanf%3AAdult%20Nonfiction%3A%3A__Orightresult__U__X0?lang=eng&suite=beta). 
 ###Access online guides and forms supporting businesses
 - [Illinois SBDC/Duman Entrepreneurship Center (SBDC)](http://jvschicago.org/duman/) 
 - [Illinois.gov Business](https://www.illinois.gov/business/Pages/default.asp)
