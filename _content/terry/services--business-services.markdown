@@ -21,7 +21,7 @@ Our [Small Business Collection](http://encore.skokielibrary.info/iii/encore/sear
 ##Learn to use technology and equipment
 The [Business & Career Center](Business & Career Center page) has wi-fi, a SMART board, voice conference and projection equipment for making presentations and conducting meetings. Call our Technology Help Desk at 847.324.3179 to arrange training prior to your meeting.
 
-The [Digital Media Lab](http://www.skokielibrary.info/s_about/How/Tech_Resources/DML.asp) has equipment for creating digital videos, music, photograpy, websites and more. Learn to use this and other technology with [online training](Link to Lynda.com, Atomic Learning,Treehouse), [Safari e-books](http://proquestcombo.safaribooksonline.com/), or contact our Technology Help Desk at 847.324.3179 to schedule training. 
+The [Digital Media Lab](http://www.skokielibrary.info/s_about/How/Tech_Resources/DML.asp) has equipment for creating digital videos, music, photograpy, websites and more. Learn to use this and other technology with [online training](Link to Lynda.com, Atomic Learning,Treehouse) or try [Safari e-books](http://proquestcombo.safaribooksonline.com/). Or, contact our Technology Help Desk at 847.324.3179 to schedule training. 
 
 ##Start and stay in business
 ###Get counseling from experienced executives and business owners
