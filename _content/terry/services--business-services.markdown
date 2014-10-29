@@ -10,7 +10,7 @@ If you are a business owner, starting a business or employed in the area, we can
 Access our free business resources from home or work, use our [Business & Career Center](link to Business and Career center page) for working and meeting, and [register for business and technology classes](Evanced limited to business and technology classes) with a free business library card. Businesses and non-profits located in Skokie, or members of the Skokie Chamber of Commerce, are eligible to [apply](http://www.skokielibrary.info/s_about/How/business-card-application.pdf). 
 
 ##Take advantage of our free business resources
-Creating lists of new home owners, generating leads, mapping your competition and taking classes online to sharpen your business and technology skills are just a few of the things you can do using our [free business resources](link to Business database page including REFUSA, Public records Lynda, Treehouse, atomic learning and investing databases) Our wide selection of databases can help you market your business, learn about companies and industries, and find investment information.
+Creating lists of new home owners, generating leads, mapping your competition and [taking classes online](Lynda, Treehouse, Atomic Training) to sharpen your business and technology skills are just a few of the things you can do using our [free business resources](link to Business database page including REFUSA, Public records,LexisNexis and investing databases) Our databases can help you market your business, learn about companies and industries, and find investment information.
 
 ##Schedule a consultation
 Need help getting started? Schedule an appointment with our business services librarian, Terry Ratoff,at 847.324.3417 or tratoff@skokielibrary.info, sign up for a one-on-one technology appointment or give us a call at 847.673.7774.
@@ -19,7 +19,8 @@ Need help getting started? Schedule an appointment with our business services li
 Our Small Business Collection (link a list from Encore) has a wide range of books and periodicals. Access ebooks and magazines online for the latest business, financial and technology information. (link to Safari books, books 24x7, Lexisnexis, factiva, zinio)
 
 ##Learn to use technology and equipment
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+The Business & Career Center has Wi-Fi, SMART board, voice conference and laptop projection equipment for making presentations and conducting meetings. Call the Technology Help Desk at 847.324.3179 to arrange training prior to your meeting.
+The [Digital Media Lab](http://www.skokielibrary.info/s_about/How/Tech_Resources/DML.asp) has equipment for creating digital videos, music, photograpy, websites and more. Visit 
 
 ##Start and stay in business
 ###Get counseling from experienced executives and business owners
