@@ -10,7 +10,7 @@ For more information on accessibility, contact Dawn Wlezien at 847-324-3185 or d
 
 ##Assistive devices, technology, and collections
 - Wheelchair and scooters
-- Sound amplification in auditorium and meeting rooms
+- Sound amplification in meeting rooms
 - Computers with JAWS, ZoomText, and OpenBook screen-reading, scanning, and magnification software
 - Braille printer
 - VisualTek enlargers
