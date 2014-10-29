@@ -13,10 +13,10 @@ Access our free business resources from home or work, use our [Business & Career
 Creating lists of new home owners, generating leads, mapping your competition and taking classes online to sharpen your business and technology skills are just a few of the things you can do using our [free business resources](link to Business database page including REFUSA, Public records Lynda, Treehouse, atomic learning and investing databases) Our wide selection of databases can help you market your business, learn about companies and industries, and find investment information.
 
 ##Schedule a consultation
-Need help getting started? Schedule an appointment with our business services librarian, Terry Ratoff,sign up for a one-on-one technology appointment or give us a call.
+Need help getting started? Schedule an appointment with our business services librarian, Terry Ratoff,at 847.324.3417 or tratoff@skokielibrary.info, sign up for a one-on-one technology appointment or give us a call at 847.673.7774.
 
 ##Find the right business books and periodicals
-Our Small Business Collection (link to list on Encore) has a wide range of books and periodicals. Access ebooks and magazines online for the latest business, financial and technology information. (link to Safari books, books 24x7, Lexisnexis, factiva, zinio)
+Our Small Business Collection (link a list from Encore) has a wide range of books and periodicals. Access ebooks and magazines online for the latest business, financial and technology information. (link to Safari books, books 24x7, Lexisnexis, factiva, zinio)
 
 ##Learn to use technology and equipment
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -39,4 +39,4 @@ SCORE counselors can advise you on business issues such as financing, marketing,
 - [Independent Merchants of Downtown Skokie(IMODS)](http://downtownskokie.org/)
 - Dempster Street Merchants
 
-We have great resources for [job hunters](careers page) and investors too.
+We have great resources for [job hunters](careers page) and investors (Morningstar, etc.) too.
