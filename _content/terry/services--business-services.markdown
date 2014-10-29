@@ -16,7 +16,7 @@ Creating lists of new home owners, generating leads, mapping your competition an
 Need help getting started? Schedule an appointment with our business services librarian, Terry Ratoff,at 847.324.3417 or tratoff@skokielibrary.info, sign up for a one-on-one technology appointment or give us a call at 847.673.7774.
 
 ##Find the right business books and periodicals
-Our Small Business Collection (link a list from Encore) has a wide range of books and periodicals. Access ebooks and magazines online for the latest business, financial and technology information. (link to Safari books, books 24x7, Lexisnexis, factiva, zinio)
+Our [Small Business Collection](http://encore.skokielibrary.info/iii/encore/search/C__S%28business%29%20f%3An%20c%3A2%20b%3Azrfb%20l%3Aeng__Orightresult__U?lang=eng&suite=beta) has a wide range of books and periodicals. Access ebooks and magazines online for the latest business, financial and technology information. (link to Safari books, books 24x7, Lexisnexis, factiva, zinio)
 
 ##Learn to use technology and equipment
 The [Business & Career Center](Business & Career Center page) has Wi-Fi, a SMART board, voice conference and laptop projection equipment for making presentations and conducting meetings. Call our Technology Help Desk at 847.324.3179 to arrange training prior to your meeting.
