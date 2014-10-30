@@ -18,7 +18,7 @@ While you're here, be sure to check out all the kid-friendly areas within the de
 - *Baby Garden.* Babies and their caregivers can hang out in this safe corner nook, designed especially for our littlest, non-walking patrons.
 - *Junior High Zone.* The name says it all in this dedicated area for older kids. In addition to comfortable seating and open workspaces, the zone also hosts random pop-up programs and video gaming.
 
-##Other resources
+##Family resources
 
 ###Museum Adventure Pass
 
@@ -37,7 +37,7 @@ An ongoing goal is to make the library a meaningful and popular place for all ch
 ###NoveList K-8 Plus
 With [Novelist K-8 Plus](http://web.b.ebscohost.com/novpk8/search/novbasic?sid=9ab09b5e-59cf-44cd-974e-e95cd837c05e%40sessionmgr198&vid=0&hid=124), you'll discover great books for children from kindergarten through grade 8. Browse lists of award-winning titles or search for books by grade level or Lexile score.
 
-Other links of interest include:
+## Other links of interest
 - [Common Sense Media](https://www.commonsensemedia.org/)
 - Kids' Books We Love [possibly add this link or add Book Match for Kids????]
 - 
