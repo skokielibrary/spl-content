@@ -20,11 +20,14 @@ While you're here, be sure to check out all the kid-friendly areas within the de
 - *Come On In!* An ongoing goal of the Youth Services Department is to make the public library a meaningful and popular place for all children. In partnership with  [Niles Township District for Special Education (NTDSE)](http://www.ntdse.org/), Youth Services staff has been trained to better understand and serve children with disabilities. We also offer monthly programs, Sensory Storytime and Rainbow Therapy.
 [Add link to Holly's SPL Come On In! video???? http://www.youtube.com/watch?v=PCjBcyl0Y08]
 
-## But wait, there's more!
+##Other resources
+
+###Museum Adventure Pass
 
 Youth Services participates in the [Museum Adventure Pass](http://www.museumadventure.org/) program, a partnership between north suburban destinations and other libraries. Use your Skokie Public Library card to get discounts and passes to more than a dozen participating attractions.
 
-We also subscribe to a large collection of databases, including [TumbleBooks](http://www.tumblebooks.com/library/asp/home_tumblebooks.asp), an online collection of animated, talking picture books, puzzles, and quizzes. TumbleBook stories are adapted from existing picture books and can be enjoyed in English, Spanish, Chinese, and French. As with most library-subscribed databases, the TumbleBook Library is available from Internet computers inside the library and from home for Skokie Public Library cardholders.
+###TumbleBooks
+[TumbleBooks](http://www.tumblebooks.com/library/asp/home_tumblebooks.asp) is an online collection of animated, talking picture books, puzzles, and quizzes. The stories are adapted from existing picture books and can be enjoyed in English, Spanish, Chinese, and French. As with most library-subscribed databases, the TumbleBook Library is available from Internet computers inside the library and from home for Skokie Public Library cardholders.
 
 Other links of interest include:
 - [Common Sense Media](https://www.commonsensemedia.org/)
