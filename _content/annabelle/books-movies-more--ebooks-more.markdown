@@ -22,12 +22,11 @@ Want to download books, music, magazines, and movies to your tablet or phone wit
 
 ##[Zinio magazines](https://www.rbdigital.com/skokieil/service/zinio/landing?)
 
+[app available]
+
 ##[OneClick Digital audiobooks](http://skokieil.oneclickdigital.com/)
 
 [app available]
-
-##Kindles and Roku
-You can also borrow a [Roku](http://encore.skokielibrary.info/iii/encore/record/C__Rb1807766__Sroku__Orightresult__X7?lang=eng&suite=beta) video streaming player and [Kindle readers](http://encore.skokielibrary.info/iii/encore/search/C__Sebook%20reader.__Ff%3Afacetmediatype%3Ar%3Ar%3ADigital%20Devices%3A%3A__Orightresult__X0?lang=eng&suite=beta) from our Readers Services Desk on the first floor.
 
 [Callout: if your passion is classical, jazz, or world music, don't miss streaming from Naxos Music Library [link], Naxos Jazz [link] and Music Online [link]]
 
