@@ -26,7 +26,7 @@ Youth Services participates in the [Museum Adventure Pass](http://www.museumadve
 
 ###Come On In!
 
-An ongoing goal is to make the public library a meaningful and popular place for all children. In partnership with  [Niles Township District for Special Education (NTDSE)](http://www.ntdse.org/), Youth Services staff has been trained to better understand and serve children with disabilities. We also offer monthly programs, including Sensory Storytime and Rainbow Therapy.
+An ongoing goal is to make the library a meaningful and popular place for all children. In partnership with  [Niles Township District for Special Education (NTDSE)](http://www.ntdse.org/), Youth Services staff has been trained to better understand and serve children with disabilities. We also offer monthly programs, including Sensory Storytime and Rainbow Therapy.
 [Add link to Holly's SPL Come On In! video???? http://www.youtube.com/watch?v=PCjBcyl0Y08]
 
 
