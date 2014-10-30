@@ -22,7 +22,7 @@ Want to download books, music, magazines, and movies to your tablet or phone wit
 
 ##[Zinio magazines](https://www.rbdigital.com/skokieil/service/zinio/landing?)
 
-##[OneClick Digital audiobooks](http://skokieil.oneclickdigital.com/). 
+##[OneClick Digital audiobooks](http://skokieil.oneclickdigital.com/)
 
 [app available]
 
