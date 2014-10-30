@@ -26,8 +26,11 @@ While you're here, be sure to check out all the kid-friendly areas within the de
 
 Youth Services participates in the [Museum Adventure Pass](http://www.museumadventure.org/) program, a partnership between north suburban destinations and other libraries. Use your Skokie Public Library card to get discounts and passes to more than a dozen participating attractions.
 
-###TumbleBooks
+###TumbleBook Library for Kids
 [TumbleBooks](http://www.tumblebooks.com/library/asp/home_tumblebooks.asp) is an online collection of animated, talking picture books, puzzles, and quizzes. The stories are adapted from existing picture books and can be enjoyed in English, Spanish, Chinese, and French. As with most library-subscribed databases, the TumbleBook Library is available from Internet computers inside the library and from home for Skokie Public Library cardholders.
+
+###NoveList K-8 Plus
+Discover great books for children from kindergarten through grade 8. Browse lists of award-winning titles or search for books by grade level or Lexile score.
 
 Other links of interest include:
 - [Common Sense Media](https://www.commonsensemedia.org/)
