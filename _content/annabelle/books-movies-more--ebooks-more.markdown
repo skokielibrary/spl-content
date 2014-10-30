@@ -6,6 +6,8 @@ published: true
 
 Want to download books, music, magazines, and movies to your tablet or phone with no fines or fees? Your Skokie Public Library card has you covered.
 
+[Images]
+
 ##[3M Cloud Library ebooks](http://ebook.3m.com/library/SkokiePublicLibrary/)
 
 [app available icon?]
