@@ -7,7 +7,7 @@ published: true
 Our Youth Services Department features books, music, and movies for babies through 8th graders, but that's not all we have to offer. Our circulating collection also includes audiobooks, video games, puppets, Playaway Views, Little Learner backpacks, and STEAM kits.
 [Insert picture or slideshow of YS shots.]
 
-## Visiting Youth Services
+##Visiting Youth Services
 
 While you're here, be sure to check out all the kid-friendly areas within the department.
 - *Program Room.* This is "the place" for many of our storytimes and other programs. We also host programs throughout the department, with bigger performances and events scheduled in the Petty Auditorium or Mary Radmacher Meeting Room. For full details about all of our youth and family programs, visit our [Events](http://skokielibrary.info/s_programs/index.asp) page. 
@@ -35,9 +35,11 @@ An ongoing goal is to make the library a meaningful and popular place for all ch
 [TumbleBooks](http://www.tumblebooks.com/library/asp/home_tumblebooks.asp) is an online collection of animated, talking picture books, puzzles, and quizzes. Stories are adapted from existing picture books and can be enjoyed in English, Spanish, Chinese, and French. As with most library-subscribed databases, the TumbleBook Library is available from Internet computers inside the library and from home for Skokie Public Library cardholders.
 
 ###NoveList K-8 Plus
+
 With [Novelist K-8 Plus](http://web.b.ebscohost.com/novpk8/search/novbasic?sid=9ab09b5e-59cf-44cd-974e-e95cd837c05e%40sessionmgr198&vid=0&hid=124), you'll discover great books for children from kindergarten through grade 8. Browse lists of award-winning titles or search for books by grade level or Lexile score.
 
-## Other links of interest
+##Other links of interest
+
 - [Common Sense Media](https://www.commonsensemedia.org/)
 - Kids' Books We Love [possibly add this link or add Book Match for Kids????]
 - 
@@ -45,6 +47,6 @@ With [Novelist K-8 Plus](http://web.b.ebscohost.com/novpk8/search/novbasic?sid=9
 - [Atomic Learning](http://www.atomiclearning.com/training/home) [OPTIONAL TO ADD? MIGHT BE TOO MUCH.]
 - [LearningExpressLibrary.com](http://www.learningexpresshub.com/learningexpresslibrary?AuthToken=16C3F10B-C424-4961-84E9-F04DFC1C1A58) [OPTIONAL TO ADD? MIGHT BE TOO MUCH.]
 
-### One last reminder
+###One last reminder
 
 *Children under 8 years old must be accompanied by an adult caregiver or parent at all times throughout the library. We look forward to seeing you soon.*
