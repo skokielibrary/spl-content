@@ -6,14 +6,21 @@ published: true
 
 Want to download books, music, magazines, and movies to your tablet or phone with no fines or fees? Your Skokie Public Library card has you covered.
 
-##eBooks
-Check out fiction and nonfiction eBooks for adults, children, and teens in a variety of genres and subjects. Find titles in our catalog or search directly through [3M Cloud Library](http://ebook.3m.com/library/SkokiePublicLibrary/) and [OverDrive](http://overdrive.skokielibrary.info/).
+##[3M Cloud Library ebooks](http://ebook.3m.com/library/SkokiePublicLibrary/)
 
-##Audiobooks
-Download audiobooks onto phones or mobile devices with [Overdrive](http://overdrive.skokielibrary.inf/), [Hoopla](http://hoopla.skokielibrary.info), and [OneClick Digital](http://skokieil.oneclickdigital.com/). 
+[app available icon?]
 
-##Music
-Download or stream chart-topping albums with no holds or fees via [Hoopla](http://hoopla.skokielibrary.info).
+##[OverDrive ebooks and audiobooks](http://overdrive.skokielibrary.info/)
+
+[app available]
+
+##[Hoopla music, movies, TV, and audiobooks](http://hoopla.skokielibrary.info)
+
+[app available]
+
+##[OneClick Digital audiobooks](http://skokieil.oneclickdigital.com/). 
+
+Download audiobooks onto phones or mobile devices with [Overdrive](http://overdrive.skokielibrary.inf/), 
 
 [Callout: if your passion is classical, jazz, or world music, don't miss streaming from Naxos Music Library [link], Naxos Jazz [link] and Music Online [link]]
 
