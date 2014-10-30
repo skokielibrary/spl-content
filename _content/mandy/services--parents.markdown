@@ -45,6 +45,6 @@ With [Novelist K-8 Plus](http://web.b.ebscohost.com/novpk8/search/novbasic?sid=9
 - [Atomic Learning](http://www.atomiclearning.com/training/home) [OPTIONAL TO ADD? MIGHT BE TOO MUCH.]
 - [LearningExpressLibrary.com](http://www.learningexpresshub.com/learningexpresslibrary?AuthToken=16C3F10B-C424-4961-84E9-F04DFC1C1A58) [OPTIONAL TO ADD? MIGHT BE TOO MUCH.]
 
-## One last reminder...
+### One last reminder
 
 *Children under 8 years old must be accompanied by an adult caregiver or parent at all times throughout the library. We look forward to seeing you soon.*
