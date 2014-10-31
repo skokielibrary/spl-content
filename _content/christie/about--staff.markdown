@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Staff (?)"
+title: Staff
 published: true
 ---
 
