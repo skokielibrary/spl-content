@@ -35,7 +35,7 @@ We participate in the [Museum Adventure Pass](http://www.museumadventure.org/) p
 
 ###Come On In!
 
-An ongoing goal is to make the library a meaningful and popular place for all children. In partnership with  [Niles Township District for Special Education (NTDSE)](http://www.ntdse.org/), Youth Services staff has been trained to better understand and serve children with disabilities. We also offer monthly programs, including Sensory Storytime and Rainbow Therapy.
+In partnership with  [Niles Township District for Special Education (NTDSE)](http://www.ntdse.org/), Youth Services staff has been trained to better understand and serve children with disabilities. We also offer monthly programs, including Sensory Storytime and Rainbow Therapy.
 [Add link to Holly's SPL Come On In! video???? http://www.youtube.com/watch?v=PCjBcyl0Y08]
 
 
@@ -52,7 +52,7 @@ With [Novelist K-8 Plus](http://web.b.ebscohost.com/novpk8/search/novbasic?sid=9
 ###Voice of Youth Award (VOYA)
 [This program is being retooled and renamed, so I can't include it at this time, but want to leave space for it.]
 
-###Skokie schools
+##Skokie schools
 
 Skokie is home to many public and private schools. [SkokieNet's Directory of K-12 Schools](http://skokienet.org/taxonomy/term/1619) features a complete list of school websites and contact information. A comprehensive listing of  [Skokie preschools and child care centers](http://www.skokienet.org/preschoolchildcare) is also available.
 
