@@ -21,7 +21,12 @@ While you're here, be sure to check out all the kid-friendly areas within the de
 - *Baby Garden.* Babies and their caregivers can hang out in this safe corner nook, designed especially for our littlest, non-walking patrons.
 - *Junior High Zone.* The name says it all in this dedicated area for older kids. With comfortable seating and open workspaces, the zone also hosts random pop-up programs and video gaming.
 
-##Family resources
+##Family resources and activities
+
+###Programs
+We offer many lively storytimes and interactive programs for families. For full details about all of our youth and family programs, visit our [Events](http://skokielibrary.info/s_programs/index.asp) page. 
+
+[This is redundant and the second sentence is an exact repeat from the Program Room blurb above. It is better suited here and programming needed their own callout.]
 
 ###Museum Adventure Pass
 
@@ -43,6 +48,11 @@ An ongoing goal is to make the library a meaningful and popular place for all ch
 
 With [Novelist K-8 Plus](http://web.b.ebscohost.com/novpk8/search/novbasic?sid=9ab09b5e-59cf-44cd-974e-e95cd837c05e%40sessionmgr198&vid=0&hid=124), you'll discover great books for children from kindergarten through grade 8. Browse lists of award-winning titles or search for books by grade level or Lexile score.
 
+###Voice of Youth Award (VOYA)
+[This program is being retooled and renamed, so I can't include it at this time, but want to leave space for it.]
+
+###Skokie Schools
+
 ##Other links of interest
 
 - [Common Sense Media](https://www.commonsensemedia.org/)
@@ -51,6 +61,5 @@ With [Novelist K-8 Plus](http://web.b.ebscohost.com/novpk8/search/novbasic?sid=9
 - [Atomic Learning](http://www.atomiclearning.com/training/home) [OPTIONAL TO ADD? MIGHT BE TOO MUCH.]
 - [LearningExpressLibrary.com](http://www.learningexpresshub.com/learningexpresslibrary?AuthToken=16C3F10B-C424-4961-84E9-F04DFC1C1A58) [OPTIONAL TO ADD? MIGHT BE TOO MUCH.]
 
-###One last reminder
-
-*Children under 8 years old must be accompanied by an adult caregiver or parent at all times throughout the library. We look forward to seeing you soon.*
+*One last reminder: Children under 8 years old must be accompanied by an adult caregiver or parent at all times throughout the library. We look forward to seeing you soon.*
+[Not sure if this is necessary.]
