@@ -24,9 +24,10 @@ While you're here, be sure to check out all the kid-friendly areas within the de
 ##Family resources and activities
 
 ###Programs
-We offer many lively storytimes and interactive programs for families. For full details about all of our youth and family programs, visit our [Events](http://skokielibrary.info/s_programs/index.asp) page. 
 
-[This is redundant and the second sentence is an exact repeat from the Program Room blurb above. It is better suited here and programming needed their own callout.]
+We offer many lively storytimes and interactive programs for kids and families. For full details about all of our youth and family programs, visit our [Events](http://skokielibrary.info/s_programs/index.asp) page. 
+
+[This is redundant and the second sentence is an exact repeat from the Program Room blurb above, but it is better suited here and programming needed their own callout.]
 
 ###Museum Adventure Pass
 
@@ -51,13 +52,16 @@ With [Novelist K-8 Plus](http://web.b.ebscohost.com/novpk8/search/novbasic?sid=9
 ###Voice of Youth Award (VOYA)
 [This program is being retooled and renamed, so I can't include it at this time, but want to leave space for it.]
 
-###Skokie Schools
+###Skokie schools
+
+Skokie is home to many public and private schools. [SkokieNet's Directory of K-12 Schools](http://skokienet.org/taxonomy/term/1619) features a complete list of school websites and contact information. A comprehensive listing of  [Skokie preschools and child care centers](http://www.skokienet.org/preschoolchildcare) is also available.
+
+A number of Skokie schools have loaned us copies of their textbooks for use in the library. So check with us the next time a school book is left behind--we just may have it!
 
 ##Other links of interest
 
 - [Common Sense Media](https://www.commonsensemedia.org/)
 - Kids' Books We Love [possibly add this link or add Book Match for Kids????]
-- [SkokieNet Directory of K-12 Schools](http://skokienet.org/taxonomy/term/1619) and  [Preschools/Child Care Centers](http://www.skokienet.org/preschoolchildcare) 
 - [Atomic Learning](http://www.atomiclearning.com/training/home) [OPTIONAL TO ADD? MIGHT BE TOO MUCH.]
 - [LearningExpressLibrary.com](http://www.learningexpresshub.com/learningexpresslibrary?AuthToken=16C3F10B-C424-4961-84E9-F04DFC1C1A58) [OPTIONAL TO ADD? MIGHT BE TOO MUCH.]
 
