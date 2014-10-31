@@ -4,28 +4,49 @@ title: Parents
 published: true
 ---
 
-Our Youth Services Department features books, music, and movies for babies through 8th graders, but that's not all we have to offer. 
+[insert a more general parent focused intro statement here]
 
-Our circulating collection also includes audiobooks, video games, puppets, Playaway Views, Little Learner backpacks, and STEAM kits.
+Our Youth Services Department features books, music, and movies for babies through 8th graders, but that's not all we have to offer. Our circulating collection includes audiobooks, video games, puppets, Playaway Views, Little Learner backpacks, and STEAM kits.
 
 [Insert picture or slideshow of YS shots.]
 
-##Visiting Youth Services
+## Program, play, and fun spaces
 
 While you're here, be sure to check out all the kid-friendly areas within the department.
-- *Program Room.* "The place" for many of our storytimes and other programs. We also host programs throughout the department, with bigger performances and events scheduled in the Petty Auditorium or Mary Radmacher Meeting Room. For full details about all of our youth and family programs, visit our [Events](http://skokielibrary.info/s_programs/index.asp) page. 
-- *Craft Room.* Pick up a craft kit or board game at the Youth Services Desk and get ready for fun!
-- *Group Study Rooms.* With a library card or school I.D., students can schedule a block of time in one of our four study rooms.
-- *Youth Computer Lab.* In addition to our game computers, mounted iPads, and homework computers, the Youth Computer Lab features Internet access and a digital media lab, supervised by digital literacy specialists and designed specifically for children.
-- *Preschool Area.* You'll find a LEGO table, puppet stage, toys, computers, and iPads, all customized for toddlers and preschoolers!
-- *Baby Garden.* Babies and their caregivers can hang out in this safe corner nook, designed especially for our littlest, non-walking patrons.
-- *Junior High Zone.* The name says it all in this dedicated area for older kids. With comfortable seating and open workspaces, the zone also hosts random pop-up programs and video gaming.
+
+###Program Room
+
+"The place" for many of our storytimes and other programs. We also host programs throughout the department, with bigger performances and events scheduled in the Petty Auditorium or Mary Radmacher Meeting Room. For full details about all of our youth and family programs, visit our [Events](#) page. 
+
+###Craft Room
+
+Pick up a craft kit or board game at the Youth Services Desk and get ready for fun!
+
+###Preschool Area
+
+You'll find a LEGO table, puppet stage, toys, computers, and iPads, all customized for toddlers and preschoolers!
+
+### Baby Garden
+
+Babies and their caregivers can hang out in this safe corner nook, designed especially for our littlest, non-walking patrons.
+
+### Junior High Zone
+
+The name says it all in this dedicated area for older kids. With comfortable seating and open workspaces, the zone also hosts random pop-up programs and video gaming.
+
+## Group Study Rooms
+
+With a library card or school I.D., students can schedule a block of time in one of our four study rooms.
+
+##Youth Computer Lab
+
+In addition to our game computers, mounted iPads, and homework computers, the Youth Computer Lab features Internet access and a digital media lab, supervised by digital literacy specialists and designed specifically for children.
 
 ##Family resources and activities
 
 ###Programs
 
-We offer many lively storytimes and interactive programs for kids and families. For full details about all of our youth and family programs, visit our [Events](http://skokielibrary.info/s_programs/index.asp) page. 
+We offer many lively storytimes and interactive programs for kids and families. For full details about all of our youth and family programs, visit our [Events](#) page. 
 
 [This is redundant and the second sentence is an exact repeat from the Program Room blurb above, but it is better suited here and programming needed their own callout.]
 
@@ -38,6 +59,7 @@ We participate in the [Museum Adventure Pass](http://www.museumadventure.org/) p
 In partnership with  [Niles Township District for Special Education (NTDSE)](http://www.ntdse.org/), Youth Services staff has been trained to better understand and serve children with disabilities. We also offer monthly programs, including Sensory Storytime and Rainbow Therapy.
 [Add link to Holly's SPL Come On In! video???? http://www.youtube.com/watch?v=PCjBcyl0Y08]
 
+[ba: this should link to special needs page or whatever]
 
 ###TumbleBook Library for Kids
 
@@ -54,11 +76,11 @@ With [Novelist K-8 Plus](http://web.b.ebscohost.com/novpk8/search/novbasic?sid=9
 
 ##Skokie schools
 
-Skokie is home to many public and private schools. [SkokieNet's Directory of K-12 Schools](http://skokienet.org/taxonomy/term/1619) features a complete list of school websites and contact information. A comprehensive listing of  [Skokie preschools and child care centers](http://www.skokienet.org/preschoolchildcare) is also available.
+Skokie is home to many public and private schools. [SkokieNet's Directory of K-12 Schools](#) features a complete list of school websites and contact information. A comprehensive listing of  [Skokie preschools and child care centers](#) is also available.
 
 A number of Skokie schools have loaned us copies of their textbooks for use in the library. So check with us the next time a school book is left behind--we just may have it!
 
-##Other links of interest
+## Other links of interest
 
 - [Common Sense Media](https://www.commonsensemedia.org/)
 - Kids' Books We Love [possibly add this link or add Book Match for Kids????]
