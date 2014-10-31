@@ -4,11 +4,11 @@ title: "Staff (?)"
 published: true
 ---
 
-##Skokie Public Library Staff
+We have a dedicated staff working to help you in the building, on the Bookmobile, out in the community, and online.
 
-We have about 82 full-time and 77 part-time staff members working to help you in the building, on the Bookmobile, and online.
+Question? Get in touch at [blah]
 
-###Management Team
+##Management Team
 
 - Director, Carolyn A. Anthony
 - Deputy Director, Richard Kong
@@ -24,4 +24,6 @@ We have about 82 full-time and 77 part-time staff members working to help you in
 - Virtual Community Engagement Manager, Brodie Austin
 - Youth Services Manager, Jan Watkins
 
-Until we have the capacity to do something fun with this page, would it be relatively easy to have a carousel or even a still collage of action photos of staff working? Using existing photos for now.
+[Until we have the capacity to do something fun with this page, would it be relatively easy to have a carousel or even a still collage of action photos of staff working? Using existing photos for now.]
+
+##Staff spotlight
