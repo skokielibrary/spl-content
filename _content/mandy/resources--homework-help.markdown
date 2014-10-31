@@ -4,9 +4,7 @@ title: Homework help
 published: true
 ---
 
-##Homework Help Resources
-
-###Live Homework Help
+##Live Homework Help
 
 Skokie Public Library subscribes to [Live Homework Help](http://lhh.tutor.com/?ProgramGUID=4e339970-4f83-46c7-8373-65e0218340a3), an online tutoring service that connects students in kindergarten through 12th grade (as well as college and adult learners) with expert tutors--certified teachers, university professors, graduate school students, college students, and professionals who are experts in their fields.
 
@@ -14,7 +12,7 @@ Live Homework Help is open from 3-10 pm, seven days a week. All tutoring session
 
 Visit the Live Homework Help Learning Suite and, when you're ready, follow the steps to connect with a tutor. If you have trouble connecting to Live Homework Help or the Online Classroom, visit Tutor.com's [Live Homework Help Support FAQ](http://lhh.tutor.com/policies/faq.aspx) or chat with a [Live Homework Help support representative](http://lhh.tutor.com/policies/live-support.htm). [add link]
 
-###Other resources
+##Other resources
 
 A range of databases are available on our main Resources page [add link when available and correct name]. Here are links to a few favorites for kids:
 - [CultureGrams](http://online.culturegrams.com/)
@@ -26,7 +24,7 @@ A range of databases are available on our main Resources page [add link when ava
 - Kids.gov [not sure???]
 [Let me know if you want annotations describing each resource.]
 
-###Skokie schools
+##Skokie schools
 
 Skokie is home to many public and private schools. [SkokieNet's Directory of K-12 Schools](http://skokienet.org/taxonomy/term/1619) features a complete list of school websites and contact information.
 
