@@ -30,7 +30,7 @@ January 10-February 26, 2015
 
 ##Suggest an Exhibit
 
-We display art of various media and cultures. We welcome applications to exhibit, but submitting an application does not guarantee that your work will be displayed. All works must be framed and wired for hanging. In order to be considered, interested parties must submit an email to [Christie Robinson, Communications and Marketing Manager](crobinson@skokielibrary.info) that includes the following information:
+We display art of various media and cultures. We welcome applications to exhibit, but submitting an application does not guarantee that your work will be displayed. All works must be framed and wired for hanging. In order to be considered, send an email to [Christie Robinson, Communications and Marketing Manager](crobinson@skokielibrary.info) that includes the following information:
 
 - Description of work
 - Sizes of works/frames and number of items
