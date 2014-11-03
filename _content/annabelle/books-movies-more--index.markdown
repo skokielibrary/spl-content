@@ -14,5 +14,7 @@ Books
 - BookMatch
 
 Movies
+- reviews
+- lists
 
 eBooks and downloads
