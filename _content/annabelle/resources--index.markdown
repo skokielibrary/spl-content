@@ -7,7 +7,7 @@ published: true
 We offer an array of free online resources to help you with your research, learning, and information needs. Choose from newspaper and magazine article databases, homework tools, technology courses, language learning programs, and much more.
 
 Research a topic [link?]
-Browse an A to Z list of online resources or explore by topic, including consumer 
+Browse an A to Z list of online resources or explore by topic, including consumer information, health, jobs and career help, and business and investing.
 
 Online training and tutorials [link]
 
