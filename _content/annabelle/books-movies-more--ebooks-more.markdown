@@ -25,7 +25,7 @@ Download or stream chart-topping albums with no holds or fees via Hoopla. If you
 
 ##Magazines
 Read digital editions of your favorite magazines on your tablet or phone with Zinio.
-To check out magazines, first connect to Zinio with your library card and then create an account. To read magazines, download the Zinio app for mobile devices or Zinio Reader for your Mac or PC.
+To check out magazines, first connect to Zinio with your library card and then create an account. To download and read magazines, use the Zinio app for mobile devices or Zinio Reader for your Mac or PC.
 
 ##Movies and TV
 Instantly stream and download movies, television shows, documentaries, and instructional programs with Hoopla.
