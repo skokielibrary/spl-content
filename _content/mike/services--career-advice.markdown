@@ -33,7 +33,7 @@ Meet and network with fellow job seekers at the Skokie Career Support Group.  We
 
 ## Online resources
 
-Our online resources can with your job search too:
+Our online resources can help with your job search too:
 
 ### The Careers College 
 
