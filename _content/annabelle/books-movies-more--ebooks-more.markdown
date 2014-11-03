@@ -15,8 +15,7 @@ Want to download books, music, magazines, and movies to your tablet or phone wit
 - [OneClick Digital](http://skokieil.oneclickdigital.com/)
 
 ebooks
-Check out fiction and nonfiction eBooks for adults, children, and teens. Find titles in our catalog or search directly through 3M Cloud Library and OverDrive or their apps downloadable Google Play or the App Store
-Know a kid who loves books? With TumbleBook Library they can read animated, narrated picture and chapter books through any browser.
+Check out fiction and nonfiction eBooks for adults, children, and teens. Find titles in our catalog or search directly through 3M Cloud Library and OverDrive. Know a kid who loves books? TumbleBook Library offers animated, narrated picture and chapter books through any Web browser.
 
 Audiobooks
 Download audiobooks onto phones or mobile devices with Overdrive, Hoopla, andOneClick Digital or their apps. You can also stream audiobooks on a computer or laptop using Hoopla or AudioBookCloud [link] for kids.
