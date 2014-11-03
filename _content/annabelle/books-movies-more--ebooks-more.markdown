@@ -15,22 +15,22 @@ Want to download books, music, magazines, and movies to your tablet or phone wit
 - [OneClick Digital](http://skokieil.oneclickdigital.com/)
 
 ebooks
-Check out fiction and nonfiction eBooks for adults, children, and teens. Find titles in our catalog or search directly through 3M Cloud Library and OverDrive. Know a kid who loves books? TumbleBook Library offers animated, narrated picture and chapter books through any Web browser.
+Find fiction and nonfiction eBooks for adults, children, and teens in our catalog or search directly through 3M Cloud Library or OverDrive. Know a kid who loves books? TumbleBook Library offers animated, narrated picture and chapter books through Web browsers.
 
 Audiobooks
 Download audiobooks onto phones or mobile devices with Overdrive, Hoopla, andOneClick Digital or their apps. You can also stream audiobooks on a computer or laptop using Hoopla or AudioBookCloud [link] for kids.
 
 Music
-Download or stream chart-topping albums with no holds or fees via Hoopla. If your passion is classical music, don’t miss streaming the Naxos Music Library [link]. We also have Naxos Jazz [link] and Music Online [link] for streaming jazz, Americana, and world music.
+Download or stream chart-topping albums with no holds or fees via Hoopla. If your passion is classical music, don’t miss streaming the Naxos Music Library [link]. We also have Naxos Jazz [link] and Music Online [link] for jazz, Americana, and world music.
 
 Magazines
 Read digital editions of your favorite magazines on your tablet or phone with Zinio.
 To check out magazines, first connect to Zinio with your library card and then create an account. To read magazines, download the Zinio app for mobile devices or Zinio Reader for your Mac or PC.
 
 Movies and TV
-Instantly stream and download movies, television shows, documentaries, and instructional programs with Hoopla. New films are added weekly.
+Instantly stream and download movies, television shows, documentaries, and instructional programs with Hoopla.
 
 Kindles and Roku
-You can also borrow a Roku video streaming player and Kindle readers preloaded with best-selling titles from our Readers Services Desk on the first floor.
+Borrow a Roku video streaming player and Kindle readers preloaded with best-selling titles from our Readers Services Desk on the first floor.
 
 [Callout: Having trouble downloading eBooks and media? Schedule [link] a one-on-one training or troubleshooting session with a staff member.]
