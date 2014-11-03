@@ -33,4 +33,4 @@ Instantly stream and download movies, television shows, documentaries, and instr
 ##Kindles and Roku
 Borrow a Roku video streaming player and Kindle readers preloaded with best-selling titles from our Readers Services Desk on the first floor.
 
-[Callout: Having trouble downloading eBooks and media? Schedule [link] a one-on-one training or troubleshooting session with a staff member.]
+[Callout: Having trouble downloading eBooks and media? Schedule [link] a one-on-one training or troubleshooting session with a staff member who can help.]
