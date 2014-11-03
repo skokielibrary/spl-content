@@ -28,7 +28,7 @@ Read digital editions of your favorite magazines on your tablet or phone with Zi
 To check out magazines, first connect to Zinio with your library card and then create an account. To read magazines, download the Zinio app for mobile devices or Zinio Reader for your Mac or PC.
 
 Movies and TV
-Instantly stream and download movies, television shows, documentaries, and instructional programs with Hoopla. New classic, foreign, family, and contemporary films are added monthly.
+Instantly stream and download movies, television shows, documentaries, and instructional programs with Hoopla. New films are added weekly.
 
 Kindles and Roku
 You can also borrow a Roku video streaming player and Kindle readers preloaded with best-selling titles from our Readers Services Desk on the first floor.
