@@ -33,6 +33,4 @@ Instantly stream and download movies, television shows, documentaries, and instr
 Kindles and Roku
 You can also borrow a Roku video streaming player and Kindle readers preloaded with best-selling titles from our Readers Services Desk on the first floor.
 
-[Callout: Know a kid who loves stories? They can read animated, narrated books with TumbleBook Library [link] and listen to audiobooks with AudioBookCloud [link]]
-
-[Callout: if your passion is classical, jazz, or world music, don't miss streaming from Naxos Music Library [link], Naxos Jazz [link] and Music Online [link]]
+[Callout: Having trouble downloading eBooks and media? Schedule [link] a one-on-one training o troubleshooting session with a staff member.]
