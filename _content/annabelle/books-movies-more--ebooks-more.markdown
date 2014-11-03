@@ -4,7 +4,7 @@ title: "eBooks & more"
 published: true
 ---
 
-Want to download books, music, magazines, and movies to your tablet or phone with no fines or fees? Your Skokie Public Library card has you covered. Search through our catalog or download apps from these services:
+Want to download books, music, magazines, and movies to your tablet or phone with no fines or fees? Your Skokie Public Library card has you covered. Search our catalog or download apps from these services:
 
 [Images]
 
@@ -15,7 +15,7 @@ Want to download books, music, magazines, and movies to your tablet or phone wit
 - [OneClick Digital](http://skokieil.oneclickdigital.com/)
 
 ebooks
-Check out fiction and nonfiction eBooks for adults, children, and teens in a variety of genres and subjects. Find titles in our catalog or search directly through 3M Cloud Library and OverDrive. You can also download their apps on Google Play or the App Store.
+Check out fiction and nonfiction eBooks for adults, children, and teens. Find titles in our catalog or search directly through 3M Cloud Library and OverDrive or their apps downloadable Google Play or the App Store
 Know a kid who loves books? With TumbleBook Library they can read animated, narrated picture and chapter books through any browser.
 
 Audiobooks
