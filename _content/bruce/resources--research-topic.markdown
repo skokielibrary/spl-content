@@ -329,7 +329,7 @@ Try also: [ThomasNet](http://www.thomasnet.com/), [Yahoo Finance](http://finance
 
 **Books & literature**
 
-Try also: [Literary Criticism: Internet Public Library](http://www.ipl.org/div/litcrit/)
+Try also: [Literary Criticism: Internet Public Library](http://www.ipl.org/div/litcrit/), [What's Next](http://ww2.kdl.org/libcat/whatsnext.asp) 
 
 **Consumer information**
 
