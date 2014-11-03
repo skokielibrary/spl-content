@@ -19,12 +19,19 @@ Discover books we love for readers of every age. Along with staff reviews, we've
 Come join one of our many book discussion groups that meet inside and outside the library. Have a reading group of your own? Check out a book discussion kit [link] complete with a dozen copies of a great title.
 
 ##Ebooks and audiobooks [link]
-Download books and audiobooks, read great children's books online, and more.
+Download books and audiobooks, read great children's books online, and listen to audiobooks for kids through:
+
+- 3M Cloud Library
+- OverDrive
+- TumbleBook Library
+- AudioBookCloud
 
 ##Book and literature resources
 Get the correct order of a book series, read author biographies, and discover readalikes for bestsellers with our online research tools.
 
-[Callout: local author page and/or author visits page] 
+[Callout: Love writers and writing? Learn about our services for local authors (link) and come meet established author at one of the many literary events we host (link)] 
+
+["Ad"? Novelist]
 
 
 
