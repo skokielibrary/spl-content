@@ -23,5 +23,5 @@ Pages Through History discusses recent history books. All history lovers are inv
 LitLounge is the North Shore’s social book discussion group, brought to you in partnership with Morton Grove Public Library. Come grab a drink, discuss hip books, and meet new people! We get together the second Wednesday of every month at 7:00pm at The Curragh at 8266 Lincoln Avenue in Skokie.
 [books being discussed this quarter. Link to E*vanced event]
 
-## Science Park?
-If you are an employee at the Science Park and would like to attend this lunchtime book discussion, contact Lukie Marfiott lmarriott@skokielibrary.info
+## Science Park Lunch Group
+For employees at the Illinois Science + Technology Park, this quarterly book discussion meets at lunchtime and discusses a variety of books. For more information, contact Lukie Marfiott lmarriott@skokielibrary.info
