@@ -4,7 +4,7 @@ title: Local authors
 published: true
 ---
 
-Caught the writing bug? We are proud of all our local authors and 
+If you've caught the writing bug and are either hard at work on the Great American Novel or have recently published your masterpiece, we have many ways to help writers enrich their writing and our community. 
 
 ##Programs
 ###Write On!
