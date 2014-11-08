@@ -4,7 +4,7 @@ title: Local authors
 published: true
 ---
 
-If you've caught the writing bug and are either hard at work on the Great American Novel or have recently published your masterpiece, we have many ways for writers to enrich their work and the community. While we can't guarantee that you will become as famous as James Patterson, we can help you find ways to promote and market your masterpiece. 
+If you've caught the writing bug and are either hard at work on the Great American Novel or have recently published your masterpiece, we have many ways for writers to enrich their work and the community. While we can't guarantee that you will become as famous as James Patterson, we have resources to help promote and market your masterpiece. 
 
 ## Your book at the Library
 Join this growing collection of great books by our talented [local authors.](http://encore.skokielibrary.info/iii/encore/search/C__SLocal%20author.__Ff%3Afacetfields%3Asubject%3Asubject%3ASubject%3A%3A__Orightresult__X0?lang=eng&suite=beta) To see your book in the library's collection:
