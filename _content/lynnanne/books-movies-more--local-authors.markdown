@@ -11,12 +11,13 @@ Join this growing collection of great books by our talented [local authors.](htt
 - You can donate a print bound copy of the book to the Readers Services Desk. 
 - We can also purchase select books by our local authors. In order for book to be considered for purchasing, the book needs to be available as a print bound book through a major book retailer.  
 
-## Write On!
+## Improve your craft 
+### Write On!
 The Skokie writers group meets monthly at 7 pm on the last Monday of every month. Local aspiring and published authors looking to perfect their skills are invited to gather and workshop their writing. Please bring a writing selection that you would like to workshop. 
 
-## Upcoming Quarterly programs 
-[will depend on this quarter's selection]
+### [Upcoming Quarterly writers programs. will depend on this quarter's selection]
 
+##  Be Famous
 ### Local Author showcase
 Quarterly, a local author presents in the Writers' Nook. This quarter we showcase [include this quarter's author here] on [date/time]. Any local authors interested in being a part of the local author showcase, should contact New RS librarian at newlynnanne@skokielibrary.info.
 
