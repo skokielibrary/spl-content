@@ -4,6 +4,8 @@ title: Local authors
 published: true
 ---
 
+Caught the writing bug? We are proud of all our local authors and 
+
 ##Programs
 ###Write On!
 The Skokie writers group meets monthly at 7 pm on the last Monday of every month. Local aspiring and published authors looking to perfect their skills are invited to gather and workshop their writing. Please bring a writing selection that you would like to workshop. 
@@ -12,12 +14,12 @@ The Skokie writers group meets monthly at 7 pm on the last Monday of every month
 (will depend on this quarter's selection)
 
 
-##Being featured
+##How to Be Famous
+While we can't make you as well know as James Patterson, we provide many ways in which you can promote and market your masterpiece. 
 
-###Becoming a local author
 The library will gladly add self-published books by local authors to our collection. Local authors can donate a bound copy of the book for inclusion in our collection. All donation should be dropped off at the Readers Services Desk. The library will also purchase select books by our local authors. In order for book to be considered for purchasing, the book needs to be available as a print bound book through a major book retailer.  
 
-###Local Author showcase
+Local Author showcase
 Quarterly, a local author presents in the Writers' Nook. This quarter we showcase (include this quarter's author here) on (date/time). Any local authors interested in being a part of the local author showcase, should contact New RS librarian at newlynnanne@skokielibrary.info.
 
 ###Virtual Local Author showcase
