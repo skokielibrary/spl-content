@@ -25,3 +25,11 @@ LitLounge is the North Shore’s social book discussion group, brought to you in
 
 ## Science Park Lunch Group
 For employees at the Illinois Science + Technology Park, this quarterly book discussion meets at lunchtime and discusses a variety of books. For more information, contact Lukie Marfiott lmarriott@skokielibrary.info
+
+##Talking Books
+[on accessiblity page?]
+
+##Great Decisions
+Great Decisions Group studies and discusses world events. Great Decisions meets on the third Wednesday of each month except in August and December. 
+
+
