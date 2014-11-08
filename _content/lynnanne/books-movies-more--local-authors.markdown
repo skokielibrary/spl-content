@@ -4,7 +4,7 @@ title: Local authors
 published: true
 ---
 
-If you've caught the writing bug and are either hard at work on the Great American Novel or have recently published your masterpiece, we have many ways for writers to enrich their work and the community. While we can't guarantee that you will become as famous as James Patterson, we provide many ways in which you can promote and market your masterpiece. 
+If you've caught the writing bug and are either hard at work on the Great American Novel or have recently published your masterpiece, we have many ways for writers to enrich their work and the community. While we can't guarantee that you will become as famous as James Patterson, we can help you find ways to promote and market your masterpiece. 
 
 ## Write On!
 The Skokie writers group meets monthly at 7 pm on the last Monday of every month. Local aspiring and published authors looking to perfect their skills are invited to gather and workshop their writing. Please bring a writing selection that you would like to workshop. 
