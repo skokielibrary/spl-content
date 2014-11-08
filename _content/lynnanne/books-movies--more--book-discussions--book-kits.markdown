@@ -4,7 +4,7 @@ title: Book kits
 published: true
 ---
 
-If your book discussion group has a hard time deciding on what to read next or finding enough books for the whole group,our Book Discussion Kits can solve both of those problems for you. These kits contain twelve copies of the book, discussion questions and a bag to carry it all in. The books in the kit range from classics, book club favorites, to undiscovered gems. Just so you know: 
+If your book discussion group has a hard time deciding on what to read next or finding enough books for the whole group,our Book Discussion Kits can solve both of those problems. These kits contain twelve copies of the book, discussion questions and a bag to carry it all in. The kits range from classics to book club favorites to undiscovered gems. Just so you know: 
 
 -  The kits are checked out for six weeks.
 - One book group member will check out a kit at the Readers’ Services Desk.  This member is responsible for returning the complete kits back to the Readers’ Services Desk by the due date.
