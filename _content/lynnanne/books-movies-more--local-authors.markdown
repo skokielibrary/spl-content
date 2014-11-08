@@ -11,12 +11,12 @@ If you've caught the writing bug and are either hard at work on the Great Americ
 The Skokie writers group meets monthly at 7 pm on the last Monday of every month. Local aspiring and published authors looking to perfect their skills are invited to gather and workshop their writing. Please bring a writing selection that you would like to workshop. 
 
 ###Upcoming Quarterly programs 
-(will depend on this quarter's selection)
-
+[will depend on this quarter's selection]
 
 ##How to Be Famous
-While we can't make you as well know as James Patterson, we provide many ways in which you can promote and market your masterpiece. 
+While we can't guartentee that you will be as famous as James Patterson, we provide many ways in which you can promote and market your masterpiece. 
 
+###Be a part of the collection
 The library will gladly add self-published books by local authors to our collection. Local authors can donate a bound copy of the book for inclusion in our collection. All donation should be dropped off at the Readers Services Desk. The library will also purchase select books by our local authors. In order for book to be considered for purchasing, the book needs to be available as a print bound book through a major book retailer.  
 
 Local Author showcase
