@@ -4,7 +4,7 @@ title: Local authors
 published: true
 ---
 
-If you've caught the writing bug and are either hard at work on the Great American Novel or have recently published your masterpiece, we have many ways to help writers enrich their writing and our community. 
+If you've caught the writing bug and are either hard at work on the Great American Novel or have recently published your masterpiece, we have many ways for writers to enrich their work and the community. 
 
 ##Programs
 ###Write On!
