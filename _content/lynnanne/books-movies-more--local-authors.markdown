@@ -16,9 +16,6 @@ The Skokie writers group meets monthly at 7 pm on the last Monday of every month
 ##How to Be Famous
 While we can't guarantee that you will become as famous as James Patterson, we provide many ways in which you can promote and market your masterpiece. 
 
-###Be a part of the collection
-The library will gladly add self-published books by local authors to our collection. Local authors can donate a bound copy of the book for inclusion in our collection. All donation should be dropped off at the Readers Services Desk. The library will also purchase select books by our local authors. 
-
 ###Local Authors At Skokie Library
 Join this growing collection of great books by our talented [local authors.](http://encore.skokielibrary.info/iii/encore/search/C__SLocal%20author.__Orightresult?lang=eng&suite=beta) 
 - You can donate a print bound copy of the book to the Readers Services Desk. 
