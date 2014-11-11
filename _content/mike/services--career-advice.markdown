@@ -37,7 +37,7 @@ Our online resources can help with your job search too:
 
 ### The Careers College 
 
-[The Careers College](link to careers college) gets your career search organized by using . Follow the complete guide or jump into individual sections that cover the individual aspects of the career search you need help with such as staying motivated,  interviewing skills and developing marketing material like resumes and LinkedIn profiles.
+[The Careers College](link to careers college) gets your career search organized. Follow the complete guide or jump into individual sections that cover the individual aspects of the career search you need help with such as staying motivated,  interviewing skills and developing marketing material like resumes and LinkedIn profiles.
 
 ### Career Center from Tutor.com 
 
