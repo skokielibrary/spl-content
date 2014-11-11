@@ -18,10 +18,13 @@ A great resource for anyone studying a different country, CultureGrams provides 
 Search for articles and pictures in this database created especially for students in kindergarten through 5th grade. Subjects include animals, art, geography, health, news, science, social studies, and sports.
 
 ##netTrekker [link]
-Looking for good websites to help with a homework subject but having trouble wading through Google results? netTrekker helps you find teacher-approved websites and for students in elementary through high school.
+Looking for good websites to help with a homework subject but having trouble wading through Google results? netTrekker helps you find teacher-approved websites for students in elementary through high school.
 
-- [Searchasaurus](http://web.a.ebscohost.com/sas/search?sid=0d05f445-a600-4747-8359-22532d3003b2%40sessionmgr4005&vid=0&hid=4114)
-- [World Book Online](http://www.worldbookonline.com/wb/products?ed=all&gr=PROVIDED+BY+SKOKIE+PUBLIC+LIBRARY) 
+##Searchasaurus [link]
+Searchasaurus makes it easy for younger students to search by keyword or subject to find articles and pictures for their research projects.
+
+##World Book Online [link]
+Find easy-to-read information fast with this online version of the popular encyclopedia.
 
 ##School textbooks
 A number of Skokie schools have loaned us copies of their textbooks for use in the library. Elementary and middle school textbooks are at the Youth Services Desk on the first floor; high school textbooks are shelved on the second floor.
