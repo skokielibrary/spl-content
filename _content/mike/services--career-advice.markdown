@@ -14,7 +14,7 @@ Look for the Career Resource Center on the library's second floor. You'll find r
 
 - Career books with general job search advice.
 - Information on career fields and industries.
-- Gudies for resumes, cover letters, networking, and interviewing.
+- Guides for resumes, cover letters, networking, and interviewing.
 - Job posting board with local job opportunities and information for other career programs and educational opportunities in the area.
 
 ## One-on-one career help
