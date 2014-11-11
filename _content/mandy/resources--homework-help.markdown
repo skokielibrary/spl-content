@@ -20,9 +20,5 @@ A range of databases are available on our main Resources page [add link when ava
  [Searchasaurus](http://web.a.ebscohost.com/sas/search?sid=0d05f445-a600-4747-8359-22532d3003b2%40sessionmgr4005&vid=0&hid=4114)
 - [World Book Online](http://www.worldbookonline.com/wb/products?ed=all&gr=PROVIDED+BY+SKOKIE+PUBLIC+LIBRARY) 
 
-##Skokie schools
-Skokie is home to many public and private schools. [SkokieNet's Directory of K-12 Schools](http://skokienet.org/taxonomy/term/1619) features a complete list of school websites and contact information.
-
-
 ##School textbooks
 A number of Skokie schools have loaned us copies of their textbooks for use in the library. Elementary and middle school textbooks are at the Youth Services Desk on the first floor; high school textbooks are shelved on the second floor.
