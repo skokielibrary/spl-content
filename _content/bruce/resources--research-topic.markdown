@@ -53,7 +53,7 @@ Learn to navigate your job search with interactive tutorials, career resources, 
 
 [Job search]
 
-##Chicago Tribune (1849&#8210;present) from ProQuest
+##Chicago Tribune (1849&ndash;present) from ProQuest
 Search the newspaper's complete text. Content from 1849 to 1987 includes images of articles, photographs, death notices, and ads. From 1987 to present, only text versions of articles and obituaries are available.
 
 [Articles]
@@ -268,7 +268,7 @@ Find citations to articles that appeared in the _Skokie Review_, _The News_, and
 [Genealogy]
 
 ##Skokie Obituary Index
-Find citations to obituaries that appeared in _The News_ (1960&#82101984), _Skokie Review_ (1981&#8210present), and _Life: Skokie edition_ (1978&#8210Oct. 2004). To request full obituaries, email askref@skokielibrary.info or call our Reference Desk at 847-673-3733.
+Find citations to obituaries that appeared in _The News_ (1960&ndash;1984), _Skokie Review_ (1981&ndash;present), and _Life: Skokie edition_ (1978&ndash;Oct. 2004). To request full obituaries, email askref@skokielibrary.info or call our Reference Desk at 847-673-3733.
 
 [Articles]
 [Genealogy]
