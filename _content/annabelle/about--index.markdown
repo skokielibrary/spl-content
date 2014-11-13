@@ -4,7 +4,7 @@ title: About
 published: true
 ---
 
-We help you discover and learn new things, enrich your life, and exchange ideas through a broad spectrum of materials, technologies, and experiences. Whether you want to use the free WiFi or computers, learn something new, relax, have fun, study, check out stuff to take home, or talk with other people in the community, we are here for you.
+We help you discover and learn new things, enrich your life, and exchange ideas with our materials, technologies, and experiences. Whether you want to use the free WiFi or computers, learn something new, relax, have fun, study, check out stuff to take home, or talk with other people in the community, we are here for you.
 
 ##Library Hours
 
@@ -12,15 +12,15 @@ Monday-Friday: 9 am-9 pm
 Saturday: 9 am-6 pm
 Sunday: noon-6 pm
 
-Can't make it to the building? We have options.
+### Can't make it to the building? We have options.
 
 [The Bookmobile] comes to most neighborhoods in Skokie.
 
-You can have materials [mailed to your home.] 
+[Mail delivery] lets you send items right to your doorstep. 
 
-If you are [homebound,] we can deliver to you.
+[Homebound delivery] brings items to your if you are homebound.
 
-Many resources are [available online,] anytime, anyplace, using your library card.
+[Online resources] make research and learning availbale anytime, anyplace, using your library card.
 
 ##Contact Us
 
