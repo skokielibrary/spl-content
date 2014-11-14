@@ -4,11 +4,12 @@ title: Board
 published: true
 ---
 
-## Library Board of Trustees
+Our Board of Trustees generally meets at 7:30 pm on the second Wednesday of each month. Meetings are held in the Board Room on the third floor and are open to the public. Board members are elected for six-year terms in consolidated April elections.
 
-The Board of Trustees generally meets at 7:30 pm on the second Wednesday of each month. Meetings are held in the Board Room on the third floor and are open to the public. Board members are elected for six-year terms in consolidated April elections.
+Do you have a question for the Board?
+[Send an email to the Library Board](mailthelibraryboard@skokielibrary.info)
 
-### Trustees
+## Trustees
 
 - Mark Prosperi, President
 - Diana Hunter, Vice President/President Emerita
@@ -17,14 +18,16 @@ The Board of Trustees generally meets at 7:30 pm on the second Wednesday of each
 - Jonathan H. Maks, MD
 - Zelda Rich
 
-[Agenda for the next meeting] where will these links come from???
+## Agendas and minutes
 
+This month's agenda
+[Agenda for the next meeting where will these links come from??]
+
+### Minutes from recent meetings
 [Meeting minutes, August 13, 2014]
 [Meeting minutes, July 9, 2014]
 
-[Send email to the Library Board](mailthelibraryboard@skokielibrary.info)
-
-### Upcoming Meeting Schedule
+## Upcoming Meeting Schedule
 
 - Wednesday, November 12, 2014
 - Wednesday, December 10, 2014
@@ -40,8 +43,3 @@ The Board of Trustees generally meets at 7:30 pm on the second Wednesday of each
 - Wednesday, October 14, 2015
 - Wednesday, November 11, 2015
 - Wednesday, December 9, 2015
-
-
-
-
-

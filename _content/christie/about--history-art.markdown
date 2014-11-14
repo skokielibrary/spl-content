@@ -1,4 +1,6 @@
 ---
 layout: page
-title: History & art
+title: "History & building"
+published: true
 ---
+

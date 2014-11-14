@@ -14,7 +14,7 @@ Look for the Career Resource Center on the library's second floor. You'll find r
 
 - Career books with general job search advice.
 - Information on career fields and industries.
-- Gudies for resumes, cover letters, networking, and interviewing.
+- Guides for resumes, cover letters, networking, and interviewing.
 - Job posting board with local job opportunities and information for other career programs and educational opportunities in the area.
 
 ## One-on-one career help
@@ -33,11 +33,11 @@ Meet and network with fellow job seekers at the Skokie Career Support Group.  We
 
 ## Online resources
 
-Our online resources can with your job search too:
+Our online resources can help with your job search too:
 
 ### The Careers College 
 
-[The Careers College](link to careers college) gets your career search organized by using . Follow the complete guide or jump into individual sections that cover the individual aspects of the career search you need help with such as staying motivated,  interviewing skills and developing marketing material like resumes and LinkedIn profiles.
+[The Careers College](link to careers college) gets your career search organized. Follow the complete guide or jump into individual sections that cover the individual aspects of the career search you need help with such as staying motivated,  interviewing skills, and developing marketing material like resumes and LinkedIn profiles.
 
 ### Career Center from Tutor.com 
 
