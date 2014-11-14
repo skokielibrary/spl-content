@@ -27,7 +27,7 @@ LitLounge is the North Shore’s social book discussion group, brought to you in
 
 ## Science Park Lunch Group
 
-For employees at the Illinois Science + Technology Park, this quarterly book discussion meets at lunchtime and discusses a variety of books. For more information, contact Lukie Marfiott lmarriott@skokielibrary.info
+For employees at the Illinois Science + Technology Park, this quarterly book discussion meets at lunchtime and discusses a variety of books. For more information, contact Lukie Marriott lmarriott@skokielibrary.info
 
 ##Talking Books
 
