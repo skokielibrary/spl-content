@@ -4,7 +4,7 @@ title: Business services
 published: true
 ---
 
-If you own a business, are a budding entrepreneur, or work locally, we have tools and support to help you get the job done.
+If you're looking to start, manage, or grow a business, we have tools and support to help you get the job done.
 
 [Callout: Need help getting started? Schedule an appointment with Terry Ratoff, our business services librarian, at 847-324-3417 or tratoff@skokielibrary.info.]
 
@@ -12,9 +12,9 @@ If you own a business, are a budding entrepreneur, or work locally, we have tool
 Businesses and nonprofits located in Skokie and members of the Skokie Chamber of Commerce can apply for a free business library card. [link to application PDF?]  Use the card to connect to our online business resources from your home or office, reserve our Business & Career Center for working and meeting, and sign up for business and technology classes. [Evanced link?]
 
 ##Free online resources
-Generate leads, map your competition, or take classes to sharpen your technology skills with our online business resources.  [link to scoped business and investing resources]
+Generate leads, map your competition, or take classes to sharpen your technology skills with our online business resources [link to scoped business and investing resources]. 
 
-##Find the right business books and periodicals
+##Business books and magazines
 Our [Small Business Collection](http://encore.skokielibrary.info/iii/encore/search/C__S%28business%29%20f%3An%20c%3A2%20b%3Azrfb%20l%3Aeng__Orightresult__U?lang=eng&suite=beta) has a wide range of books and periodicals. [Access ebooks and magazines online](link to Safari books, books 24x7, Lexisnexis, factiva, zinio) for the latest business, financial and technology information.
 
 ##Learn to use technology and equipment
