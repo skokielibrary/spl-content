@@ -18,8 +18,8 @@ Find something good to check out? Of course you did. Here's what you need to kno
 ###Renewals
 You can renew most items at least once if no one else is on the waiting list. Call 847-673-2675 to use our automated renewal line or log in to renew online.
 
-###Reserves and pickup
-You can have up to 15 items on reserve at any one time. Place reserves through our catalog, in person, or by phone. If you don't see something you want, request it [link to request page]. 
+###Reserves
+You can have up to 15 items on reserve at any one time. Place reserves through our catalog, in person, or by phone. If you don't see something you want, request it.
 
 Pick up reserved items at the library or elect to have them placed on the Bookmobile [link to page] or delivered to you through the mail with Library Express (mailing cost is $2 per item).
 
