@@ -15,4 +15,6 @@ Upcoming author visits
 
 Partnership with Book Stall?
 
+If you are an author interested in presenting at the library, contact the Readers Services librarian Kathy Sexton ksexton@skokielibrary.info.
+
 
