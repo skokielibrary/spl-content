@@ -4,7 +4,7 @@ title: "Business & career center"
 published: true
 ---
 
-You can use the Business & Career Center for working, meeting and making presentations. 
+You can use the Business & Career Center for working, meeting, and making presentations. 
 
 > "To say I was impressed was an understatement. The Business Center is a great room. I am a new business owner in Skokie and I will use it." Sharan Tash, TASH Fitness, Skokie
 
