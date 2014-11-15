@@ -7,6 +7,7 @@
     - ['christie/events--performances.html', 'Performances']
     - ['christie/events--performances--young-steinway.html', 'Young Steinway']
     - ['lynnanne/books-movies-more--book-discussions.html', 'Book discussions']
+    - ['lynnanne/books-movies--more--book-discussions--book-kits.html', 'Book kits']
     - ['lynnanne/events--author-visits.html', 'Author visits']
     - ['christie/about--exhibits.html', 'Exhibits']
     - ['amita/events--propose-program.html', 'Propose a program']
@@ -20,7 +21,6 @@
     - ['lynnanne/books-movies-more--staff-recommendations--bookmatch.html', 'BookMatch']
     - ['lynnanne/books-movies-more--local-authors.html', 'Local authors']
     - ['annabelle/books-movies-more--finding-items.html', 'Finding items']
-    - ['lynnanne/books-movies--more--book-discussions--book-kits.html', 'Book kits']
 
 - title : Resources
   pages:
