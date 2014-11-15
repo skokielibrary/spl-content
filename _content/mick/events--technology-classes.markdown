@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Tech classes
+published: true
 ---
+
 Whether you're just learning about computers or want to build a website, we offer a tech classes for all skill levels at the library. Our free classes are a great way to expose yourself to new tech skills.
 
-(Find upcoming classes now)[#]
+[Find upcoming tech classes](#)
 
 Questions? Get in touch with XXX.
 
