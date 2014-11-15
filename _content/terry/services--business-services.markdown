@@ -4,16 +4,18 @@ title: Business services
 published: true
 ---
 
-If you are a business owner, starting a business or employed in the area, we can help you:
+If you are a business owner, starting a business or employed in the area, we're here for you. 
+
+[Callout: Need help getting started? Schedule an appointment with Terry Ratoff, our business services librarian, at 847-324-3417 or tratoff@skokielibrary.info.]
 
 ##Get a business library card
-Access our free business resources from home or work, use our [Business & Career Center](link to Business and Career center page) for working and meeting, and [register for business and technology classes](Evanced limited to business and technology classes) with a free business library card. Businesses and non-profits located in Skokie, or members of the Skokie Chamber of Commerce, are eligible to [apply](http://www.skokielibrary.info/s_about/How/business-card-application.pdf). 
+Businesses and nonprofits located in Skokie and members of the Skokie Chamber of Commerce are eligible to apply for a free library card. [link to application PDF?]  You can use the card to connect to our online business resources, reserve our [Business & Career Center](link to Business and Career center page) for working and meeting, and [register for business and technology classes](Evanced limited to business and technology classes). 
 
 ##Take advantage of our free business resources
 Creating lists of new home owners, generating leads, mapping your competition and [taking classes online](Lynda, Treehouse, Atomic Training) to sharpen your business and technology skills are just a few of the things you can do using our [free business resources](link to Business database page including REFUSA, Public records,LexisNexis and investing databases) Our databases can help you market your business, learn about companies and industries, and find investment information.
 
 ##Schedule a consultation
-Need help getting started? Schedule an appointment with our business services librarian, Terry Ratoff,at 847.324.3417 or tratoff@skokielibrary.info, sign up for a one-on-one technology appointment or give us a call at 847.673.7774.
+, sign up for a one-on-one technology appointment or give us a call at 847.673.7774.
 
 ##Find the right business books and periodicals
 Our [Small Business Collection](http://encore.skokielibrary.info/iii/encore/search/C__S%28business%29%20f%3An%20c%3A2%20b%3Azrfb%20l%3Aeng__Orightresult__U?lang=eng&suite=beta) has a wide range of books and periodicals. [Access ebooks and magazines online](link to Safari books, books 24x7, Lexisnexis, factiva, zinio) for the latest business, financial and technology information.
@@ -40,5 +42,3 @@ SCORE counselors can advise on business issues, includining financing, marketing
 - [Skokie Chamber of Commerce](http://skokiechamber.org/)
 - [Independent Merchants of Downtown Skokie(IMODS)](http://downtownskokie.org/)
 - Dempster Street Merchants
-
-We have great resources for **[job hunters]**(careers page) and **investors** (link to Morningstar, ValueLine, Lexis Nexis, Hoovers,.....) too.
