@@ -4,15 +4,15 @@ title: Business services
 published: true
 ---
 
-If you own a business, want to start a business, or work locally, we here with tools and support to help your business grow.
+If you own a business, want to start a business, or work locally, we have tools and support to help your business grow.
 
 [Callout: Need help getting started? Schedule an appointment with Terry Ratoff, our business services librarian, at 847-324-3417 or tratoff@skokielibrary.info.]
 
 ##Get a business library card
-Businesses and nonprofits located in Skokie and members of the Skokie Chamber of Commerce are eligible to apply for a free business library card. [link to application PDF?]  Use the card to connect to our online business resources from your home or office, reserve our [Business & Career Center](link to Business and Career center page) for working and meeting, and [register for business and technology classes](Evanced limited to business and technology classes). 
+Businesses and nonprofits located in Skokie and members of the Skokie Chamber of Commerce are eligible to apply for a free business library card. [link to application PDF?]  Use the card to connect to our online business resources from your home or office, reserve our Business & Career Center for working and meeting, and sign up for business and technology classes. [Evanced link?]
 
 ##Take advantage of our free business resources
-Creating lists of new home owners, generating leads, mapping your competition and [taking classes online](Lynda, Treehouse, Atomic Training) to sharpen your business and technology skills are just a few of the things you can do using our [free business resources](link to Business database page including REFUSA, Public records,LexisNexis and investing databases) Our databases can help you market your business, learn about companies and industries, and find investment information.
+Generate leads, map your competition, or take classes to sharpen your technology skills with our online business resources. [link to scoped business and investing resources]
 
 ##Schedule a consultation
 , sign up for a one-on-one technology appointment or give us a call at 847.673.7774.
@@ -23,7 +23,7 @@ Our [Small Business Collection](http://encore.skokielibrary.info/iii/encore/sear
 ##Learn to use technology and equipment
 The [Business & Career Center](Business & Career Center page) has wi-fi, a SMART board, voice conference and projection equipment for making presentations and conducting meetings. Call our Technology Help Desk at 847.324.3179 to arrange training prior to your meeting.
 
-The [Digital Media Lab](http://www.skokielibrary.info/s_about/How/Tech_Resources/DML.asp) has equipment for creating digital videos, music, photograpy, websites and more. Learn to use this and other technology with [online training](Link to Lynda.com, Atomic Learning,Treehouse) or try [Safari e-books](http://proquestcombo.safaribooksonline.com/). Or, contact our Technology Help Desk at 847.324.3179 to schedule training. 
+The [Digital Media Lab](http://www.skokielibrary.info/s_about/How/Tech_Resources/DML.asp) has equipment for creating digital videos, music, photograpy, websites and more. Learn to use this and other technology with [online training](Link to Lynda.com, Atomic Learning,Treehouse) or try [Safari e-books](http://proquestcombo.safaribooksonline.com/). Or, contact our Technology Help Desk to schedule training. 
 
 ##Start and stay in business
 ###Get counseling from experienced executives and business owners
