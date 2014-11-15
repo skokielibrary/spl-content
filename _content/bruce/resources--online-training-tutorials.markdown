@@ -8,31 +8,30 @@ From learning software to mastering a language or polishing your career skills, 
 
 ##Master technology
 
-###Atomic Training
+###Atomic Training [link]
 Watch short video tutorials on popular software applications (including Microsoft, Adobe, Apple, and Google products).
 
-###Lynda.com Online Learning Library
+###Lynda.com Online Learning Library [link]
 Watch thousands of step-by-step online video tutorials on software, apps, media, marketing, business, and technology.
 
-###Treehouse Online Learning
+###Treehouse Online Learning [link]
 Learn how to build websites and apps, write code, or start a business through self-paced video lessons.
 
 ##Learn a language
 
-###Mango Languages
+###Mango Languages [link]
 Lessons in 60-plus languages, including English. Includes specialty courses, such as medical Spanish, and full-lengh theatrical movies with subtitles and enhanced instruction. Download the Mango Languages app to use on mobile devices.
 
-###Rosetta Stone Library Solution
+###Rosetta Stone Library Solution [link]
 Take introductory-level lessons in more than 30 languages in the library version of the popular language software. You'll be asked to register with Rosetta Stone to access the lessons.
 
 ##Pass a test
 
-###LearningExpress Library
+###LearningExpress Library [link]
 Ace the ACT, SAT, GED, ASVAB, and other tests by prepping with these interactive practice exams. There also are citizenship and career exam modules. You'll be asked to register with LearningExpress to take the tests.
 
-###Driving-Tests.org
-
-
+###[Driving-Tests.org](http://skokielib.driving-tests.org/illinois/)
+Take free online practice tests based on Illinois Department of Motor Vehicles standards, including motorcycle exams and a sample commercial driver license (CML) test.
 
 ##Get a job
 
@@ -42,5 +41,4 @@ Get tips on job searching and interview prep. From 3 to 10 pm daily, upload resu
 ###The Careers College
 Learn to navigate your job search with interactive tutorials, career resources, resume templates, and self-evaluation forms.
 
-
-One on one help, technology classes.
+[Callout for one-onone help or technology classes?]

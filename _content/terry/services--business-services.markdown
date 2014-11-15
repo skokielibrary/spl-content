@@ -4,24 +4,23 @@ title: Business services
 published: true
 ---
 
-If you are a business owner, starting a business or employed in the area, we can help you:
+If you're looking to start, manage, or grow a business, we have tools and support to help you get the job done.
 
-##Get a business library card
-Access our free business resources from home or work, use our [Business & Career Center](link to Business and Career center page) for working and meeting, and [register for business and technology classes](Evanced limited to business and technology classes) with a free business library card. Businesses and non-profits located in Skokie, or members of the Skokie Chamber of Commerce, are eligible to [apply](http://www.skokielibrary.info/s_about/How/business-card-application.pdf). 
+[Callout: Need help getting started? Schedule an appointment with Terry Ratoff, our business services librarian, at 847-324-3417 or tratoff@skokielibrary.info.]
 
-##Take advantage of our free business resources
-Creating lists of new home owners, generating leads, mapping your competition and [taking classes online](Lynda, Treehouse, Atomic Training) to sharpen your business and technology skills are just a few of the things you can do using our [free business resources](link to Business database page including REFUSA, Public records,LexisNexis and investing databases) Our databases can help you market your business, learn about companies and industries, and find investment information.
+##Business library cards
+Businesses and nonprofits located in Skokie and members of the Skokie Chamber of Commerce can apply for a free business library card. [link to application PDF?]  Use the card to connect to our online business resources from your home or office, reserve our Business & Career Center for working and meeting, and sign up for business and technology classes. [Evanced link?]
 
-##Schedule a consultation
-Need help getting started? Schedule an appointment with our business services librarian, Terry Ratoff,at 847.324.3417 or tratoff@skokielibrary.info, sign up for a one-on-one technology appointment or give us a call at 847.673.7774.
+##Free online resources
+Generate leads, map your competition, or take classes to sharpen your technology skills with our online business resources [link to scoped business and investing resources]. 
 
-##Find the right business books and periodicals
+##Business books and magazines
 Our [Small Business Collection](http://encore.skokielibrary.info/iii/encore/search/C__S%28business%29%20f%3An%20c%3A2%20b%3Azrfb%20l%3Aeng__Orightresult__U?lang=eng&suite=beta) has a wide range of books and periodicals. [Access ebooks and magazines online](link to Safari books, books 24x7, Lexisnexis, factiva, zinio) for the latest business, financial and technology information.
 
 ##Learn to use technology and equipment
 The [Business & Career Center](Business & Career Center page) has wi-fi, a SMART board, voice conference and projection equipment for making presentations and conducting meetings. Call our Technology Help Desk at 847.324.3179 to arrange training prior to your meeting.
 
-The [Digital Media Lab](http://www.skokielibrary.info/s_about/How/Tech_Resources/DML.asp) has equipment for creating digital videos, music, photograpy, websites and more. Learn to use this and other technology with [online training](Link to Lynda.com, Atomic Learning,Treehouse) or try [Safari e-books](http://proquestcombo.safaribooksonline.com/). Or, contact our Technology Help Desk at 847.324.3179 to schedule training. 
+The [Digital Media Lab](http://www.skokielibrary.info/s_about/How/Tech_Resources/DML.asp) has equipment for creating digital videos, music, photograpy, websites and more. Learn to use this and other technology with [online training](Link to Lynda.com, Atomic Learning,Treehouse) or try [Safari e-books](http://proquestcombo.safaribooksonline.com/). Or, contact our Technology Help Desk to schedule training. 
 
 ##Start and stay in business
 ###Get counseling from experienced executives and business owners
@@ -40,5 +39,3 @@ SCORE counselors can advise on business issues, includining financing, marketing
 - [Skokie Chamber of Commerce](http://skokiechamber.org/)
 - [Independent Merchants of Downtown Skokie(IMODS)](http://downtownskokie.org/)
 - Dempster Street Merchants
-
-We have great resources for **[job hunters]**(careers page) and **investors** (link to Morningstar, ValueLine, Lexis Nexis, Hoovers,.....) too.

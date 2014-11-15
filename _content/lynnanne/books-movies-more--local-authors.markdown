@@ -6,7 +6,7 @@ published: true
 
 Let the library help you nuture and grow your writing life. While we can't guarantee that you will become as famous as James Patterson, we have resources to help promote and market your masterpiece. 
 
-Questions? Get in touch with the new Lynnanne! [need to change]
+Questions? Get in touch with the Readers Services Librarian,Kathy Sexton. ksexton@skokielibrary.info 
 
 ## Your book at the library
 
@@ -32,11 +32,11 @@ Coming soon!
 
 ### Local Author showcase
 
-We feature presentations by local authors quarterly in Writers' Nook. If you would like to share your work and your ideas, contact New RS librarian at newlynnanne@skokielibrary.info.
+We feature presentations by local authors quarterly in Writers' Nook. If you would like to share your work and your ideas, contact Readers Services Librarian,Kathy Sexton. ksexton@skokielibrary.info 
 
 This quarter we showcase [include this quarter's author here] on [date/time].
 
 [###Virtual Local Author showcase
-We also highlight local authors on our blog. If you're interested in being interviewed for this feature, should contact New RS librarian at newlynnanne@skokielibrary.info.]  [depends on what form the blogs take in new site]
+We also highlight local authors on our blog. If you're interested in being interviewed for this feature, should contact Readers Services Librarian,Kathy Sexton. ksexton@skokielibrary.info  [depends on what form the blogs take in new site]
 
 Past interviews can be found [on our blog](http://blogs.skokielibrary.info/?s=local+author+showcase&x=0&y=0)
