@@ -5,7 +5,12 @@
             <li>{{ directory.title }}
                 <ul class="subnav">
                 {% for page in directory.pages %}
-                    <li><a href="{{ site.baseurl }}/content/{{ page[0] }}">{{ page[1] }}</a></li>
+                    <li><a href="{{ site.baseurl }}/content/{{ page[0] }}">{{ page[1] }}</a>
+                    {% for sub in page.subpages %}
+                    <ul class="subnav subpages">
+                      <li><a href="{{ site.baseurl }}/content/{{ sub[0] }}">{{ sub[1] }}</a>
+                    {% endfor %}
+                    </li>
                 {% endfor %}
                 </ul>
             </li>
