@@ -25,7 +25,7 @@ Choose the space that meets your needs.
 
 Our Conference Room seats 4 people.
 
-Our Committee Room seats 16 people around a large conference table. It is equipped with a SMART board and voice conferencing capability.
+Our Committee Room seats 16 people around a large conference table. It is equipped with a SMART board and voice conferencing equipment.
 
 Our Program Room holds up to 45 people. You can arrange the flexible furnishings to meet your needs. It is equipped with a microphone and projector that is easily connected to your laptop, and a rolling white board.  
 
