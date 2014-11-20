@@ -22,8 +22,8 @@ Don't have a business library card? Businesses located in Skokie or members of t
 
 ## What you'll find here
 Choose the space that meets your needs.
-Our Conference Room holds up to 4 people.
-Our Committee Room holds up to 16 people around a large conference table. It is equipped with a SMART board and voice conferencing capability.
-Our Program Room houses up to 45 people and is equipped with a microphone and projector that is easily connected to your laptop, and a rolling white board. Our flexible furnishings can be arranged to meet your needs. 
-Need a laptop or a training session to use the SMART board or projection equipment? Contact our Tech Help Desk for an appointment at 847.324.3179.
+Our Conference Room seats 4 people.
+Our Committee Room seats 16 people around a large conference table. It is equipped with a SMART board and voice conferencing capability.
+Our Program Room holds up to 45 people with flexible furnishings that can be arranged to meet your needs. It is equipped with a microphone and projector that is easily connected to your laptop, and a rolling white board.  
+Need a laptop or a training session to use the SMART board, video conferencing or projection equipment? Contact the Tech Help Desk at 847-324-3179.
 [insert business center layout document]
