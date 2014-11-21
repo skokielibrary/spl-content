@@ -98,7 +98,9 @@ Director Carolyn Anthony is elected at 2013-14 president of the Public Library A
 
 ###2014
 
-The library is awarded 5 stars (the top ranking) in Library Journal's national ranking of public libraries.
+The library is awarded 5 stars (the top ranking) in _Library Journal's_ national ranking of public libraries.
+
+
 
 
 
