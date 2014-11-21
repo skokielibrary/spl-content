@@ -108,46 +108,13 @@ insert images of the first and second floors here--seems unnecessary to write an
 
 Paintings, sculptures, even a tapestry grace the library's walls and grounds. Learn more about the permanent art collection [http://encore.skokielibrary.info/iii/cpro/CollectionViewPage.external?lang=eng&sp=1000005&suite=def](http://encore.skokielibrary.info/iii/cpro/CollectionViewPage.external?lang=eng&sp=1000005&suite=def)
 
+##More History
 
+Three print sources related to the library's history can be found in the catalog, or ask at the Reference Desk.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- item [History of Skokie Library](https://encore.skokielibrary.info/iii/encore/record/C__Rb1103019__Shistory%20of%20skokie%20library__Orightresult__X7?lang=eng&suite=beta) by Selma Petty
+- item [Skokie Public Library](https://encore.skokielibrary.info/iii/encore/record/C__Rb1336563?lang=eng)
+- item [Annual Reports 1956-1988](https://encore.skokielibrary.info/iii/encore/record/C__Rb1119932?lang=eng)
 
 
 
