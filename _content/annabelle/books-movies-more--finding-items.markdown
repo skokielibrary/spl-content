@@ -17,4 +17,4 @@ Your library card gives you access to LINKin, a lending partnership with local l
 ##Item not in LINKin?
 If you're a Skokie cardholder hunting for a new release, fill out our purchase recommendation form [link] and we'll look into buying it for the library. For items older than 6 months, submit an interlibrary loan request [link]. 
 
-You can also use your library card to check out items at other suburban public libraries. Try searching the [Morton Grove Public Library catalog](http://mgpl.sirsi.net/uhtbin/cgisirsi/?ps=lKNzLwN0B6/x/48500016/60/1190/X) or nearby libraries (such as those in Lincolnwood, Niles, Evanston, and Wilmette) that use the joint [CCS catalog](http://64.107.155.140/cgi-bin/ibistro).
+You can also use your library card to check out items at other suburban public libraries. Try searching the [Morton Grove Public Library catalog](http://mgpl.sirsi.net/uhtbin/cgisirsi/?ps=lKNzLwN0B6/x/48500016/60/1190/X) or nearby libraries (such as those in Lincolnwood, Niles, Evanston, and Wilmette) that use the [a joint catalog](http://64.107.155.140/cgi-bin/ibistro).
