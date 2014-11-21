@@ -88,9 +88,13 @@ Director Carolyn Anthony receives the Illinois Library Association's "Librarian 
 
 Skokie Public Library is the first public library in Illinois to be awarded the National Medal for Museum and Library Service. Three library representatives travel to the White House to receive the award.
 
+###2010
+
+Annual library circulation reaches two-million items for the first time.
+
 ###2012
 
-Director Carolyn Anthony is elected at 2013-14 president of the Public Library Association.
+Director Carolyn Anthony is elected at 2013-14 president of the Public Library Association. The second floor is remodeled to add a Business and Career Center, as well as six additional study rooms.
 
 ###2014
 
