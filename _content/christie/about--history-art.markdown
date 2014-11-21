@@ -100,6 +100,16 @@ Director Carolyn Anthony is elected at 2013-14 president of the Public Library A
 
 The library is awarded 5 stars (the top ranking) in _Library Journal's_ national ranking of public libraries.
 
+##Floor Plans
+
+insert images of the first and second floors here--seems unnecessary to write an intro paragraph
+
+##Art Collection
+
+Paintings, sculptures, even a tapestry grace the library's walls and grounds. Learn more about the permanent art collection [http://encore.skokielibrary.info/iii/cpro/CollectionViewPage.external?lang=eng&sp=1000005&suite=def](http://encore.skokielibrary.info/iii/cpro/CollectionViewPage.external?lang=eng&sp=1000005&suite=def)
+
+
+
 
 
 
