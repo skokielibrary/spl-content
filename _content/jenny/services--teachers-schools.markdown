@@ -49,7 +49,7 @@ We have a large collection of classroom sets that include multiple copies of a b
 
 ## Online resources
 
-We have online resources specifically for kids on our research [link] and homework help [link] pages. We also have a collection of [homework eBooks](http://encore.skokielibrary.info/iii/encore/search/C__S%28%28Marshall%20Cavendish%20ebooks%29%20%7C%20%28abdo%20digital%29%20%7C%20%28Marshall%20Cavendish%20ebooks%29%29%20f%3Ae__Orightresult__U?lang=eng&suite=beta) that can be read on multiple devices at the same time. 
+We have online resources specifically for kids on our research [link] and homework help [link] pages. We also have a collection of [homework eBooks](http://encore.skokielibrary.info/iii/encore/search/C__S%28%28Marshall%20Cavendish%20ebooks%29%20%7C%20%28abdo%20digital%29%20%7C%20%28Marshall%20Cavendish%20ebooks%29%20%7C%20%28my%20capstone%20library%29%29%20f%3Ae__Orightresult__U?lang=eng&suite=beta) that can be read on multiple devices at the same time. 
 
 ## Classroom visits
 
