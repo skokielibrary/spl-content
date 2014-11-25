@@ -26,7 +26,7 @@ Searchasaurus makes it easy for younger students to search by keyword or subject
 ##World Book Online [link]
 Find easy-to-read information fast with this online version of the popular encyclopedia.
 
-##[Online homework books](http://encore.skokielibrary.info/iii/encore/search/C__S%28%28Marshall%20Cavendish%20ebooks%29%20%7C%20%28abdo%20digital%29%20%7C%20%28Marshall%20Cavendish%20ebooks%29%29%20f%3Ae__Orightresult__U?lang=eng&suite=beta) [link]
+##[Online homework books](http://encore.skokielibrary.info/iii/encore/search/C__S%28%28Marshall%20Cavendish%20ebooks%29%20%7C%20%28abdo%20digital%29%20%7C%20%28Marshall%20Cavendish%20ebooks%29%20%7C%20%28my%20capstone%20library%29%29%20f%3Ae__Orightresult__U?lang=eng&suite=beta)
 Read biographies, histories, country and state books, and other titles written especially for elementary and middle-school readers.
 
 ##School textbooks
