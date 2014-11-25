@@ -4,7 +4,7 @@ title: "Online training & tutorials"
 published: true
 ---
 
-From learning software to mastering a language or polishing your career skills, our online resources offer training and tutorials that help you become the person you want to be. 
+From learning software to mastering a language or polishing your career skills, our online resources offer training and tutorials that help you become the person you want to be. Use your Skokie library card to access these resources from work or home.
 
 ##Master technology
 
@@ -16,6 +16,9 @@ Watch thousands of step-by-step online video tutorials on software, apps, media,
 
 ###Treehouse Online Learning [link]
 Learn how to build websites and apps, write code, or start a business through self-paced video lessons.
+
+###Safari Books Online [link]
+Read thousands up-to-date technology, project management, and personal development books from popular publishers like O'Reilly, Wiley, SAMS, and more through your web browser.
 
 ##Learn a language
 
