@@ -18,7 +18,7 @@ Watch thousands of step-by-step online video tutorials on software, apps, media,
 Learn how to build websites and apps, write code, or start a business through self-paced video lessons.
 
 ###Safari Books Online [link]
-Read thousands up-to-date technology, project management, and personal development books from popular publishers like O'Reilly, Wiley, SAMS, and more through your web browser.
+Read online thousands of up-to-date technology, project management, and personal development books from popular publishers such as O'Reilly, Wiley and SAMS.
 
 ##Learn a language
 
