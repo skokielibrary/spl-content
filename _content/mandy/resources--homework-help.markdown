@@ -4,7 +4,7 @@ title: Homework help
 published: true
 ---
 
-Have a tough homework assignment and can't make it to the library? We have several online resources that can help.
+Have a tough homework assignment and can't make it to the library? We have several online resources that can help. Connect to all of these homework help tools using your Skokie library card number.
 
 ##Live Homework Help [link]
 Live Homework Help connects students from grade school through junior college in with expert tutors to work on math, science, social studies, and English problems. Tutoring sessions are available from 3 to 10 pm daily and last about 20 minutes. Library cardholders are limited to 5 sessions per week. 
@@ -25,6 +25,9 @@ Searchasaurus makes it easy for younger students to search by keyword or subject
 
 ##World Book Online [link]
 Find easy-to-read information fast with this online version of the popular encyclopedia.
+
+##[Online homework books](http://encore.skokielibrary.info/iii/encore/search/C__S%28%28Marshall%20Cavendish%20ebooks%29%20%7C%20%28abdo%20digital%29%20%7C%20%28Marshall%20Cavendish%20ebooks%29%29%20f%3Ae__Orightresult__U?lang=eng&suite=beta) [link]
+Read biographies, histories, country and state books, and more.
 
 ##School textbooks
 A number of Skokie schools have loaned us copies of their textbooks for use in the library. Elementary and middle school textbooks are at the Youth Services Desk on the first floor; high school textbooks are shelved on the second floor.
