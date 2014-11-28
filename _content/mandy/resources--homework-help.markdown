@@ -16,7 +16,7 @@ During times when live help isn't available, you can still log in and find works
 ###TUTOR MATCH [link: tutormatch.com]
 Tutor Match offers a free nationwide directory of qualified tutors. Search for local tutors or browse to find an online tutor. Profiles include specialties, background, and hourly rates. Once a match is found, simply complete a contact form to get in touch with the tutor.
 
-###ISAT PREP [link: http://www.isbe.net/assessment/isat.htm]
+###ISAT PREP [link: isbe.net/assessment/isat.htm]
 The Illinois Standards Achievement Test (ISAT) measures the acheivements of students in reading and mathematics (grades 3 through 8) and science (grades 4 and 7). Sample tests and other resources for parents are available on the Illinois State Board of Education website.
 
 ##School projects and research
@@ -38,8 +38,9 @@ Find easy-to-read information fast with this online version of the popular encyc
 
 ##Books
 
-###[Online homework books](http://encore.skokielibrary.info/iii/encore/search/C__S%28%28Marshall%20Cavendish%20ebooks%29%20%7C%20%28abdo%20digital%29%20%7C%20%28Marshall%20Cavendish%20ebooks%29%20%7C%20%28my%20capstone%20library%29%29%20f%3Ae__Orightresult__U?lang=eng&suite=beta)
-Read biographies, histories, country and state books, and other titles written especially for elementary and middle-school readers.
+###[ONLINE BOOKS](http://encore.skokielibrary.info/iii/encore/search/C__S%28%28Marshall%20Cavendish%20ebooks%29%20%7C%20%28abdo%20digital%29%20%7C%20%28Marshall%20Cavendish%20ebooks%29%20%7C%20%28my%20capstone%20library%29%29%20f%3Ae__Orightresult__U?lang=eng&suite=beta)
+Read ebook biographies, histories, country and state books, and other titles written especially for elementary and middle-school readers.
+[Brodie, I beleive this was inserted by Annabelle. I really like including it, but now that we are categorizing things, maybe we should also include a link to the catalog (i.e., "For more books...") as well as a link to our booklists (if those are even included on the new site.)
 
 ##Skokie schools
 
