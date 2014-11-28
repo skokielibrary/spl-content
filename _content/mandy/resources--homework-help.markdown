@@ -31,9 +31,14 @@ Searchasaurus makes it easy for younger students to search by keyword or subject
 Find easy-to-read information fast with this online version of the popular encyclopedia.
 
 ##Books
+
 ###[Online homework books](http://encore.skokielibrary.info/iii/encore/search/C__S%28%28Marshall%20Cavendish%20ebooks%29%20%7C%20%28abdo%20digital%29%20%7C%20%28Marshall%20Cavendish%20ebooks%29%20%7C%20%28my%20capstone%20library%29%29%20f%3Ae__Orightresult__U?lang=eng&suite=beta)
 Read biographies, histories, country and state books, and other titles written especially for elementary and middle-school readers.
 
 ##Skokie schools
+
+###SCHOOL WEBSITES
+Skokie is home to many public and private schools. [SkokieNet's Directory of K-12 Schools](#) features a complete list of school websites and contact information. A comprehensive listing of  [Skokie preschools and child care centers](#) is also available.
+
 ###SCHOOL TEXTBOOKS
 A number of Skokie schools have loaned us copies of their textbooks for use in the library. Elementary and middle school textbooks are at the Youth Services Desk on the first floor; high school textbooks are shelved on the second floor.
