@@ -13,10 +13,11 @@ Live Homework Help connects students from grade school through college with expe
 
 During times when live help isn't available, you can still log in and find worksheets, tutorials, and study guides under the SkillsCenter Resource Library link.
 
-###TUTOR MATCH [link]
+###TUTOR MATCH [link: tutormatch.com]
 Tutor Match offers a free nationwide directory of qualified tutors. Search for local tutors or browse to find an online tutor. Profiles include specialties, background, and hourly rates. Once a match is found, simply complete a contact form to get in touch with the tutor.
 
-###TEST PREP
+###ISAT PREP [link: http://www.isbe.net/assessment/isat.htm]
+The Illinois Standards Achievement Test (ISAT) measures the acheivements of students in reading and mathematics (grades 3 through 8) and science (grades 4 and 7). Sample tests and other resources for parents are available on the Illinois State Board of Education website.
 
 ##School projects and research
 
