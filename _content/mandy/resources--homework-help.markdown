@@ -14,7 +14,7 @@ Live Homework Help connects students from grade school through college with expe
 During times when live help isn't available, you can still log in and find worksheets, tutorials, and study guides under the SkillsCenter Resource Library link.
 
 ###TUTOR MATCH [link]
-Tutor Match offers a free nationwide directory of qualified tutors. Students or parents can search for local tutors or browse to find an online tutor. Profiles include specialties, background, and hourly rates. Once a match is found, simply complete a contact form to get in touch with the tutor.
+Tutor Match offers a free nationwide directory of qualified tutors. Search for local tutors or browse to find an online tutor. Profiles include specialties, background, and hourly rates. Once a match is found, simply complete a contact form to get in touch with the tutor.
 
 ###TEST PREP
 
