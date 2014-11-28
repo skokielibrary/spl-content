@@ -7,7 +7,7 @@ published: true
 Have a tough homework assignment and can't make it to the library? We have several online resources that can help. Connect to all of these homework help tools using your Skokie library card number.
 
 ##Live Homework Help [link]
-Live Homework Help connects students from grade school through junior college in with expert tutors to work on math, science, social studies, and English problems. Tutoring sessions are available from 3 to 10 pm daily and last about 20 minutes. Library cardholders are limited to 5 sessions per week. 
+Live Homework Help connects students from grade school through college with expert tutors to work on math, science, social studies, and English problems. Tutoring sessions are available from 3 to 10 pm daily and last about 20 minutes. Library cardholders are limited to 5 sessions per week. 
 
 During times when live help isn't available, you can still log in and find worksheets, tutorials, and study guides under the SkillsCenter Resource Library link.
 
