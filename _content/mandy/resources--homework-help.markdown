@@ -17,7 +17,7 @@ During times when live help isn't available, you can still log in and find works
 Tutor Match offers a free nationwide directory of qualified tutors. Search for local tutors or browse to find an online tutor. Profiles include specialties, background, and hourly rates. Once a match is found, simply complete a contact form to get in touch with the tutor.
 
 ###ISAT PREP [link: isbe.net/assessment/isat.htm]
-The Illinois Standards Achievement Test (ISAT) measures the acheivements of students in reading and mathematics (grades 3 through 8) and science (grades 4 and 7). Sample tests and other resources for parents are available on the Illinois State Board of Education website.
+The Illinois Standards Achievement Test (ISAT) measures the achievements of students in reading and mathematics (grades 3 through 8) and science (grades 4 and 7). Sample tests and other resources for parents are available on the Illinois State Board of Education website.
 
 ##School projects and research
 
@@ -48,4 +48,4 @@ Read ebook biographies, histories, country and state books, and other titles wri
 Skokie is home to many public and private schools. [SkokieNet's Directory of K-12 Schools](#) features a complete list of school websites and contact information. A comprehensive listing of  [Skokie preschools and child care centers](#) is also available.
 
 ###SCHOOL TEXTBOOKS
-A number of Skokie schools have loaned us copies of their textbooks for use in the library. Elementary and middle school textbooks are at the Youth Services Desk on the first floor; high school textbooks are shelved on the second floor.
+A number of Skokie schools have loaned us copies of their textbooks for use in the library. Elementary and middle school textbooks are available at the Youth Services Desk on the first floor; high school textbooks are shelved on the second floor.
