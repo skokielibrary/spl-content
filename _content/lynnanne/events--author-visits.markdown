@@ -8,13 +8,13 @@ The only thing better than reading a great book is meeting the great mind that p
 
 ## Upcoming author visits
 
-## Recent author interview
+There are no upcoming author visits right now.
+
+## Recent author interviews
 
 We like to sit down and get to know the authors that speak here. Here's our most recent interview.
 
 [Youtube embed]
-
-Partnership with Book Stall?
 
 ## Presenting at the library
 

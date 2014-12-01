@@ -6,15 +6,25 @@ published: true
 
 With millions of items in our collection and an expert staff of bookworms, film buffs, and music geeks, we can't wait to guide you and your family to great books, movies, and more.
 
-Books
-- reviews
-- lists
-- new items
-- discussions
+## Books
+
+- Reviews
+- Lists
+- New items
+- Discussions
 - BookMatch
 
-Movies
-- reviews
-- lists
+[Visit our books page](#)
 
-eBooks and downloads
+## Movies
+
+- Reviews
+- Lists
+
+[Visit our movies page](#)
+
+## eBooks & downloads
+
+Learn how to get great content on your tablet, smartphone, or computer.
+
+[Visit our eBooks & downloads page](#)

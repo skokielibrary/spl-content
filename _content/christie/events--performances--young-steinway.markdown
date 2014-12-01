@@ -4,20 +4,14 @@ title: Young Steinway
 published: true
 ---
 
-
-2014-2015
-
-33rd Season
-
-Young Steinway
-Concert Series
-
 Our Young Steinway concerts showcase young people with extraordinary talent, giving local audiences the chance to enjoy first-class music, for free, close to home. Many performers have gone on to great achievements as professional musicians, and we are proud to count them as part of our Young Steinway family.
 
+## Attending a concert
 Concerts begin at 3 pm in the Petty Auditorium. Free tickets are distributed at 2:30 pm. Doors open at 2:45 pm, beginning with people with disabilities.
 
+## This year's program
 
-October 5, 2014
+### October 5, 2014
 
 Chloe Lee, Violin
 
@@ -27,7 +21,7 @@ Recent performances and honors: Featured soloist for Waltham and Lowell Philharm
 
 Musical studies: A native of Chicago, Chloe is a student of Desiree Ruhstrat.
 
-Other interests: An active fashion blogger, ranked #11 in the Teen Vogue Fashion Click’s “Top 100 Bloggers” 
+Other interests: An active fashion blogger, ranked #11 in the Teen Vogue Fashion Click’s “Top 100 Bloggers”
 
 Benjamin Kolot, Piano
 
@@ -39,7 +33,7 @@ Musical studies: Studies piano with Brenda Huang. Benjamin also plays trumpet in
 
 Other interests: Sports and computer games
 
-October 19, 2014
+### October 19, 2014
 
 Teacher Concert
 
@@ -49,7 +43,7 @@ Goran Ivanovic, Guitar
 
 Lincoln Trio members Desiree Ruhstrat and David Cunliffe, both teachers of numerous Young Steinway Concert Series performers over the years, join guitar virtuoso Goran Ivanovic to present exciting works by Manuel de Falla, Enrique Granados, Isaac Albéniz, Heitor Villa-Lobos, Armando Susmano, and Astor Piazzolla. Only two years in existence, this trio has developed a unique repertoire and has performed world premieres of a number of pieces and has commissioned original music by young composers. Their recent performances include appearances at Beethoven Festival, Latino Music Festival, Live from WFMT, Music in the Loft, Mayne Stage, and as guests of the Ravinia Festival on their recent European tour.
 
-November 2, 2014
+### November 2, 2014
 
 Rebecca Moy, Violin
 
@@ -71,7 +65,7 @@ Music studies: Studies piano with Brenda Huang. Alice also plays violin in the M
 
 Other interests: Math and scholastic bowl team
 
-December 7, 2014
+### December 7, 2014
 
 Eleanor Goes, Violin
 
@@ -89,7 +83,7 @@ Recent performances and honors: Second place in the intermediate B level of the 
 Musical studies: Studies piano with Theodore Edel. Antony also participates in chamber groups at the Music Institute of Chicago, coached by Marta Aznavoorian.
 Other interests: Reading, science, and math
 
-January 4, 2015
+### January 4, 2015
 
 Lauren Conroy, Violin
 
@@ -111,7 +105,7 @@ Musical studies: Studies piano with Sueanne Metz. Grace is also an accomplished 
 
 Other interests: Singing, reading, and writing
 
-February 1, 2015
+### February 1, 2015
 
 Piano Trio Royale
 
@@ -128,7 +122,7 @@ Conor Perreault, Cello
 
 Aidan and Conor Perreault, who live and attend school in Skokie, have been playing duets together for years, most recently at the Rising Stars showcase in Glenview. Both are members of Midwest Young Artists Symphony Orchestra and the chamber music program. Conor is an avid runner who enjoys math and computer programming. Aidan enjoys composing music, as well as math and science.
 
-March 1, 2015
+### March 1, 2015
 
 Dionna Bidny, Piano
 
@@ -150,7 +144,7 @@ Musical studies: Studies flute with Hideko Amano. Elizabeth also plays piano and
 
 Other interests: Math team, Junior Engineering and Technical Society, and American Red Cross Youth Club
 
-March 22, 2015
+### March 22, 2015
 
 Samuel Liu, Piano
 
@@ -172,7 +166,7 @@ Musical studies: Studies violin with Drew Lecher. Kirsten plays in the Chicago Y
 
 Other interests: Represented her school at Illinois State University Young Authors Convention, and loves playing tennis and golf
 
-April 12, 2015
+### April 12, 2015
 
 Benjamin Smelser, Trombone
 
@@ -194,7 +188,7 @@ Musical studies: Studies cello with Gilda Barston and piano with Matthew Gemmill
 
 Other interests: Researching cars of all makes and models, participating in church youth group
 
-May 3, 2015
+### May 3, 2015
 
 Colin Choi, Piano
 
@@ -215,7 +209,7 @@ Musical studies: Studies violin with Desiree Ruhstrat. Rachel also plays piano a
 
 Other interests: Reading, writing stories, and drawing
 
-June 7, 2015
+### June 7, 2015
 
 Kimberly Han, Piano
 
@@ -236,4 +230,3 @@ Recent performances and honors: Performed with Oistrach Symphony Orchestra as ce
 Musical studies: Studies cello with Russell Rolen and is principal cellist of the Midwest Young Artists Concert Orchestra
 
 Other interests: Basketball, volleyball, card tricks, and video games
-
