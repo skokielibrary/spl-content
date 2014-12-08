@@ -20,7 +20,7 @@ Our staff favorites and curated movie lists help you find the perfect movie, wha
 
 ##Movie screenings
 
-Stop by to watch a free movie on the Petty Auditorium's big screen. Check out our movie calendar. [link]
+Check out our movie calendar, your ticket to monthly free movies showing on the Petty Auditorium's big screen. [link]
 
 ##Hoopla
 
