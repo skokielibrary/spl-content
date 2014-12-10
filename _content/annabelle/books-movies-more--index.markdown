@@ -8,18 +8,13 @@ With millions of items in our collection and an expert staff of bookworms, film 
 
 ## Books
 
-- Reviews
-- Lists
-- New items
-- Discussions
-- BookMatch
+We have so many ways to help you find and engage with good books. See how our recommendations, curated lists, books discussion, and BookMatch service can help you.
 
 [Visit our books page](#)
 
 ## Movies
 
-- Reviews
-- Lists
+Whether you're a cinephile or a B-movie junkie, we'll help you get more out of your screen time with staff reviews and curated lists.
 
 [Visit our movies page](#)
 

@@ -276,7 +276,6 @@ nav ul{margin: 0; padding: 0; list-style: none;}
 
     h3 {
         font-size: $base-font-size;
-        text-transform: uppercase;
 
         @include media-query($on-laptop) {
             font-size: 22px;
