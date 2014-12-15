@@ -29,21 +29,18 @@ We also have several computers specifically configured for kids and teens on our
 
 - High school students with registered library cards can use the suite of Apple computers in our High School Lounge
 - Internet computers for children in kindergarten through 8th grade are available in the Youth Computer Lab; the Youth Digital Media Lab next door has iMacs and specialized software
-- Several computersin our Youth Services  feature games, homework resources, and apps.
-
-
-The preschool, game, and homework computers are available when the Library opens and are turned off 15 minutes before Library closing. Internet and Youth Digital Media Lab computers are available according to the Youth Computer Lab schedule.
+- Elsewhere in Youth Services, we have computers and mounted iPads featuring age-appropriate games, homework resources, and apps.
 
 ##WiFi
 
-We off free wireless internet connection.  Wireless printing is also available.
+We off free wireless internet connection and wireless printing.
 
 ###Wireless Printing
 
 Visit Skokie Public Library's PrintSpot webpage to send print jobs to the Library's printers from a laptop connected to the Library's wireless network or from any computer outside of the Library with an Internet connection.
 
-- The cost for black and white printing is 10¢ per page. Color printing is currently not available.
-- Print jobs can be retrieved at the Print Release Stations found in Computer Commons (second floor).
-- Unclaimed print jobs will be deleted four hours after they are sent.
-- If you plan to use wireless printing on a regular basis, print from a mobile device, or print webpages that require a login, we recommned you download and install the [PrintWhere driver](http://www.printeron.com/services-support/downloads.html).
-- To print an email message or attachment from a mobile device forward your email to [skokie-adultservices@printspots.com](skokie-adultservices@printspots.com). You will be sent a confirmation email for each message and attachment.
+- The cost for black and white printing is 10¢ per page. 
+- Retrieve print jobs at the Print Release Stations in the second-floor Computer Commons.
+- Unclaimed print jobs will be deleted 4 hours after they're sent.
+- If you plan to use wireless printing regularly, we recommend you download and install the [PrintWhere driver](http://www.printeron.com/services-support/downloads.html).
+- To print an email message or attachment from a mobile device, forward your email to [skokie-adultservices@printspots.com](skokie-adultservices@printspots.com). Youconfirmation email for each message and attachment.
