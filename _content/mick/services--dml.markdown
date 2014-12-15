@@ -13,7 +13,7 @@ Links to tutorials - print or video here
 
 ##Adult Digital Media Lab
 
-###Eqipment
+###Equipment
 
 - Apple iMac desktops (4)
 - Bamboo Fun tablet (1)
