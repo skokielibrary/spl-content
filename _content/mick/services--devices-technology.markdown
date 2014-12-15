@@ -22,7 +22,7 @@ These items can be used in the Library. They are found at the Tech. Help Desk on
 - Scanners
 - Speakers
 - Microphones
-- Electrnonic Piano Keyboard
+- Electronic Piano Keyboard
 - Digital Drawing tablets
 - VHS to Digial video converter
 - M-Audio Fast Track
