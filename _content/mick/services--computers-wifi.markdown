@@ -4,31 +4,26 @@ title: "Computers, WiFi"
 published: true
 ---
 
-[Reserve a Computer](computer reservation link)
+We have computers and free WiFi throughout the building, plus many devices and gadgets to check out. 
+
+You can reserve a computer in advance [Reserve a Computer](computer reservation link)
+[is this something that can be done outside the library?]
 
 ## Computers for Adults
 
-### Adult Computer Commons & Computer Classroom
+### Computer Commons & Computer Classroom
 
-You will find two spaces with computers on the library's second floor--the Adult Computer Commons and the Computer Classroom. Each space has full-service computers with Internet access and Microsoft Office, scanning stations, and printers. You sign up for one hour sessions, though time can be extended if no one is waiting. 
-
-We also have Express Computers in the Computer Commons. You can use these computers for thirty minutes. No reservations or time extensions are available.
-
-The Computer Classroom may be unavailable when we have regularly scheduled classes there. Closings are posted in advance. 
+Our second-floor Computer Commons and adjacent Computer Classroom have dozens of full-service computers with Internet access and Microsoft Office, scanning stations, and printers. All you need is a Skokie Public Library card or registered suburban card. Chicago residents may apply for a computer-use-only card.
 
 ### Digital Media Lab
 
-The Digital Media Lab has advanced software and tools on Apple computers for creating music, editing photographs and videos, and more.
+The Digital Media Lab has Apple computers and advanced software and tools for creating music, editing photographs and videos, and more. [link to dml page](Learn more about the Digital Media Lab).
 
-[link to dml page](Learn more about the Digital Media Lab).
+### Laptops
 
-### Laptop computers
+Skokie Public Library cardholders can borrow laptops to use within the library. Stop by the Technology Help Desk on the second floor for checkout.
 
-Our laptop computers offer more flexibility if your studying or meeting with someone in the librayr. Laptops can be used for two hours anywhere on the second floor, including study rooms. Laptop applications include Internet Explorer, Firefox, and the Microsoft Office 2010 suite. Wireless printing is available too.
-
-Bring a valid photo I.D. and your Skokie Public Library card to Technology Help Desk on the second floor. We'll get you set up there. 
-
-## Computers for teens and high school students
+## Computers for teens and kids
 
 High School Digital Media Lab
 The High School Digital Media Lab is located on the first floor. This Lab contains three Apple desktop computers running Mac OS and other software enabling users to creatively express themselves through digital videos, music, photography, websites, graphic design, podcasts, presentations and other forms of digital media.
