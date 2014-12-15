@@ -21,7 +21,7 @@ The Digital Media Lab has Apple computers and advanced software and tools for cr
 
 ### Laptops
 
-Skokie Public Library cardholders can borrow laptops to use within the library. Stop by the Technology Help Desk on the second floor for checkout.
+Skokie Public Library cardholders can borrow laptops to use within the library. Stop by the Technology Help Desk on the second floor to check one out.
 
 ## Computers for teens and kids
 
