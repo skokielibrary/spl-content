@@ -13,7 +13,7 @@ You can reserve a computer in advance [Reserve a Computer](computer reservation 
 
 ### Computer Commons & Computer Classroom
 
-Our second-floor Computer Commons and adjacent Computer Classroom have dozens of full-service computers with Internet access and Microsoft Office, scanning stations, and printers. All you need is a Skokie Public Library card or registered suburban card. Chicago residents may apply for a computer-use-only card.
+Our second-floor Computer Commons and adjacent Computer Classroom have dozens of full-service computers with Internet access and Microsoft Office, scanning stations, and printers. All you need is a Skokie Public Library card or registered suburban card. Chicago residents may apply for a computer-use-only card. These computers are open to anyone in high school or older.
 
 ### Digital Media Lab
 
@@ -25,20 +25,12 @@ Skokie Public Library cardholders can borrow laptops to use within the library. 
 
 ## Computers for teens and kids
 
-High School Digital Media Lab
-The High School Digital Media Lab is located on the first floor. This Lab contains three Apple desktop computers running Mac OS and other software enabling users to creatively express themselves through digital videos, music, photography, websites, graphic design, podcasts, presentations and other forms of digital media.
+We also have several computers specifically configured for kids and teens on our first floor:
 
-## Computers for kids
+- High school students with registered library cards can use the suite of Apple computers in our High School Lounge
+- Internet computers for children in kindergarten through 8th grade are available in the Youth Computer Lab; the Youth Digital Media Lab next door has iMacs and specialized software
+- Several computersin our Youth Services  feature games, homework resources, and apps.
 
-Several computers that have been set up and configured  especially for children in preschool through 8th grade.
-
-- Three preschool computers for children ages 2 to 7 are available in the Preschool Area.
-- Two game computers for children in kindergarten through 8th grade are available near the craft room in the Youth Services Department
-- Four homework computers for children in kindergarten through 8th grade are located in  the Youth Services study room alcove.
-- Twelve Internet computers for children in kindergarten through 8th grade are available in the Youth Computer Lab.
-- Four iMac computers are available in the Youth Digital Media Lab.
-
-[BA: are numbers important? Seems like a pain to update]
 
 The preschool, game, and homework computers are available when the Library opens and are turned off 15 minutes before Library closing. Internet and Youth Digital Media Lab computers are available according to the Youth Computer Lab schedule.
 
