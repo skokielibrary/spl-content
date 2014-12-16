@@ -31,6 +31,7 @@ Want to get creative, do some work, or just relax? Check out one of the many dev
 - Kindles
 - Roku media player
 - Portable DVD players for in-library use
+- Gaming consoles and games for use in the High School Lounge
 - STEAM kits for hands-on science, tech, and arts learning with your kids
 
 If you have a suggestion for other items we should offer, please let us know. <insert email address or form>
