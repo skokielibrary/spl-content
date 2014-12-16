@@ -30,7 +30,7 @@ Browse our devices and gadgets [link]
 
 ##WiFi
 
-Free WiFi is available througout the building. Simply log on select "Skokie Library" as your wireless connection; no password required. 
+Free WiFi is available througout the library. Simply log on select "Skokie Library" as your wireless connection; no password required. 
 
 ###Wireless Printing
 
