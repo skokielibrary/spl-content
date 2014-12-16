@@ -34,7 +34,7 @@ Free WiFi is available througout the library. Simply log on select "Skokie Libra
 
 ###Wireless Printing
 
-Visit Skokie Public Library's PrintSpot [link] to send print jobs from your laptop or from computers outside the library.
+Visit Skokie Public Library's PrintSpot [link] to send print jobs from your laptop or from computers outside the building.
 
 - Black and white printing costs 10¢ per page. 
 - Retrieve print jobs at the Print Release Stations in the second-floor Computer Commons.
