@@ -4,57 +4,33 @@ title: "Devices & technology (?)"
 published: true
 ---
 
-##Digital Creation
+Want to get creative, do some work, or just relax? Check out one of the many devices and gadgets we have available for loan. Ask at the Technology Help Desk for more details.
 
-These items can can be checked out from the Library for 7 days from the Tech. Help Desk on the 2nd floor.
+##Digital creation
 
 - MP3 recorders
 - Flip Video recorders
-- Lacie and Seagate portable hard drives
-- Tripods
-- Tablet to tripod mounts
-- Camera phone to tripod mounts
-- Canon and Nikon point and shoot cameras
-- GoPro video cameras (image - gif - of somebody wearing a GoPro would be good on this page)
-
-These items can be used in the Library. They are found at the Tech. Help Desk on the 2nd floor and in the Adult Digital Media.
-
+- Tablet/phone tripod mounts
+- point and shoot cameras
+- GoPro video cameras 
 - Scanners
-- Speakers
 - Microphones
 - Electronic Piano Keyboard
 - Digital Drawing tablets
-- VHS to Digial video converter
-- M-Audio Fast Track
-- Electric Drum Set
-- Microphone stands
-- Electric Guitar
-- Headphones (for Digital Media Lab use)
-- Cassette to Digital converter
+- VHS and audiocassette digital converters
+- Electric drum set and electric guitar
 - Blu-ray burner
 
-##STEAM kits
+##Productivity
 
-These items can can be checked out from the Library for 7 days from the Youth Services Desk on the 1st floor wiht a Skokie Library card.
+- Laptops for in-library use
+- portable hard drives
 
-[image may be helpful as well for many of the STEAM kits as people may not have a reference to understand what they are), these should all be linked to their catalog entries]
+##Entertainment and learning
 
-- Bliptronic 5000 Music Kit
-- Cardboard Construction Kit
-- Digital Microscope Kit
-- Dinosaur Fossil Kit
-- Engineering: Dunk Tank Kit
-- Engineering: Parade Float Kit
-- Engineering: Spinning Machine Kit
-- Getting to Know Birds Kit
-- Hand Crank Static Electricity Generator Kit
-- Hapi Min Drum: C Major Music Kit
-- How a Tree Grows Kit
-- Human Skeleton X-ray Kit
-- Jumbie Jam Steel Drum Kit
-- Lego Wedo Kits
-- Solar Telescope Kit
-- Take-apart Human Body Kit
-- Telescope Kit
+- Kindles
+- Roku media player
+- Portable DVD players for in-library use
+- STEAM kits for hands-on science, tech, and arts learning with your kids
 
-If you have a suggestion for other items we should check out please let us know. <insert email address or form>
+If you have a suggestion for other items we should offer, please let us know. <insert email address or form>
