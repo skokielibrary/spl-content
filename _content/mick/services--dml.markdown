@@ -4,7 +4,7 @@ title: DML
 published: true
 ---
 
-Our Digital Media Labs were created to help you create music, produce movies, edit photos, digitize tapes, design websites, and much more.
+Our Digital Media Labs were created to help you create music, produce movies, edit photos, digitize tapes, design websites, and let your imagination take you wherever else you want to go.
 
 Technology class calendar [link]
 
