@@ -10,11 +10,9 @@ We have public computers and free WiFi available throughout the building.
 
 ### Computers
 
-Our second-floor Computer Commons and adjacent Computer Classroom offer Internet access, Microsoft Office, scanning stations, and printers. 
+Our second-floor Computer Commons and adjacent Computer Classroom offer Internet access, Microsoft Office, scanning stations, and printers. All you need is a Skokie Public Library card or registered suburban card. Chicago residents may apply for a Computer Use card. These computers are open to anyone in high school or older.
 
-All you need is a Skokie Public Library card or registered suburban card. Chicago residents may apply for a Computer Use card. These computers are open to anyone in high school or older.
-
-We have several computers specifically configured for kids in our Youth Computer Lab and Youth Services department.
+We also have several computers specifically configured for kids in our Youth Computer Lab and Youth Services department.
 
 ### Digital Media Labs
 
@@ -26,13 +24,13 @@ Our Digital Media Labs have software and tools for creating music, editing photo
 
 Skokie Public Library cardholders can borrow laptops to use to use inside the library. Stop by the Technology Help Desk on the second floor to check one out.
 
-We also have a host of other portable gadgets and gizmos available for digital creation, productivity, and entertainment. 
+Love gadgets and gizmos? We loan devices for digital creation, productivity, and entertainment. 
 
 Browse our devices and gadgets [link]
 
 ##WiFi
 
-We have free WiFi througout the building. Simply log on select "Skokie Library" as your wireless connection. No password is required. 
+Free WiFi is available througout the building. Simply log on select "Skokie Library" as your wireless connection; no password required. 
 
 ###Wireless Printing
 
