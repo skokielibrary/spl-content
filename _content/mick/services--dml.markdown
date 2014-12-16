@@ -10,7 +10,7 @@ Technology class calendar [link]
 
 ##Adult Digital Media Lab
 
-This digital studio features four Apple computers featuring iLife, Adobe Creative Suite 6, Final Cut Studio, and more. In addition, we have:
+This digital studio features four Apple computers with iLife, Adobe Creative Suite 6, Final Cut Studio, and more. In addition, we have ...
 
 - microphones and microphone stands
 - headphones
