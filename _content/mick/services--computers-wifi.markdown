@@ -4,10 +4,9 @@ title: "Computers, WiFi"
 published: true
 ---
 
-We have computers and free WiFi throughout the building, plus many devices and gadgets to check out. 
+We have public computers and free WiFi available throughout the building. Stop on by!
 
-You can reserve a computer in advance [Reserve a Computer](computer reservation link)
-[is this something that can be done outside the library?]
+[Reserve a computer](http://reservar.skokielib.org/cire/Login.aspx)
 
 ## Computers for Adults
 
