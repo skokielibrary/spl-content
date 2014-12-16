@@ -28,8 +28,8 @@ Want to get creative, do some work, or just relax? Check out one of the many dev
 
 ##Entertainment and learning
 
-- Kindles pre-loaded with bestselling eBooks
-- Roku media player
+- [Kindles](http://encore.skokielibrary.info/iii/encore/search/C__Skindle__Ff%3Afacetmediatype%3Ar%3Ar%3ADigital%20Devices%3A%3A__Orightresult?lang=eng&suite=beta) pre-loaded with bestselling eBooks
+- [Roku](http://encore.skokielibrary.info/iii/encore/record/C__Rb1807766__Sroku__Orightresult__U__X7?lang=eng&suite=beta) streaming media player
 - portable DVD players for in-library use
 - gaming consoles and games for use in the High School Lounge
 - STEAM kits for hands-on science, tech, and arts learning with your kids
