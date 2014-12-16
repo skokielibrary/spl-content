@@ -28,7 +28,7 @@ Want to get creative, do some work, or just relax? Check out one of the many dev
 
 ##Entertainment and learning
 
-- Kindles
+- Kindles pre-loaded with bestselling eBooks
 - Roku media player
 - portable DVD players for in-library use
 - gaming consoles and games for use in the High School Lounge
