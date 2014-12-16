@@ -4,42 +4,42 @@ title: "Computers, WiFi"
 published: true
 ---
 
-We have public computers and free WiFi available throughout the building. Stop on by!
+We have public computers and free WiFi available throughout the building.
 
 [Reserve a computer](http://reservar.skokielib.org/cire/Login.aspx)
 
-## Computers for Adults
-
 ### Computer Commons & Computer Classroom
 
-Our second-floor Computer Commons and adjacent Computer Classroom have dozens of full-service computers with Internet access and Microsoft Office, scanning stations, and printers. All you need is a Skokie Public Library card or registered suburban card. Chicago residents may apply for a computer-use-only card. These computers are open to anyone in high school or older.
+Our second-floor Computer Commons and adjacent Computer Classroom have computers with Internet access and Microsoft Office, scanning stations, and printers. All you need is a Skokie Public Library card or registered suburban card. Chicago residents may apply for a Computer Use card. These computers are open to anyone in high school or older.
 
 ### Digital Media Lab
 
-The Digital Media Lab has Apple computers and advanced software and tools for creating music, editing photographs and videos, and more. [link to dml page](Learn more about the Digital Media Lab).
+The Digital Media Lab has Apple computers and advanced software and tools for creating music, editing photographs and videos, and more.
 
-### Laptops
+[link to dml page](Learn more about our DMLs).
 
-Skokie Public Library cardholders can borrow laptops to use within the library. Stop by the Technology Help Desk on the second floor to check one out.
+### Laptops, devices and gadgets
+
+Skokie Public Library cardholders can borrow laptops to use to use inside the library. Stop by the Technology Help Desk on the second floor to check one out.
+
+We also have a host of other portable gadgets and gizmos available for digital creation, productivity, and entertainment. 
+
+Browse our devices and gadgets [link]
 
 ## Computers for teens and kids
 
-We also have several computers specifically configured for kids and teens on our first floor:
-
-- High school students with registered library cards can use the suite of Apple computers in our High School Lounge
-- Internet computers for children in kindergarten through 8th grade are available in the Youth Computer Lab; the Youth Digital Media Lab next door has iMacs and specialized software
-- Elsewhere in Youth Services, we have computers and mounted iPads featuring age-appropriate games, homework resources, and apps.
+On the first floor, we also have several computers specifically configured for kids and teens in our High School Digital Media Lab, Youth Computer Lab, and Youth Digital Media Lab.
 
 ##WiFi
 
-We off free wireless internet connection and wireless printing.
+We have free WiFi througout the building. Simply log on select "Skokie Library" as your wireless connection. No password is required. 
 
 ###Wireless Printing
 
-Visit Skokie Public Library's PrintSpot webpage to send print jobs to the Library's printers from a laptop connected to the Library's wireless network or from any computer outside of the Library with an Internet connection.
+Visit Skokie Public Library's PrintSpot [link] to send print jobs from your laptop or from computers outside the library.
 
-- The cost for black and white printing is 10¢ per page. 
+- Black and white printing costs 10¢ per page. 
 - Retrieve print jobs at the Print Release Stations in the second-floor Computer Commons.
 - Unclaimed print jobs will be deleted 4 hours after they're sent.
 - If you plan to use wireless printing regularly, we recommend you download and install the [PrintWhere driver](http://www.printeron.com/services-support/downloads.html).
-- To print an email message or attachment from a mobile device, forward your email to [skokie-adultservices@printspots.com](skokie-adultservices@printspots.com). Youconfirmation email for each message and attachment.
+- To print an email message or attachment from a mobile device, forward your email to [skokie-adultservices@printspots.com](skokie-adultservices@printspots.com). You'll get a confirmation email for each message and attachment.
